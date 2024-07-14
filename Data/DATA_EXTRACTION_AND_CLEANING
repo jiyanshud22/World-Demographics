@@ -1,0 +1,562 @@
+#including required library
+library(rvest)
+library (tidyverse)
+library(dplyr)
+
+#scraping data from website worldometers which contains information of population, fertility rate, 
+#migrants, urban population etc. of all countries.
+world_population <- read_html("https://www.worldometers.info/world-population/population-by-country/")
+world_population_table_list <- world_population %>% html_table()
+world_population_table<-world_population_table_list
+save(world_population_table,file="world_population_table.Rdata")
+
+country_links <- character(length = 234)
+country_links <- world_population %>% html_elements("table.table-striped.table-bordered a") %>% html_attr("href")
+country_links <- paste0("https://www.worldometers.info",country_links)
+country_names <- world_population %>% html_elements("table.table-striped.table-bordered a") %>% html_text()
+
+#cleaning the data : removing the row which contains N.A. in any of its column
+country_links <- country_links[-c(52,104,114,127,129,136,143,154,173,179,199,201:234)]
+country_names <- country_names[-c(52,104,114,127,129,136,143,154,173,179,199,201:234)]
+
+# making lists to store dataset
+tables <- list()
+country_historical_table <- list()
+country_forecast_table <- list()
+country_main_city_table <- list()
+
+len=length(country_links)
+for(i in 1:len){
+  tables[[i]]<- read_html(country_links[i]) %>% html_table() 
+  
+  country_historical_table[[i]] <- matrix(0,nrow = 16, ncol =13) 
+  country_forecast_table[[i]] <- matrix(0,nrow = 6, ncol =13) 
+  
+  country_historical_table[[i]] <- tables[[i]][[2]]
+  country_forecast_table[[i]] <- tables[[i]][[3]]
+  
+}
+
+# we don't have data of main populated cities of countries after 183. 
+for(i in 1:183){
+  country_main_city_table[[i]] <- matrix(0,nrow =70 , ncol =3) 
+  country_main_city_table[[i]] <- tables[[i]][[4]]
+}
+
+# assigning a vector which contains years and as year for all the country dataset is same then we can take one year column of one country.
+year <- country_historical_table[[1]]$Year
+l = length(year)
+
+
+#making data frames of each column of the country_historical_table
+#1.population
+population <- matrix(0,nrow=len, ncol=l)
+for(i in 1:len){
+  population[i,] <- as.numeric(str_remove_all(country_historical_table[[i]]$ Population, "[,]"))
+}
+rownames(population) <- country_names
+colnames(population) <- year
+
+save(population,file="countries_population_data(1955-2023).Rdata")
+
+
+#2.%yearly change
+percentage_yearly_change <- matrix(0,nrow=len, ncol=l)
+for(i in 1:len){
+  percentage_yearly_change[i,] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Yearly %  Change`, "[%]"))
+}
+rownames(percentage_yearly_change) <- country_names
+colnames(percentage_yearly_change) <- year
+save(percentage_yearly_change,file="countries_percentage_yearly_change(1955-2023).Rdata")
+
+#3.yearly change
+yearly_change <- matrix(0,nrow=len, ncol=l)
+for(i in 1:len){
+  yearly_change[i,] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Yearly Change`, "[,]"))
+}
+rownames(yearly_change) <- country_names
+colnames(yearly_change) <- year
+save(yearly_change,file="countries_yearly_change(1955-2023).Rdata")
+
+#4. migration
+migration <- matrix(0,nrow=len, ncol=l)
+for(i in 1:len){
+  migration[i,] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Migrants (net)`, "[,]"))
+}
+rownames(migration) <- country_names
+colnames(migration) <- year
+save(migration,file="countries_migration(1955-2023).Rdata")
+
+# 5. Median Age
+median_age <- matrix(0, nrow = len, ncol = l)
+for (i in 1:len) {
+  median_age[i, ] <- as.numeric(country_historical_table[[i]]$`Median Age`)
+}
+rownames(median_age) <- country_names
+colnames(median_age) <- year
+save(median_age, file = "countries_median_age(1955-2023).Rdata")
+
+#6.Fertility Rate
+fertility_rate <- matrix(0, nrow =len, ncol=l)
+for (i in 1:len) {
+  fertility_rate[i, ] <- as.numeric(country_historical_table[[i]]$`Fertility Rate`)
+}
+rownames(fertility_rate) <- country_names
+colnames(fertility_rate) <- year
+save(fertility_rate, file = "countries_fertility_rate(1955-2023).Rdata")
+
+# 7. Density (P/Km²)
+population_density <- matrix(0, nrow = len, ncol = l)
+for (i in 1:len) {
+  population_density[i, ] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Density (P/Km²)`, "[,]"))
+}
+rownames(population_density) <- country_names
+colnames(population_density) <- year
+save(population_density, file = "countries_population_density(1955-2023).Rdata")
+
+# 8. Urban Population %
+urban_population_percentage <- matrix(0, nrow = len, ncol = l)
+for (i in 1:len) {
+  urban_population_percentage[i, ] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Urban Pop %`, "[%]"))
+}
+rownames(urban_population_percentage) <- country_names
+colnames(urban_population_percentage) <- year
+save(urban_population_percentage, file = "countries_urban_population_percentage(1955-2023).Rdata")
+
+# 9. Urban Population
+urban_population <- matrix(0, nrow = len, ncol = l)
+for (i in 1:len) {
+  urban_population[i, ] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Urban Population`, "[,]"))
+}
+rownames(urban_population) <- country_names
+colnames(urban_population) <- year
+save(urban_population, file = "countries_urban_population(1955-2023).Rdata")
+
+# 10. Country's Share of World Population
+country_share_world_population <- matrix(0, nrow = len, ncol = l)
+for (i in 1:len) {
+  country_share_world_population[i, ] <- as.numeric(str_remove_all(country_historical_table[[i]]$`Country's Share of World Pop`, "[%]"))
+}
+rownames(country_share_world_population) <- country_names
+colnames(country_share_world_population) <- year
+save(country_share_world_population, file = "countries_country_share_world_pop(1955-2023).Rdata")
+
+#11. countries GDP
+GDP <- read_html("https://www.worldometers.info/gdp/gdp-per-capita/") %>% html_table()
+GDP <- GDP[[1]]
+GDP <- GDP[-c(177:190),]
+Country_name <- GDP$Country
+
+GDP_PPP_per_capita <- numeric(length =176)
+GDP_PPP_per_capita <- as.numeric(str_remove_all(GDP$`GDP (PPP)  per capita  (2022)`,"[, $]"))
+
+GDP_nominal_per_capita <- numeric(length =176)
+GDP_nominal_per_capita <- as.numeric(str_remove_all(GDP$`GDP (nominal) per capita (2022)`,"[, $]"))
+
+GDP_vs_World_GDP <- numeric(length =176)
+GDP_vs_World_GDP <- as.numeric(str_remove_all(GDP$`vs. World PPP  GDP per capita ($20,645)`,"[ % ]"))
+GDP_data <- data.frame(Country_name, GDP_PPP_per_capita, GDP_nominal_per_capita, GDP_vs_World_GDP)
+#write_csv(GDP_data,file="GDP_data(2022).csv")
+save(GDP_data, file = "GDP_data(2022).Rdata")
+
+
+#12. countries wealth per adult
+countries_by_wealth_per_adult<-read_html("https://en.wikipedia.org/wiki/List_of_countries_by_wealth_per_adult") %>% html_table 
+countries_by_wealth_per_adult<-countries_by_wealth_per_adult[[2]]
+countries_by_wealth_per_adult<-countries_by_wealth_per_adult[-1,]
+save(countries_by_wealth_per_adult,file="countries_by_wealth_per_adult.Rdata")
+
+
+#13 BMI 
+BMI <- read_html("https://en.wikipedia.org/wiki/List_of_sovereign_states_by_body_mass_index") %>% html_table()
+BMI <- BMI[[1]]
+for(i in 1:196){
+  BMI$Country[i] <- str_remove_all(as.character(BMI[1][[1]][i]),"[* \ ]")
+}
+save(BMI, file="BMI.Rdata")
+
+#14. Obesity_rate
+countries_by_obesity_rate <- read_html("https://en.wikipedia.org/wiki/List_of_countries_by_obesity_rate") %>% html_table()
+countries_by_obesity_rate <- countries_by_obesity_rate[[2]]
+save(countries_by_obesity_rate, file="countries_by_obesity_rate.Rdata")
+
+#15 Average Wage 
+countries_by_average_wage <- read_html("https://en.wikipedia.org/wiki/List_of_countries_by_average_wage") %>% html_table()
+countries_by_annual_average_wage <- countries_by_average_wage[[1]] [-c(30:32,37),]
+countries_by_monthly_average_wage_2020 <- countries_by_average_wage[[2]] 
+save(countries_by_annual_average_wage, file="countries_by_annual_average_wage.Rdata")
+
+#16 Human Development Index
+HDI<-read_html("https://en.wikipedia.org/wiki/Developed_country")%>% html_table()
+HDI<- HDI[[1]]
+HDI<- HDI[,-2]
+save(HDI, file="HDI.Rdata")
+
+#17 Cost of Living
+Cost_of_Living <- read_html("https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2023")%>% html_table()
+Cost_of_Living <- Cost_of_Living[[2]] [,-1]
+save(Cost_of_Living, file="Cost_of_Living.Rdata")
+
+#18 Prices of Toyota Corolla Sedan
+Prices_by_Country_of_Toyota_Corolla_Sedan <- read_html("https://www.numbeo.com/cost-of-living/prices_by_country.jsp?displayCurrency=USD&itemId=206") %>% html_table()
+Prices_by_Country_of_Toyota_Corolla_Sedan <- Prices_by_Country_of_Toyota_Corolla_Sedan[[2]][,-1]
+save(Prices_by_Country_of_Toyota_Corolla_Sedan, file="Prices_of_Toyota_Corolla_Sedan.Rdata")
+
+#19 crimes
+crimes <- read_html("https://www.numbeo.com/crime/rankings_by_country.jsp") %>% html_table()
+crimes <- crimes[[2]][,-1]
+save(crimes, file="crimes.Rdata")
+
+#20 Health care Index
+Health_care_index <- read_html("https://www.numbeo.com/health-care/rankings_by_country.jsp")%>% html_table()
+Health_care_index <- Health_care_index[[2]][,-1]
+save(Health_care_index,file="Health_care_index.Rdata")
+
+#21 Property Price Index 
+Property_prices<- read_html("https://www.numbeo.com/property-investment/rankings_by_country.jsp")%>% html_table()
+Property_prices <- Property_prices[[2]][,-1]
+save(Property_prices,file="Property_prices.Rdata")
+
+#22 pollution index
+pollution_index <- read_html("https://www.numbeo.com/pollution/rankings_by_country.jsp")%>% html_table()
+pollution_index <- pollution_index[[2]][,-1]
+save(pollution_index,file="Pollution_Index.Rdata")
+
+#23 Traffic Index
+Traffic_index <-read_html("https://www.numbeo.com/traffic/rankings_by_country.jsp")%>% html_table() 
+Traffic_index <- Traffic_index[[2]][,-1]
+save(Traffic_index,file="Traffic_index.Rdata")
+
+#24 Rent per month
+Rent_per_month <- read_html("https://www.numbeo.com/cost-of-living/historical-prices-by-country?displayCurrency=USD&year=2022&itemId=27")%>% html_table()
+Rent_per_month <- Rent_per_month[[3]][,-1]
+save(Rent_per_month,file="Rent_per_month.Rdata")
+
+#25 Basic Utilities
+Basic_utilities <- read_html("https://www.numbeo.com/cost-of-living/historical-prices-by-country?displayCurrency=USD&year=2022&itemId=30")%>% html_table()
+Basic_utilities <- Basic_utilities[[3]][,-1]
+save(Basic_utilities, file="Basic_utilities.Rdata")
+
+#26 Average Salary 
+Average_salary <- read_html("https://www.numbeo.com/cost-of-living/historical-prices-by-country?displayCurrency=USD&year=2022&itemId=105")%>% html_table()
+Average_salary <- Average_salary[[3]][,-1]
+save(Average_salary,file="Average_salary.Rdata")
+
+#27 Monthly_transportation_charges
+monthly_trasportation_charges <- read_html("https://www.numbeo.com/cost-of-living/historical-prices-by-country?displayCurrency=EUR&year=2022&itemId=20")%>% html_table()
+monthly_trasportation_charges <- monthly_trasportation_charges[[3]][,-1]
+save(monthly_trasportation_charges, file="monthly_transportation_charges.Rdata")
+
+#28 monthly_gym_fee
+gym_fee <- read_html("https://www.numbeo.com/cost-of-living/historical-prices-by-country?displayCurrency=EUR&year=2022&itemId=40") %>% html_table()
+gym_fee<-gym_fee[[3]][,-1]
+save(gym_fee,file="gym_fee.Rdata")
+
+#29 mortality rate
+mortality <- read_csv("deaths-per-year.csv")
+select_vec <- numeric(length=3825)
+select_vec[1:15] <- c(6,11,16,21,26,31,36,41,46,51,56,61,66,71,72)
+for (i in 1:254) {
+  select_vec[(15 * i + 1):(15 * (i + 1))] <- c(6 + 151 * i, 11 + 151 * i, 16 + 151 * i, 21 + 151 * i, 26 + 151 * i, 31 + 151 * i, 36 + 151 * i, 41 + 151 * i, 46 + 151 * i, 51 + 151 * i, 56 + 151 * i, 61 + 151 * i, 66 + 151 * i, 71 + 151 * i, 72 + 151 * i)
+}
+mortality <-mortality[select_vec,] 
+unique(mortality$Entity)
+unique(mortality$Year)
+rows_to_remove <- as.integer(c(15 * (1 + 1/15:2), 15 * (4 + 1/15:5), 15 * (5 + 1/15:6), 15 * (6 + 1/15:7), 15 * (7 + 1/15:8), 15 * (8 + 1/15:9), 15 * (11 + 1/15:12), 15 * (12 + 1/15:13), 15 * (17 + 1/15:18), 15 * (22 + 1/15:23), 15 * (23 + 1/15:24), 15 * (24 + 1/15:25), 15 * (27 + 1/15:28), 15 * (28 + 1/15:29), 15 * (31 + 1/15:32), 15 * (34 + 1/15:35), 15 * (35 + 1/15:36), 15 * (37 + 1/15:38), 15 * (39 + 1/15:43), 15 * (46 + 1/15:47), 15 * (48 + 1/15:49), 15 * (49 + 1/15:50), 15 * (50 + 1/15:51), 15 * (53 + 1/15:54), 15 * (56 + 1/15:57),
+                               15 * (58 + 1/15:63), 15 * (64 + 1/15:69), 15 * (70 + 1/15:71), 15 * (71 + 1/15:72), 15 * (72 + 1/15:73), 15 * (76 + 1/15:77), 15 * (77 + 1/15:78), 15 * (78 + 1/15:79), 15 * (79 + 1/15:80), 15 * (83 + 1/15:84), 15 * (85 + 1/15:91),
+                               15 * (92 + 1/15:93), 15 * (94 + 1/15:98), 15 * (105 + 1/15:106), 15 * (110 + 1/15:111), 15 * (114 + 1/15:117), 15 * (118 + 1/15:119), 15 * (120 + 1/15:121), 15 * (122 + 1/15:123), 15 * (124 + 1/15:134), 15 * (135 + 1/15:137), 15 * (141 + 1/15:145), 15 * (146 + 1/15:147), 15 * (148 + 1/15:151),
+                               15 * (153 + 1/15:154), 15 * (154 + 1/15:155), 15 * (159 + 1/15:160), 15 * (162 + 1/15:163), 15 * (164 + 1/15:165), 15 * (167 + 1/15:168), 15 * (169 + 1/15:172), 15 * (173 + 1/15:174), 15 * (174 + 1/15:175), 15 * (176 + 1/15:177), 15 * (178 + 1/15:179), 15 * (180 + 1/15:181), 15 * (185 + 1/15:188), 15 * (190 + 1/15:201), 15 * (202 + 1/15:203), 15 * (204 + 1/15:208), 15 * (209 + 1/15:212), 15 * (215 + 1/15:216), 15 * (219 + 1/15:220), 15 * (225 + 1/15:226), 15 * (227 + 1/15:228),
+                               15 * (228 + 1/15:229), 15 * (239 + 1/15:230), 15 * (230 + 1/15:231), 15 * (234 + 1/15:235), 15 * (235 + 1/15:236), 15 * (241 + 1/15:244), 15 * (245 + 1/15:248), 15 * (249 + 1/15:252), 15 * (253 + 1/15:254), 15 * (255 + 1/15:256)))
+
+# Remove the specified rows
+mortality <- mortality[-rows_to_remove,]
+save(mortality,file="mortality1.Rdata")
+write.csv(mortality, file="mortality1.csv")
+# after that i had to manually collect the data and arrange it in excel the convert in csv file.
+mortality2 <- read.csv("mortality2.csv")
+save(mortality2,file="mortality2.Rdata")
+
+#CLEANING OF DATA
+
+#making function to arrange data
+arrange_all <- function(data, order_by) {
+  data_frame <- as.data.frame(data)  # Convert the matrix to a data frame
+  if (order_by == "Ascending") {
+    data_frame <- data_frame %>% arrange(across(everything()))
+  } else {
+    data_frame <- data_frame %>% arrange(across(everything(), desc))
+  }
+  return(data_frame)
+}
+
+#loading the files created from code line 51 to 253.
+load("Average_salary.Rdata")
+load("Basic_utilities.Rdata")
+load("BMI.Rdata")
+load("Cost_of_Living.Rdata")
+load("countries_by_annual_average_wage.Rdata")
+load("countries_by_obesity_rate.Rdata")
+load("countries_by_wealth_per_adult.Rdata")
+load("countries_country_share_world_pop(1955-2023).Rdata")
+load("countries_fertility_rate(1955-2023).Rdata")
+load("countries_median_age(1955-2023).Rdata")
+load("countries_migration(1955-2023).Rdata")
+load("countries_percentage_yearly_change(1955-2023).Rdata")
+load("countries_population_data(1955-2023).Rdata")
+load("countries_population_density(1955-2023).Rdata")
+load("countries_urban_population_percentage(1955-2023).Rdata")
+load("countries_urban_population(1955-2023).Rdata")
+load("countries_yearly_change(1955-2023).Rdata")
+load("crimes.Rdata")
+load("GDP_data(2022).Rdata")
+load("gym_fee.Rdata")
+load("HDI.Rdata")
+load("Health_care_index.Rdata")
+load("monthly_transportation_charges.Rdata")
+load("Pollution_Index.Rdata")
+load("Prices_of_Toyota_Corolla_Sedan.Rdata")
+load("Property_prices.Rdata")
+load("Rent_per_month.Rdata")
+load("Traffic_index.Rdata")
+load("world_population.Rdata")
+load("mortality2.Rdata")
+#slicing some unimportant countries
+country_names = as.data.frame(country_names)
+country_names_total <- country_names %>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                  124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+save(country_names_total,file="country_names_total.Rdata")
+
+
+population = as.data.frame(population)
+population_total <- population %>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                            124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+percentage_yearly_change = as.data.frame(percentage_yearly_change)
+percentage_yearly_change_total <- percentage_yearly_change %>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                                        124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+yearly_change = as.data.frame(yearly_change)
+yearly_change_total <-yearly_change %>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                 124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+migration = as.data.frame(migration)
+migration_total <- migration %>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                          124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+median_age= as.data.frame(median_age)
+median_age_total <- median_age%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                           124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+fertility_rate= as.data.frame(fertility_rate)
+fertility_rate_total <- fertility_rate%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                   124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+population_density= as.data.frame(population_density)
+population_density_total <- population_density%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                           124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+
+urban_population_percentage= as.data.frame(urban_population_percentage)
+urban_population_percentage_total <- urban_population_percentage%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                                             124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+urban_population= as.data.frame(urban_population)
+urban_population_total <- urban_population%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                       124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+
+country_share_world_population= as.data.frame(country_share_world_population)
+country_share_world_population_total <- country_share_world_population%>% slice(-c(15,22,42,50:52,58,62,66,67,69,70,75:77,80,83,85,87,98,101,104:106,110,114,117,121,123,
+                                                                                   124,126,129,130,131,135,136,139:143,145:148,151:153,155,158,159,162:165,169,171:176,178:189))
+#arrangpng data
+a1 <- matrix(0,nrow=115,ncol=16 )
+a2 <- matrix(0,nrow =115,ncol = 16 )
+a3 <- matrix(0,nrow= 115,ncol = 16 )
+a4 <- matrix(0,nrow = 115,ncol = 16 )
+a5 <- matrix(0,nrow = 115,ncol = 16 )
+a6 <- matrix(0,nrow =115,ncol = 16 )
+a7 <- matrix(0,nrow =115,ncol = 16 )
+a8 <- matrix(0,nrow= 115,ncol = 16 )
+a9 <- matrix(0,nrow= 115,ncol = 16 )
+a10 <- matrix(0,nrow= 115,ncol = 16 ) 
+a11 <- matrix(0,nrow= 115,ncol = 16 ) 
+
+for(p in 1:16)   
+{for(q in 1:115)
+{
+  a1[q,p] <- population_total[q,p]
+  a2[q,p] <- fertility_rate_total[q,p] 
+  a3[q,p] <- urban_population_total[q,p]
+  a4[q,p] <- yearly_change_total[q,p]
+  a5[q,p] <- migration_total[q,p] 
+  a6[q,p] <- percentage_yearly_change_total[q,p]
+  a7[q,p] <- median_age_total[q,p] 
+  a8[q,p] <- population_density_total[q,p]
+  a9[q,p] <- urban_population_total[q,p]
+  a10[q,p]<- urban_population_percentage_total[q,p]
+  a11[q,p]<- country_share_world_population_total[q,p]
+}}
+
+a <- array(0,dim =c(115,11,16))
+for(p in 1:16)   
+{for(q in 1:115)
+{
+  a[q,1,p] <- population_total[q,p]
+  a[q,2,p] <- fertility_rate_total[q,p] 
+  a[q,3,p] <- urban_population_total[q,p]
+  a[q,4,p] <- yearly_change_total[q,p]
+  a[q,5,p] <- migration_total[q,p] 
+  a[q,6,p] <- percentage_yearly_change_total[q,p]
+  a[q,7,p] <- median_age_total[q,p] 
+  a[q,8,p] <- population_density_total[q,p]
+  a[q,9,p] <- urban_population_total[q,p]
+  a[q,10,p]<- urban_population_percentage_total[q,p]
+  a[q,11,p] <- country_share_world_population_total[q,p]
+}}
+
+dat <- matrix(NA, nrow=1840, ncol = 16*9)
+
+for(x in 1:16)
+{ 
+  dat[,9*x-8] <- population_total[,x]/ sd(population_total[,x])
+  dat[,9*x-7] <- fertility_rate_total[,x]/ sd(fertility_rate_total[,x]) 
+  dat[,9*x-6] <- urban_population_total[,x]/ sd(urban_population_total[,x])
+  dat[,9*x-5] <- yearly_change_total[,x]/ sd(yearly_change_total[,x])
+  dat[,9*x-4] <- migration_total[,x]/ sd(migration_total[,x])
+  dat[,9*x-3] <- median_age_total[,x] / sd(median_age_total[,x])
+  dat[,9*x-2] <- population_density_total[,x]/ sd(population_density_total[ ,x])
+  dat[,9*x-1]<- urban_population_percentage_total[,x]/ sd(urban_population_percentage_total[,x])
+  dat[,9*x] <- country_share_world_population_total[,x]/sd(country_share_world_population_total[,x])
+}
+
+
+Final_data <- data.frame(country_names_total,dat)
+colnames(Final_data) <- c("population","fertility","Urban Population","Yearly Population Change ","Migration", 
+                          "Median Age","Population Density", "Urban Population Percentage","Percentage of World Population")
+m = vector(mode="character",length = 145)
+m[1] = "Country"
+for(p in 1:2)
+{ 
+  y = as.character(2024 - p)
+  n = paste("population",y,sep = "")
+  m[9*(p-1)+2]= n
+  n = paste("fertility rate",y,sep = "")
+  m[9*(p-1)+3]= n
+  n= paste("urban population",y, sep = "")
+  m[9*(p-1)+4] = n
+  n= paste("yearly population change",y,sep = "")
+  m[9*(p-1)+5] = n
+  n= paste("migration",y,sep = "")
+  m[9*(p-1)+6] = n
+  n= paste("Median Age",y,sep ="")
+  m[9*(p-1)+7] = n
+  n= paste("population density",y,sep ="")
+  m[9*(p-1)+8] = n
+  n= paste("percentage urban population",y,sep ="")
+  m[9*(p-1)+9] = n
+  n= paste("Percentage Share of world population",y,sep ="")
+  m[9*(p-1)+10] = n
+}
+
+for(p in 1:14)
+{ 
+  y = as.character(2025 - 5*p)
+  n = paste("population",y,sep = "")
+  m[9*(p-1)+19+1]= n
+  n = paste("fertility rate",y,sep = "")
+  m[9*(p-1)+20+1]= n
+  n= paste("urban population",y, sep = "")
+  m[9*(p-1)+21+1] = n
+  n= paste("yearly population change",y,sep = "")
+  m[9*(p-1)+22+1] = n
+  n= paste("migration",y,sep = "")
+  m[9*(p-1)+23+1] = n
+  n= paste("median_age_total",y,sep ="")
+  m[9*(p-1)+24+1] = n
+  n= paste("population density",y,sep ="")
+  m[9*(p-1)+25+1] = n
+  n= paste("percentage urban population",y,sep ="")
+  m[9*(p-1)+26+1] = n
+  n= paste("Percentage Share of world population",y,sep ="")
+  m[9*(p-1)+27+1] = n
+}
+
+colnames(Final_data) <- m
+
+coun <- vector(mode="character", length=  1840)
+for(p in 1:115)
+{
+  for(q in (16*(p - 1) + 1):(16*p))
+  { k = as.character(country_names_total[p,1])
+  coun[q] = k
+  }
+}
+
+count = 1
+year = vector(mode="integer", length =  1840)
+b = vector(length=2)
+b[1] = 2023
+b[2] = 2022
+l = seq(2020,1955,by=-5)
+kl = c(b,l)
+for(p in 1:115)
+{ 
+  for(q in 1:16){ 
+    year[q] = k[count]
+    count = count + 1
+    
+  }
+}
+
+year = vector(mode="numeric",length= 1840)
+for(i in 115)
+{
+  year[1:16] = kl
+}
+
+
+c = 1
+dat <- matrix(NA, nrow =  1840, ncol = 9)
+for(p in 1:115)
+{
+  c = 1
+  for(q in (16*(p - 1) + 1):(16*p))
+  { 
+    dat[q,1] <- population_total[p,c]/sd(population_total[,c])
+    dat[q,2] <- fertility_rate_total[p,c] /sd(fertility_rate_total[,c])
+    dat[q,3] <- urban_population_total[p,c]/sd(urban_population_total[,c])
+    dat[q,4] <- yearly_change_total[p,c]/sd(yearly_change_total[,c])
+    dat[q,5] <- migration_total[p,c] /sd(migration_total[,c])
+    dat[q,6] <- median_age_total[p,c]/sd(median_age_total[,c]) 
+    dat[q,7] <- population_density_total[p,c]/sd(population_density_total[,c])
+    dat[q,8] <- urban_population_percentage_total[p,c]/sd(urban_population_percentage_total[,c])
+    dat[q,9]<- country_share_world_population_total[p,c]/sd(country_share_world_population_total[,c])
+    c = c + 1
+  }
+}
+
+
+mortality_normalised <- numeric(length=115*16)
+for(i in 1:16){
+  mortality_normalised[seq(1*i,115*16,by=16)] <- (mortality2[seq(1*i,115*16,by=16),4]/population_total[,i])/sd(mortality2[seq(1*i,115*16,by=16),4]/population_total[,i])
+  }
+
+Combined_data <- cbind(coun,kl,dat,mortality_normalised)
+colnames(Combined_data) <- c("Country","Year","population","fertility","Urban Population","Yearly Population Change ","Migration", 
+                     "Median Age","Population Density", "Urban Population Percentage","Percentage of World Population","Mortality Rate")
+
+colsn <-  c("Country","population","fertility","Urban Population","Yearly Population Change ","Migration", 
+            "Median Age","Population Density", "Urban Population Percentage","Percentage of World Population","Mortality Rate")
+
+Combined_data <- as.data.frame(Combined_data)
+
+Combined_data$population <- as.numeric(Combined_data$population)
+Combined_data$fertility <- as.numeric(Combined_data$fertility)
+Combined_data$`Urban Population` <- as.numeric(Combined_data$`Urban Population`)
+Combined_data$`Yearly Population Change ` <- as.numeric(Combined_data$`Yearly Population Change `)
+Combined_data$`Migration` <- as.numeric(Combined_data$`Migration`)
+Combined_data$`Median Age` <- as.numeric(Combined_data$`Median Age`)
+Combined_data$`Population Density` <- as.numeric(Combined_data$`Population Density`)
+Combined_data$`Urban Population Percentage` <- as.numeric(Combined_data$`Urban Population Percentage`)
+Combined_data$`Percentage of World Population`<- as.numeric(Combined_data$`Percentage of World Population`)
+Combined_data$`Mortality Rate` <- as.numeric(Combined_data$`Mortality Rate`)
+save(Combined_data,file = "Combined_data.Rdata")

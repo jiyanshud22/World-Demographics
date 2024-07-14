@@ -1,0 +1,3667 @@
+"","Entity","Code","Year","Deaths - Sex: all - Age: all - Variant: estimates","Deaths - Sex: all - Age: all - Variant: medium"
+"1","Afghanistan","AFG",1955,277695,NA
+"2","Afghanistan","AFG",1960,275239,NA
+"3","Afghanistan","AFG",1965,281003,NA
+"4","Afghanistan","AFG",1970,288979,NA
+"5","Afghanistan","AFG",1975,295301,NA
+"6","Afghanistan","AFG",1980,316937,NA
+"7","Afghanistan","AFG",1985,314987,NA
+"8","Afghanistan","AFG",1990,203514,NA
+"9","Afghanistan","AFG",1995,230943,NA
+"10","Afghanistan","AFG",2000,242535,NA
+"11","Afghanistan","AFG",2005,241454,NA
+"12","Afghanistan","AFG",2010,233308,NA
+"13","Afghanistan","AFG",2015,248560,NA
+"14","Afghanistan","AFG",2020,276683,NA
+"15","Afghanistan","AFG",2021,295236,NA
+"16","Africa (UN)",NA,1970,7384342,NA
+"17","Africa (UN)",NA,1980,7986043,NA
+"18","Africa (UN)",NA,1990,9278030,NA
+"19","Africa (UN)",NA,1995,10080149,NA
+"20","Africa (UN)",NA,2000,10614270,NA
+"21","Africa (UN)",NA,2005,10866028,NA
+"22","Africa (UN)",NA,2010,10652256,NA
+"23","Africa (UN)",NA,2015,10646590,NA
+"24","Africa (UN)",NA,2020,11390416,NA
+"25","Africa (UN)",NA,2021,12038022,NA
+"26","Albania","ALB",1955,30230,NA
+"27","Albania","ALB",1960,28400,NA
+"28","Albania","ALB",1965,24313,NA
+"29","Albania","ALB",1970,20896,NA
+"30","Albania","ALB",1975,18898,NA
+"31","Albania","ALB",1980,17822,NA
+"32","Albania","ALB",1985,18453,NA
+"33","Albania","ALB",1990,18349,NA
+"34","Albania","ALB",1995,18402,NA
+"35","Albania","ALB",2000,18628,NA
+"36","Albania","ALB",2005,19280,NA
+"37","Albania","ALB",2010,20583,NA
+"38","Albania","ALB",2015,22954,NA
+"39","Albania","ALB",2020,30970,NA
+"40","Albania","ALB",2021,32392,NA
+"41","Algeria","DZA",1955,249176,NA
+"42","Algeria","DZA",1960,271718,NA
+"43","Algeria","DZA",1965,287369,NA
+"44","Algeria","DZA",1970,302337,NA
+"45","Algeria","DZA",1975,281063,NA
+"46","Algeria","DZA",1980,254416,NA
+"47","Algeria","DZA",1985,167522,NA
+"48","Algeria","DZA",1990,146283,NA
+"49","Algeria","DZA",1995,162008,NA
+"50","Algeria","DZA",2000,155079,NA
+"51","Algeria","DZA",2005,163225,NA
+"52","Algeria","DZA",2010,170579,NA
+"53","Algeria","DZA",2015,175550,NA
+"54","Algeria","DZA",2020,234547,NA
+"55","Algeria","DZA",2021,200842,NA
+"56","American Samoa","ASM",1970,152,NA
+"57","American Samoa","ASM",1975,155,NA
+"58","American Samoa","ASM",1980,163,NA
+"59","American Samoa","ASM",1985,185,NA
+"60","American Samoa","ASM",1990,235,NA
+"61","American Samoa","ASM",1995,239,NA
+"62","American Samoa","ASM",2000,262,NA
+"63","American Samoa","ASM",2005,258,NA
+"64","American Samoa","ASM",2010,276,NA
+"65","American Samoa","ASM",2015,285,NA
+"66","American Samoa","ASM",2020,310,NA
+"67","American Samoa","ASM",2021,311,NA
+"68","Andorra","AND",1965,76,NA
+"69","Andorra","AND",1970,93,NA
+"70","Andorra","AND",1975,119,NA
+"71","Andorra","AND",1980,148,NA
+"72","Andorra","AND",1985,206,NA
+"73","Andorra","AND",1990,289,NA
+"74","Andorra","AND",1995,387,NA
+"75","Andorra","AND",2000,442,NA
+"76","Andorra","AND",2005,524,NA
+"77","Andorra","AND",2010,400,NA
+"78","Andorra","AND",2015,424,NA
+"79","Andorra","AND",2020,699,NA
+"80","Andorra","AND",2021,642,NA
+"81","Angola","AGO",1965,151491,NA
+"82","Angola","AGO",1970,147634,NA
+"83","Angola","AGO",1975,160539,NA
+"84","Angola","AGO",1980,180325,NA
+"85","Angola","AGO",1985,214612,NA
+"86","Angola","AGO",1990,259679,NA
+"87","Angola","AGO",1995,261584,NA
+"88","Angola","AGO",2000,299381,NA
+"89","Angola","AGO",2005,281595,NA
+"90","Angola","AGO",2010,260700,NA
+"91","Angola","AGO",2015,247967,NA
+"92","Angola","AGO",2020,261489,NA
+"93","Angola","AGO",2021,276278,NA
+"94","Anguilla","AIA",1960,83,NA
+"95","Anguilla","AIA",1965,73,NA
+"96","Anguilla","AIA",1970,67,NA
+"97","Anguilla","AIA",1975,65,NA
+"98","Anguilla","AIA",1980,64,NA
+"99","Anguilla","AIA",1985,68,NA
+"100","Anguilla","AIA",1990,70,NA
+"101","Anguilla","AIA",1995,67,NA
+"102","Anguilla","AIA",2000,65,NA
+"103","Anguilla","AIA",2005,67,NA
+"104","Anguilla","AIA",2010,69,NA
+"105","Anguilla","AIA",2015,81,NA
+"106","Anguilla","AIA",2020,99,NA
+"107","Anguilla","AIA",2021,106,NA
+"108","Antigua and Barbuda","ATG",1960,531,NA
+"109","Antigua and Barbuda","ATG",1965,452,NA
+"110","Antigua and Barbuda","ATG",1970,379,NA
+"111","Antigua and Barbuda","ATG",1975,382,NA
+"112","Antigua and Barbuda","ATG",1980,415,NA
+"113","Antigua and Barbuda","ATG",1985,464,NA
+"114","Antigua and Barbuda","ATG",1990,490,NA
+"115","Antigua and Barbuda","ATG",1995,505,NA
+"116","Antigua and Barbuda","ATG",2000,494,NA
+"117","Antigua and Barbuda","ATG",2005,480,NA
+"118","Antigua and Barbuda","ATG",2010,487,NA
+"119","Antigua and Barbuda","ATG",2015,508,NA
+"120","Antigua and Barbuda","ATG",2020,552,NA
+"121","Antigua and Barbuda","ATG",2021,593,NA
+"122","Argentina","ARG",1955,173020,NA
+"123","Argentina","ARG",1960,179885,NA
+"124","Argentina","ARG",1965,199699,NA
+"125","Argentina","ARG",1970,218037,NA
+"126","Argentina","ARG",1975,232513,NA
+"127","Argentina","ARG",1980,244455,NA
+"128","Argentina","ARG",1985,258730,NA
+"129","Argentina","ARG",1990,252741,NA
+"130","Argentina","ARG",1995,263363,NA
+"131","Argentina","ARG",2000,281810,NA
+"132","Argentina","ARG",2005,290130,NA
+"133","Argentina","ARG",2010,314899,NA
+"134","Argentina","ARG",2015,326265,NA
+"135","Argentina","ARG",2020,383131,NA
+"136","Argentina","ARG",2021,405428,NA
+"137","Armenia","ARM",1955,21166,NA
+"138","Armenia","ARM",1960,23160,NA
+"139","Armenia","ARM",1965,21915,NA
+"140","Armenia","ARM",1970,21441,NA
+"141","Armenia","ARM",1975,22668,NA
+"142","Armenia","ARM",1980,24554,NA
+"143","Armenia","ARM",1985,25191,NA
+"144","Armenia","ARM",1990,26756,NA
+"145","Armenia","ARM",1995,26667,NA
+"146","Armenia","ARM",2000,26411,NA
+"147","Armenia","ARM",2005,27303,NA
+"148","Armenia","ARM",2010,27794,NA
+"149","Armenia","ARM",2015,27774,NA
+"150","Armenia","ARM",2020,35963,NA
+"151","Armenia","ARM",2021,36379,NA
+"152","Aruba","ABW",1960,360,NA
+"153","Aruba","ABW",1965,368,NA
+"154","Aruba","ABW",1970,351,NA
+"155","Aruba","ABW",1975,347,NA
+"156","Aruba","ABW",1980,380,NA
+"157","Aruba","ABW",1985,421,NA
+"158","Aruba","ABW",1990,463,NA
+"159","Aruba","ABW",1995,486,NA
+"160","Aruba","ABW",2000,560,NA
+"161","Aruba","ABW",2005,644,NA
+"162","Aruba","ABW",2010,675,NA
+"163","Aruba","ABW",2015,830,NA
+"164","Aruba","ABW",2020,1032,NA
+"165","Aruba","ABW",2021,1194,NA
+"166","Asia (UN)",NA,1960,37750030,NA
+"167","Asia (UN)",NA,1965,30454046,NA
+"168","Asia (UN)",NA,1970,29273266,NA
+"169","Asia (UN)",NA,1975,27668036,NA
+"170","Asia (UN)",NA,1980,26530844,NA
+"171","Asia (UN)",NA,1985,26651356,NA
+"172","Asia (UN)",NA,1990,27124774,NA
+"173","Asia (UN)",NA,1995,26930792,NA
+"174","Asia (UN)",NA,2000,27090732,NA
+"175","Asia (UN)",NA,2005,27647110,NA
+"176","Asia (UN)",NA,2010,28900242,NA
+"177","Asia (UN)",NA,2015,29933580,NA
+"178","Asia (UN)",NA,2020,33775732,NA
+"179","Asia (UN)",NA,2021,38150400,NA
+"180","Australia","AUS",1955,81870,NA
+"181","Australia","AUS",1960,88303,NA
+"182","Australia","AUS",1965,100081,NA
+"183","Australia","AUS",1970,112806,NA
+"184","Australia","AUS",1975,108707,NA
+"185","Australia","AUS",1980,108144,NA
+"186","Australia","AUS",1985,117607,NA
+"187","Australia","AUS",1990,118778,NA
+"188","Australia","AUS",1995,125081,NA
+"189","Australia","AUS",2000,128647,NA
+"190","Australia","AUS",2005,131515,NA
+"191","Australia","AUS",2010,142544,NA
+"192","Australia","AUS",2015,157076,NA
+"193","Australia","AUS",2020,162601,NA
+"194","Australia","AUS",2021,166082,NA
+"195","Austria","AUT",1955,85146,NA
+"196","Austria","AUT",1960,89658,NA
+"197","Austria","AUT",1965,94213,NA
+"198","Austria","AUT",1970,98757,NA
+"199","Austria","AUT",1975,96106,NA
+"200","Austria","AUT",1980,92469,NA
+"201","Austria","AUT",1985,89636,NA
+"202","Austria","AUT",1990,82940,NA
+"203","Austria","AUT",1995,81193,NA
+"204","Austria","AUT",2000,76836,NA
+"205","Austria","AUT",2005,75138,NA
+"206","Austria","AUT",2010,77136,NA
+"207","Austria","AUT",2015,83022,NA
+"208","Austria","AUT",2020,90324,NA
+"209","Austria","AUT",2021,89691,NA
+"210","Azerbaijan","AZE",1955,57797,NA
+"211","Azerbaijan","AZE",1960,61699,NA
+"212","Azerbaijan","AZE",1965,59887,NA
+"213","Azerbaijan","AZE",1970,55635,NA
+"214","Azerbaijan","AZE",1975,54781,NA
+"215","Azerbaijan","AZE",1980,62511,NA
+"216","Azerbaijan","AZE",1985,67333,NA
+"217","Azerbaijan","AZE",1990,71512,NA
+"218","Azerbaijan","AZE",1995,72552,NA
+"219","Azerbaijan","AZE",2000,63647,NA
+"220","Azerbaijan","AZE",2005,63555,NA
+"221","Azerbaijan","AZE",2010,66211,NA
+"222","Azerbaijan","AZE",2015,66978,NA
+"223","Azerbaijan","AZE",2020,110160,NA
+"224","Azerbaijan","AZE",2021,94932,NA
+"225","Bahamas","BHS",1955,893,NA
+"226","Bahamas","BHS",1960,947,NA
+"227","Bahamas","BHS",1965,1039,NA
+"228","Bahamas","BHS",1970,1184,NA
+"229","Bahamas","BHS",1975,1236,NA
+"230","Bahamas","BHS",1980,1422,NA
+"231","Bahamas","BHS",1985,1473,NA
+"232","Bahamas","BHS",1990,1584,NA
+"233","Bahamas","BHS",1995,1769,NA
+"234","Bahamas","BHS",2000,1852,NA
+"235","Bahamas","BHS",2005,2021,NA
+"236","Bahamas","BHS",2010,2332,NA
+"237","Bahamas","BHS",2015,2636,NA
+"238","Bahamas","BHS",2020,3283,NA
+"239","Bahrain","BHR",1960,2573,NA
+"240","Bahrain","BHR",1965,1939,NA
+"241","Bahrain","BHR",1970,1540,NA
+"242","Bahrain","BHR",1975,1392,NA
+"243","Bahrain","BHR",1980,1381,NA
+"244","Bahrain","BHR",1985,1476,NA
+"245","Bahrain","BHR",1990,1651,NA
+"246","Bahrain","BHR",1995,1763,NA
+"247","Bahrain","BHR",2000,1838,NA
+"248","Bahrain","BHR",2005,2021,NA
+"249","Bahrain","BHR",2010,2302,NA
+"250","Bahrain","BHR",2015,2842,NA
+"251","Bahrain","BHR",2020,3362,NA
+"252","Bahrain","BHR",2021,3638,NA
+"253","Bangladesh","BGD",1955,1043891,NA
+"254","Bangladesh","BGD",1960,1069699,NA
+"255","Bangladesh","BGD",1965,1129838,NA
+"256","Bangladesh","BGD",1970,1508695,NA
+"257","Bangladesh","BGD",1975,1246441,NA
+"258","Bangladesh","BGD",1980,1313211,NA
+"259","Bangladesh","BGD",1985,1316506,NA
+"260","Bangladesh","BGD",1990,1257445,NA
+"261","Bangladesh","BGD",1995,1120364,NA
+"262","Bangladesh","BGD",2000,887066,NA
+"263","Bangladesh","BGD",2005,907531,NA
+"264","Bangladesh","BGD",2010,907362,NA
+"265","Bangladesh","BGD",2015,912490,NA
+"266","Bangladesh","BGD",2020,973853,NA
+"267","Bangladesh","BGD",2021,962479,NA
+"268","Barbados","BRB",1955,2716,NA
+"269","Barbados","BRB",1960,2222,NA
+"270","Barbados","BRB",1965,2015,NA
+"271","Barbados","BRB",1970,2082,NA
+"272","Barbados","BRB",1975,2101,NA
+"273","Barbados","BRB",1980,2080,NA
+"274","Barbados","BRB",1985,2339,NA
+"275","Barbados","BRB",1990,2518,NA
+"276","Barbados","BRB",1995,2591,NA
+"277","Barbados","BRB",2000,2509,NA
+"278","Barbados","BRB",2005,2485,NA
+"279","Barbados","BRB",2010,2482,NA
+"280","Barbados","BRB",2015,2440,NA
+"281","Barbados","BRB",2020,2519,NA
+"282","Barbados","BRB",2021,2533,NA
+"283","Belarus","BLR",1955,86190,NA
+"284","Belarus","BLR",1960,65165,NA
+"285","Belarus","BLR",1965,65200,NA
+"286","Belarus","BLR",1970,72768,NA
+"287","Belarus","BLR",1975,83110,NA
+"288","Belarus","BLR",1980,96004,NA
+"289","Belarus","BLR",1985,107721,NA
+"290","Belarus","BLR",1990,117128,NA
+"291","Belarus","BLR",1995,131378,NA
+"292","Belarus","BLR",2000,138003,NA
+"293","Belarus","BLR",2005,148151,NA
+"294","Belarus","BLR",2010,144325,NA
+"295","Belarus","BLR",2015,127107,NA
+"296","Belarus","BLR",2020,159349,NA
+"297","Belarus","BLR",2021,158349,NA
+"298","Belgium","BEL",1955,108704,NA
+"299","Belgium","BEL",1960,114030,NA
+"300","Belgium","BEL",1965,115216,NA
+"301","Belgium","BEL",1970,118888,NA
+"302","Belgium","BEL",1975,119536,NA
+"303","Belgium","BEL",1980,113796,NA
+"304","Belgium","BEL",1985,111917,NA
+"305","Belgium","BEL",1990,104342,NA
+"306","Belgium","BEL",1995,105084,NA
+"307","Belgium","BEL",2000,105330,NA
+"308","Belgium","BEL",2005,103473,NA
+"309","Belgium","BEL",2010,105369,NA
+"310","Belgium","BEL",2015,110843,NA
+"311","Belgium","BEL",2020,127440,NA
+"312","Belize","BLZ",1960,1131,NA
+"313","Belize","BLZ",1965,1131,NA
+"314","Belize","BLZ",1970,1084,NA
+"315","Belize","BLZ",1975,1035,NA
+"316","Belize","BLZ",1980,1034,NA
+"317","Belize","BLZ",1985,1014,NA
+"318","Belize","BLZ",1990,1020,NA
+"319","Belize","BLZ",1995,1109,NA
+"320","Belize","BLZ",2000,1404,NA
+"321","Belize","BLZ",2005,1538,NA
+"322","Belize","BLZ",2010,1497,NA
+"323","Belize","BLZ",2015,1688,NA
+"324","Belize","BLZ",2020,2071,NA
+"325","Benin","BEN",1960,71600,NA
+"326","Benin","BEN",1965,72389,NA
+"327","Benin","BEN",1970,72957,NA
+"328","Benin","BEN",1975,72937,NA
+"329","Benin","BEN",1980,72619,NA
+"330","Benin","BEN",1985,75001,NA
+"331","Benin","BEN",1990,75736,NA
+"332","Benin","BEN",1995,80065,NA
+"333","Benin","BEN",2000,83716,NA
+"334","Benin","BEN",2005,92233,NA
+"335","Benin","BEN",2010,98809,NA
+"336","Benin","BEN",2015,107775,NA
+"337","Benin","BEN",2020,118400,NA
+"338","Bermuda","BMU",1960,349,NA
+"339","Bermuda","BMU",1965,370,NA
+"340","Bermuda","BMU",1970,383,NA
+"341","Bermuda","BMU",1975,350,NA
+"342","Bermuda","BMU",1980,370,NA
+"343","Bermuda","BMU",1985,426,NA
+"344","Bermuda","BMU",1990,423,NA
+"345","Bermuda","BMU",1995,409,NA
+"346","Bermuda","BMU",2000,374,NA
+"347","Bermuda","BMU",2005,493,NA
+"348","Bermuda","BMU",2010,429,NA
+"349","Bermuda","BMU",2015,500,NA
+"350","Bermuda","BMU",2020,591,NA
+"351","Bermuda","BMU",2021,689,NA
+"352","Bhutan","BTN",1955,6209,NA
+"353","Bhutan","BTN",1960,6577,NA
+"354","Bhutan","BTN",1965,6903,NA
+"355","Bhutan","BTN",1970,7029,NA
+"356","Bhutan","BTN",1975,7001,NA
+"357","Bhutan","BTN",1980,6930,NA
+"358","Bhutan","BTN",1985,6749,NA
+"359","Bhutan","BTN",1990,6452,NA
+"360","Bhutan","BTN",1995,5047,NA
+"361","Bhutan","BTN",2000,4887,NA
+"362","Bhutan","BTN",2005,4951,NA
+"363","Bhutan","BTN",2010,4808,NA
+"364","Bhutan","BTN",2015,5028,NA
+"365","Bhutan","BTN",2020,5055,NA
+"366","Bhutan","BTN",2021,5035,NA
+"367","Bolivia","BOL",1955,82129,NA
+"368","Bolivia","BOL",1960,85203,NA
+"369","Bolivia","BOL",1965,87335,NA
+"370","Bolivia","BOL",1970,88623,NA
+"371","Bolivia","BOL",1975,89002,NA
+"372","Bolivia","BOL",1980,88850,NA
+"373","Bolivia","BOL",1985,88150,NA
+"374","Bolivia","BOL",1990,84760,NA
+"375","Bolivia","BOL",1995,83440,NA
+"376","Bolivia","BOL",2000,84517,NA
+"377","Bolivia","BOL",2005,80281,NA
+"378","Bolivia","BOL",2010,78359,NA
+"379","Bolivia","BOL",2015,80069,NA
+"380","Bolivia","BOL",2020,111027,NA
+"381","Bonaire Sint Eustatius and Saba","BES",1960,96,NA
+"382","Bonaire Sint Eustatius and Saba","BES",1965,97,NA
+"383","Bonaire Sint Eustatius and Saba","BES",1970,80,NA
+"384","Bonaire Sint Eustatius and Saba","BES",1975,92,NA
+"385","Bonaire Sint Eustatius and Saba","BES",1980,124,NA
+"386","Bonaire Sint Eustatius and Saba","BES",1985,117,NA
+"387","Bonaire Sint Eustatius and Saba","BES",1990,114,NA
+"388","Bonaire Sint Eustatius and Saba","BES",1995,96,NA
+"389","Bonaire Sint Eustatius and Saba","BES",2000,95,NA
+"390","Bonaire Sint Eustatius and Saba","BES",2005,106,NA
+"391","Bonaire Sint Eustatius and Saba","BES",2010,138,NA
+"392","Bonaire Sint Eustatius and Saba","BES",2015,153,NA
+"393","Bonaire Sint Eustatius and Saba","BES",2020,239,NA
+"394","Bosnia and Herzegovina","BIH",1960,31164,NA
+"395","Bosnia and Herzegovina","BIH",1965,27706,NA
+"396","Bosnia and Herzegovina","BIH",1970,27065,NA
+"397","Bosnia and Herzegovina","BIH",1975,26254,NA
+"398","Bosnia and Herzegovina","BIH",1980,28666,NA
+"399","Bosnia and Herzegovina","BIH",1985,33397,NA
+"400","Bosnia and Herzegovina","BIH",1990,33240,NA
+"401","Bosnia and Herzegovina","BIH",1995,35787,NA
+"402","Bosnia and Herzegovina","BIH",2000,34891,NA
+"403","Bosnia and Herzegovina","BIH",2005,38009,NA
+"404","Bosnia and Herzegovina","BIH",2010,36518,NA
+"405","Bosnia and Herzegovina","BIH",2015,42532,NA
+"406","Bosnia and Herzegovina","BIH",2020,46952,NA
+"407","Bosnia and Herzegovina","BIH",2021,51587,NA
+"408","Botswana","BWA",1955,8719,NA
+"409","Botswana","BWA",1960,8638,NA
+"410","Botswana","BWA",1965,8461,NA
+"411","Botswana","BWA",1970,7803,NA
+"412","Botswana","BWA",1975,7843,NA
+"413","Botswana","BWA",1980,8285,NA
+"414","Botswana","BWA",1985,8493,NA
+"415","Botswana","BWA",1990,10697,NA
+"416","Botswana","BWA",1995,16312,NA
+"417","Botswana","BWA",2000,22623,NA
+"418","Botswana","BWA",2005,23765,NA
+"419","Botswana","BWA",2010,18664,NA
+"420","Botswana","BWA",2015,17131,NA
+"421","Botswana","BWA",2020,17690,NA
+"422","Botswana","BWA",2021,24478,NA
+"423","Brazil","BRA",1955,989916,NA
+"424","Brazil","BRA",1960,1024950,NA
+"425","Brazil","BRA",1965,1039012,NA
+"426","Brazil","BRA",1970,1042815,NA
+"427","Brazil","BRA",1975,1059368,NA
+"428","Brazil","BRA",1980,1073639,NA
+"429","Brazil","BRA",1985,1066387,NA
+"430","Brazil","BRA",1990,1078578,NA
+"431","Brazil","BRA",1995,1093164,NA
+"432","Brazil","BRA",2000,1125256,NA
+"433","Brazil","BRA",2005,1140735,NA
+"434","Brazil","BRA",2010,1217149,NA
+"435","Brazil","BRA",2015,1319930,NA
+"436","Brazil","BRA",2020,1581430,NA
+"437","British Virgin Islands","VGB",1960,99,NA
+"438","British Virgin Islands","VGB",1965,69,NA
+"439","British Virgin Islands","VGB",1970,66,NA
+"440","British Virgin Islands","VGB",1975,66,NA
+"441","British Virgin Islands","VGB",1980,86,NA
+"442","British Virgin Islands","VGB",1985,66,NA
+"443","British Virgin Islands","VGB",1990,76,NA
+"444","British Virgin Islands","VGB",1995,84,NA
+"445","British Virgin Islands","VGB",2000,99,NA
+"446","British Virgin Islands","VGB",2005,113,NA
+"447","British Virgin Islands","VGB",2010,148,NA
+"448","British Virgin Islands","VGB",2015,164,NA
+"449","British Virgin Islands","VGB",2020,196,NA
+"450","British Virgin Islands","VGB",2021,236,NA
+"451","Brunei","BRN",1955,971,NA
+"452","Brunei","BRN",1960,986,NA
+"453","Brunei","BRN",1965,884,NA
+"454","Brunei","BRN",1970,895,NA
+"455","Brunei","BRN",1975,851,NA
+"456","Brunei","BRN",1980,857,NA
+"457","Brunei","BRN",1985,922,NA
+"458","Brunei","BRN",1990,1010,NA
+"459","Brunei","BRN",1995,1053,NA
+"460","Brunei","BRN",2000,1108,NA
+"461","Brunei","BRN",2005,1258,NA
+"462","Brunei","BRN",2010,1485,NA
+"463","Brunei","BRN",2015,1809,NA
+"464","Brunei","BRN",2020,2198,NA
+"465","Brunei","BRN",2021,2321,NA
+"466","Bulgaria","BGR",1955,69910,NA
+"467","Bulgaria","BGR",1960,64188,NA
+"468","Bulgaria","BGR",1965,67001,NA
+"469","Bulgaria","BGR",1970,78240,NA
+"470","Bulgaria","BGR",1975,92583,NA
+"471","Bulgaria","BGR",1980,102637,NA
+"472","Bulgaria","BGR",1985,114658,NA
+"473","Bulgaria","BGR",1990,117953,NA
+"474","Bulgaria","BGR",1995,126008,NA
+"475","Bulgaria","BGR",2000,125462,NA
+"476","Bulgaria","BGR",2005,121129,NA
+"477","Bulgaria","BGR",2010,116301,NA
+"478","Bulgaria","BGR",2015,116272,NA
+"479","Bulgaria","BGR",2020,131998,NA
+"480","Burkina Faso","BFA",1960,129968,NA
+"481","Burkina Faso","BFA",1965,134966,NA
+"482","Burkina Faso","BFA",1970,141272,NA
+"483","Burkina Faso","BFA",1975,139756,NA
+"484","Burkina Faso","BFA",1980,137156,NA
+"485","Burkina Faso","BFA",1985,143353,NA
+"486","Burkina Faso","BFA",1990,156261,NA
+"487","Burkina Faso","BFA",1995,172744,NA
+"488","Burkina Faso","BFA",2000,181983,NA
+"489","Burkina Faso","BFA",2005,187297,NA
+"490","Burkina Faso","BFA",2010,181652,NA
+"491","Burkina Faso","BFA",2015,180442,NA
+"492","Burkina Faso","BFA",2020,189721,NA
+"493","Burundi","BDI",1960,59650,NA
+"494","Burundi","BDI",1965,69478,NA
+"495","Burundi","BDI",1970,75757,NA
+"496","Burundi","BDI",1975,81127,NA
+"497","Burundi","BDI",1980,84020,NA
+"498","Burundi","BDI",1985,85553,NA
+"499","Burundi","BDI",1990,104952,NA
+"500","Burundi","BDI",1995,112612,NA
+"501","Burundi","BDI",2000,100682,NA
+"502","Burundi","BDI",2005,94817,NA
+"503","Burundi","BDI",2010,96173,NA
+"504","Burundi","BDI",2015,92775,NA
+"505","Burundi","BDI",2020,92462,NA
+"506","Burundi","BDI",2021,93864,NA
+"507","Cambodia","KHM",1955,114125,NA
+"508","Cambodia","KHM",1960,116133,NA
+"509","Cambodia","KHM",1965,114519,NA
+"510","Cambodia","KHM",1970,153686,NA
+"511","Cambodia","KHM",1975,578219,NA
+"512","Cambodia","KHM",1980,103759,NA
+"513","Cambodia","KHM",1985,112544,NA
+"514","Cambodia","KHM",1990,108792,NA
+"515","Cambodia","KHM",1995,120830,NA
+"516","Cambodia","KHM",2000,112381,NA
+"517","Cambodia","KHM",2005,93326,NA
+"518","Cambodia","KHM",2010,88051,NA
+"519","Cambodia","KHM",2015,89724,NA
+"520","Cambodia","KHM",2020,102187,NA
+"521","Cameroon","CMR",1960,146603,NA
+"522","Cameroon","CMR",1965,121704,NA
+"523","Cameroon","CMR",1970,120047,NA
+"524","Cameroon","CMR",1975,126013,NA
+"525","Cameroon","CMR",1980,137125,NA
+"526","Cameroon","CMR",1985,137688,NA
+"527","Cameroon","CMR",1990,149707,NA
+"528","Cameroon","CMR",1995,180312,NA
+"529","Cameroon","CMR",2000,202799,NA
+"530","Cameroon","CMR",2005,214559,NA
+"531","Cameroon","CMR",2010,218583,NA
+"532","Cameroon","CMR",2015,211090,NA
+"533","Cameroon","CMR",2020,223080,NA
+"534","Cameroon","CMR",2021,233498,NA
+"535","Canada","CAN",1955,128954,NA
+"536","Canada","CAN",1960,139237,NA
+"537","Canada","CAN",1965,147990,NA
+"538","Canada","CAN",1970,155330,NA
+"539","Canada","CAN",1975,167000,NA
+"540","Canada","CAN",1980,171194,NA
+"541","Canada","CAN",1985,181307,NA
+"542","Canada","CAN",1990,191913,NA
+"543","Canada","CAN",1995,210676,NA
+"544","Canada","CAN",2000,217626,NA
+"545","Canada","CAN",2005,229879,NA
+"546","Canada","CAN",2010,239723,NA
+"547","Canada","CAN",2015,264204,NA
+"548","Canada","CAN",2020,304741,NA
+"549","Cape Verde","CPV",1960,3894,NA
+"550","Cape Verde","CPV",1965,3878,NA
+"551","Cape Verde","CPV",1970,3996,NA
+"552","Cape Verde","CPV",1975,3687,NA
+"553","Cape Verde","CPV",1980,3280,NA
+"554","Cape Verde","CPV",1985,3402,NA
+"555","Cape Verde","CPV",1990,3046,NA
+"556","Cape Verde","CPV",1995,3368,NA
+"557","Cape Verde","CPV",2000,2686,NA
+"558","Cape Verde","CPV",2005,2549,NA
+"559","Cape Verde","CPV",2010,3347,NA
+"560","Cape Verde","CPV",2015,3149,NA
+"561","Cape Verde","CPV",2020,3320,NA
+"562","Cape Verde","CPV",2021,3548,NA
+"563","Cayman Islands","CYM",1955,140,NA
+"564","Cayman Islands","CYM",1960,125,NA
+"565","Cayman Islands","CYM",1965,109,NA
+"566","Cayman Islands","CYM",1970,117,NA
+"567","Cayman Islands","CYM",1975,125,NA
+"568","Cayman Islands","CYM",1980,128,NA
+"569","Cayman Islands","CYM",1985,139,NA
+"570","Cayman Islands","CYM",1990,175,NA
+"571","Cayman Islands","CYM",1995,202,NA
+"572","Cayman Islands","CYM",2000,242,NA
+"573","Cayman Islands","CYM",2005,251,NA
+"574","Cayman Islands","CYM",2010,279,NA
+"575","Cayman Islands","CYM",2015,356,NA
+"576","Cayman Islands","CYM",2020,429,NA
+"577","Cayman Islands","CYM",2021,448,NA
+"578","Central African Republic","CAF",1955,42836,NA
+"579","Central African Republic","CAF",1960,42681,NA
+"580","Central African Republic","CAF",1965,42335,NA
+"581","Central African Republic","CAF",1970,42015,NA
+"582","Central African Republic","CAF",1975,40821,NA
+"583","Central African Republic","CAF",1980,40640,NA
+"584","Central African Republic","CAF",1985,41717,NA
+"585","Central African Republic","CAF",1990,45189,NA
+"586","Central African Republic","CAF",1995,54438,NA
+"587","Central African Republic","CAF",2000,65070,NA
+"588","Central African Republic","CAF",2005,69011,NA
+"589","Central African Republic","CAF",2010,68061,NA
+"590","Central African Republic","CAF",2015,58936,NA
+"591","Central African Republic","CAF",2020,59147,NA
+"592","Central African Republic","CAF",2021,62683,NA
+"593","Chad","TCD",1955,76018,NA
+"594","Chad","TCD",1960,79779,NA
+"595","Chad","TCD",1965,84850,NA
+"596","Chad","TCD",1970,88368,NA
+"597","Chad","TCD",1975,95742,NA
+"598","Chad","TCD",1980,99783,NA
+"599","Chad","TCD",1985,103251,NA
+"600","Chad","TCD",1990,121479,NA
+"601","Chad","TCD",1995,130801,NA
+"602","Chad","TCD",2000,149459,NA
+"603","Chad","TCD",2005,168246,NA
+"604","Chad","TCD",2010,183391,NA
+"605","Chad","TCD",2015,193993,NA
+"606","Chad","TCD",2020,207827,NA
+"607","Chad","TCD",2021,214803,NA
+"608","Chile","CHL",1955,90942,NA
+"609","Chile","CHL",1960,89653,NA
+"610","Chile","CHL",1965,87919,NA
+"611","Chile","CHL",1970,82292,NA
+"612","Chile","CHL",1975,72516,NA
+"613","Chile","CHL",1980,71346,NA
+"614","Chile","CHL",1985,70728,NA
+"615","Chile","CHL",1990,75067,NA
+"616","Chile","CHL",1995,77134,NA
+"617","Chile","CHL",2000,76110,NA
+"618","Chile","CHL",2005,85697,NA
+"619","Chile","CHL",2010,101306,NA
+"620","Chile","CHL",2015,109199,NA
+"621","Chile","CHL",2020,139021,NA
+"622","Chile","CHL",2021,144326,NA
+"623","China","CHN",1955,12179970,NA
+"624","China","CHN",1960,19613436,NA
+"625","China","CHN",1965,10739325,NA
+"626","China","CHN",1970,9920086,NA
+"627","China","CHN",1975,8241591,NA
+"628","China","CHN",1980,7440841,NA
+"629","China","CHN",1985,7502237,NA
+"630","China","CHN",1990,8037908,NA
+"631","China","CHN",1995,7668710,NA
+"632","China","CHN",2000,7867292,NA
+"633","China","CHN",2005,8063729,NA
+"634","China","CHN",2010,8737983,NA
+"635","China","CHN",2015,9449728,NA
+"636","China","CHN",2020,10346232,NA
+"637","China","CHN",2021,10617528,NA
+"638","Colombia","COL",1955,196985,NA
+"639","Colombia","COL",1960,186589,NA
+"640","Colombia","COL",1965,183487,NA
+"641","Colombia","COL",1970,179623,NA
+"642","Colombia","COL",1975,167106,NA
+"643","Colombia","COL",1980,161752,NA
+"644","Colombia","COL",1985,191701,NA
+"645","Colombia","COL",1990,190271,NA
+"646","Colombia","COL",1995,200808,NA
+"647","Colombia","COL",2000,209911,NA
+"648","Colombia","COL",2005,214241,NA
+"649","Colombia","COL",2010,220750,NA
+"650","Colombia","COL",2015,243633,NA
+"651","Colombia","COL",2020,335656,NA
+"652","Comoros","COM",1960,4897,NA
+"653","Comoros","COM",1965,4988,NA
+"654","Comoros","COM",1970,4953,NA
+"655","Comoros","COM",1975,5387,NA
+"656","Comoros","COM",1980,5461,NA
+"657","Comoros","COM",1985,5544,NA
+"658","Comoros","COM",1990,5529,NA
+"659","Comoros","COM",1995,5415,NA
+"660","Comoros","COM",2000,5656,NA
+"661","Comoros","COM",2005,5939,NA
+"662","Comoros","COM",2010,6216,NA
+"663","Comoros","COM",2015,6348,NA
+"664","Comoros","COM",2020,6678,NA
+"665","Comoros","COM",2021,7171,NA
+"666","Congo","COG",1955,19452,NA
+"667","Congo","COG",1960,18597,NA
+"668","Congo","COG",1965,18571,NA
+"669","Congo","COG",1970,19242,NA
+"670","Congo","COG",1975,20471,NA
+"671","Congo","COG",1980,21039,NA
+"672","Congo","COG",1985,21846,NA
+"673","Congo","COG",1990,26594,NA
+"674","Congo","COG",1995,33677,NA
+"675","Congo","COG",2000,37765,NA
+"676","Congo","COG",2005,35929,NA
+"677","Congo","COG",2010,36018,NA
+"678","Congo","COG",2015,36512,NA
+"679","Congo","COG",2020,39496,NA
+"680","Cook Islands","COK",1960,231,NA
+"681","Cook Islands","COK",1965,180,NA
+"682","Cook Islands","COK",1970,141,NA
+"683","Cook Islands","COK",1975,123,NA
+"684","Cook Islands","COK",1980,124,NA
+"685","Cook Islands","COK",1985,117,NA
+"686","Cook Islands","COK",1990,132,NA
+"687","Cook Islands","COK",1995,127,NA
+"688","Cook Islands","COK",2000,112,NA
+"689","Cook Islands","COK",2005,105,NA
+"690","Cook Islands","COK",2010,115,NA
+"691","Cook Islands","COK",2015,133,NA
+"692","Cook Islands","COK",2020,142,NA
+"693","Costa Rica","CRI",1960,13770,NA
+"694","Costa Rica","CRI",1965,13817,NA
+"695","Costa Rica","CRI",1970,12877,NA
+"696","Costa Rica","CRI",1975,11402,NA
+"697","Costa Rica","CRI",1980,10768,NA
+"698","Costa Rica","CRI",1985,11121,NA
+"699","Costa Rica","CRI",1990,11854,NA
+"700","Costa Rica","CRI",1995,14461,NA
+"701","Costa Rica","CRI",2000,15868,NA
+"702","Costa Rica","CRI",2005,17584,NA
+"703","Costa Rica","CRI",2010,21026,NA
+"704","Costa Rica","CRI",2015,24629,NA
+"705","Costa Rica","CRI",2020,28817,NA
+"706","Cote d'Ivoire","CIV",1960,99406,NA
+"707","Cote d'Ivoire","CIV",1965,107735,NA
+"708","Cote d'Ivoire","CIV",1970,115345,NA
+"709","Cote d'Ivoire","CIV",1975,121681,NA
+"710","Cote d'Ivoire","CIV",1980,127077,NA
+"711","Cote d'Ivoire","CIV",1985,139117,NA
+"712","Cote d'Ivoire","CIV",1990,164950,NA
+"713","Cote d'Ivoire","CIV",1995,203341,NA
+"714","Cote d'Ivoire","CIV",2000,240582,NA
+"715","Cote d'Ivoire","CIV",2005,249624,NA
+"716","Cote d'Ivoire","CIV",2010,237064,NA
+"717","Cote d'Ivoire","CIV",2015,225318,NA
+"718","Cote d'Ivoire","CIV",2020,236477,NA
+"719","Cote d'Ivoire","CIV",2021,247449,NA
+"720","Croatia","HRV",1955,48127,NA
+"721","Croatia","HRV",1960,42811,NA
+"722","Croatia","HRV",1965,41124,NA
+"723","Croatia","HRV",1970,43630,NA
+"724","Croatia","HRV",1975,44365,NA
+"725","Croatia","HRV",1980,51989,NA
+"726","Croatia","HRV",1985,54167,NA
+"727","Croatia","HRV",1990,54170,NA
+"728","Croatia","HRV",1995,53878,NA
+"729","Croatia","HRV",2000,52570,NA
+"730","Croatia","HRV",2005,53686,NA
+"731","Croatia","HRV",2010,53905,NA
+"732","Croatia","HRV",2015,56685,NA
+"733","Croatia","HRV",2020,59705,NA
+"734","Croatia","HRV",2021,62262,NA
+"735","Cuba","CUB",1955,61644,NA
+"736","Cuba","CUB",1960,62845,NA
+"737","Cuba","CUB",1965,63740,NA
+"738","Cuba","CUB",1970,61675,NA
+"739","Cuba","CUB",1975,57760,NA
+"740","Cuba","CUB",1980,61528,NA
+"741","Cuba","CUB",1985,65321,NA
+"742","Cuba","CUB",1990,72753,NA
+"743","Cuba","CUB",1995,80081,NA
+"744","Cuba","CUB",2000,80523,NA
+"745","Cuba","CUB",2005,87791,NA
+"746","Cuba","CUB",2010,93794,NA
+"747","Cuba","CUB",2015,102842,NA
+"748","Cuba","CUB",2020,115622,NA
+"749","Curacao","CUW",1960,1067,NA
+"750","Curacao","CUW",1965,1043,NA
+"751","Curacao","CUW",1970,1012,NA
+"752","Curacao","CUW",1975,990,NA
+"753","Curacao","CUW",1980,1000,NA
+"754","Curacao","CUW",1985,1040,NA
+"755","Curacao","CUW",1990,1075,NA
+"756","Curacao","CUW",1995,1118,NA
+"757","Curacao","CUW",2000,1154,NA
+"758","Curacao","CUW",2005,1244,NA
+"759","Curacao","CUW",2010,1371,NA
+"760","Curacao","CUW",2015,1480,NA
+"761","Curacao","CUW",2020,1764,NA
+"762","Curacao","CUW",2021,1940,NA
+"763","Cyprus","CYP",1955,6112,NA
+"764","Cyprus","CYP",1960,5853,NA
+"765","Cyprus","CYP",1965,5497,NA
+"766","Cyprus","CYP",1970,5870,NA
+"767","Cyprus","CYP",1975,6109,NA
+"768","Cyprus","CYP",1980,6135,NA
+"769","Cyprus","CYP",1985,6547,NA
+"770","Cyprus","CYP",1990,6957,NA
+"771","Cyprus","CYP",1995,6918,NA
+"772","Cyprus","CYP",2000,7026,NA
+"773","Cyprus","CYP",2005,7099,NA
+"774","Cyprus","CYP",2010,7205,NA
+"775","Cyprus","CYP",2015,7534,NA
+"776","Cyprus","CYP",2020,8566,NA
+"777","Cyprus","CYP",2021,9021,NA
+"778","Czechia","CZE",1955,93280,NA
+"779","Czechia","CZE",1960,93804,NA
+"780","Czechia","CZE",1965,104968,NA
+"781","Czechia","CZE",1970,123547,NA
+"782","Czechia","CZE",1975,124394,NA
+"783","Czechia","CZE",1980,135471,NA
+"784","Czechia","CZE",1985,131545,NA
+"785","Czechia","CZE",1990,129149,NA
+"786","Czechia","CZE",1995,117713,NA
+"787","Czechia","CZE",2000,108910,NA
+"788","Czechia","CZE",2005,107837,NA
+"789","Czechia","CZE",2010,106641,NA
+"790","Czechia","CZE",2015,111161,NA
+"791","Czechia","CZE",2020,124567,NA
+"792","Democratic Republic of Congo","COD",1960,353656,NA
+"793","Democratic Republic of Congo","COD",1965,404169,NA
+"794","Democratic Republic of Congo","COD",1970,424737,NA
+"795","Democratic Republic of Congo","COD",1975,460252,NA
+"796","Democratic Republic of Congo","COD",1980,507451,NA
+"797","Democratic Republic of Congo","COD",1985,559446,NA
+"798","Democratic Republic of Congo","COD",1990,604322,NA
+"799","Democratic Republic of Congo","COD",1995,681629,NA
+"800","Democratic Republic of Congo","COD",2000,712085,NA
+"801","Democratic Republic of Congo","COD",2005,742883,NA
+"802","Democratic Republic of Congo","COD",2010,773880,NA
+"803","Democratic Republic of Congo","COD",2015,817713,NA
+"804","Democratic Republic of Congo","COD",2020,885793,NA
+"805","Democratic Republic of Congo","COD",2021,930839,NA
+"806","Denmark","DNK",1955,38811,NA
+"807","Denmark","DNK",1960,43740,NA
+"808","Denmark","DNK",1965,47929,NA
+"809","Denmark","DNK",1970,48322,NA
+"810","Denmark","DNK",1975,50903,NA
+"811","Denmark","DNK",1980,56023,NA
+"812","Denmark","DNK",1985,58521,NA
+"813","Denmark","DNK",1990,60987,NA
+"814","Denmark","DNK",1995,63115,NA
+"815","Denmark","DNK",2000,58026,NA
+"816","Denmark","DNK",2005,54995,NA
+"817","Denmark","DNK",2010,54269,NA
+"818","Denmark","DNK",2015,52741,NA
+"819","Denmark","DNK",2020,54744,NA
+"820","Djibouti","DJI",1960,1727,NA
+"821","Djibouti","DJI",1965,2054,NA
+"822","Djibouti","DJI",1970,2474,NA
+"823","Djibouti","DJI",1975,3173,NA
+"824","Djibouti","DJI",1980,4507,NA
+"825","Djibouti","DJI",1985,4999,NA
+"826","Djibouti","DJI",1990,6468,NA
+"827","Djibouti","DJI",1995,7033,NA
+"828","Djibouti","DJI",2000,8008,NA
+"829","Djibouti","DJI",2005,8317,NA
+"830","Djibouti","DJI",2010,8363,NA
+"831","Djibouti","DJI",2015,8644,NA
+"832","Djibouti","DJI",2020,9614,NA
+"833","Djibouti","DJI",2021,10109,NA
+"834","Dominica","DMA",1955,978,NA
+"835","Dominica","DMA",1960,838,NA
+"836","Dominica","DMA",1965,623,NA
+"837","Dominica","DMA",1970,654,NA
+"838","Dominica","DMA",1975,526,NA
+"839","Dominica","DMA",1980,491,NA
+"840","Dominica","DMA",1985,586,NA
+"841","Dominica","DMA",1990,697,NA
+"842","Dominica","DMA",1995,646,NA
+"843","Dominica","DMA",2000,629,NA
+"844","Dominica","DMA",2005,677,NA
+"845","Dominica","DMA",2010,797,NA
+"846","Dominica","DMA",2015,767,NA
+"847","Dominica","DMA",2020,588,NA
+"848","Dominica","DMA",2021,651,NA
+"849","Dominican Republic","DOM",1955,54632,NA
+"850","Dominican Republic","DOM",1960,55791,NA
+"851","Dominican Republic","DOM",1965,58644,NA
+"852","Dominican Republic","DOM",1970,51520,NA
+"853","Dominican Republic","DOM",1975,50612,NA
+"854","Dominican Republic","DOM",1980,50225,NA
+"855","Dominican Republic","DOM",1985,46467,NA
+"856","Dominican Republic","DOM",1990,43415,NA
+"857","Dominican Republic","DOM",1995,44901,NA
+"858","Dominican Republic","DOM",2000,52790,NA
+"859","Dominican Republic","DOM",2005,54460,NA
+"860","Dominican Republic","DOM",2010,56997,NA
+"861","Dominican Republic","DOM",2015,61310,NA
+"862","Dominican Republic","DOM",2020,71096,NA
+"863","Dominican Republic","DOM",2021,74290,NA
+"864","East Timor","TLS",1955,14053,NA
+"865","East Timor","TLS",1960,14327,NA
+"866","East Timor","TLS",1965,14381,NA
+"867","East Timor","TLS",1970,13996,NA
+"868","East Timor","TLS",1975,23675,NA
+"869","East Timor","TLS",1980,21467,NA
+"870","East Timor","TLS",1985,19435,NA
+"871","East Timor","TLS",1990,14160,NA
+"872","East Timor","TLS",1995,13436,NA
+"873","East Timor","TLS",2000,9015,NA
+"874","East Timor","TLS",2005,8532,NA
+"875","East Timor","TLS",2010,8665,NA
+"876","East Timor","TLS",2015,9125,NA
+"877","East Timor","TLS",2020,8893,NA
+"878","East Timor","TLS",2021,9562,NA
+"879","Ecuador","ECU",1955,71138,NA
+"880","Ecuador","ECU",1960,71016,NA
+"881","Ecuador","ECU",1965,72361,NA
+"882","Ecuador","ECU",1970,74935,NA
+"883","Ecuador","ECU",1975,71273,NA
+"884","Ecuador","ECU",1980,67769,NA
+"885","Ecuador","ECU",1985,64605,NA
+"886","Ecuador","ECU",1990,59381,NA
+"887","Ecuador","ECU",1995,61751,NA
+"888","Ecuador","ECU",2000,63332,NA
+"889","Ecuador","ECU",2005,65859,NA
+"890","Ecuador","ECU",2010,72749,NA
+"891","Ecuador","ECU",2015,77266,NA
+"892","Ecuador","ECU",2020,132366,NA
+"893","Ecuador","ECU",2021,119463,NA
+"894","Egypt","EGY",1955,598690,NA
+"895","Egypt","EGY",1960,577665,NA
+"896","Egypt","EGY",1965,558711,NA
+"897","Egypt","EGY",1970,595100,NA
+"898","Egypt","EGY",1975,594716,NA
+"899","Egypt","EGY",1980,564397,NA
+"900","Egypt","EGY",1985,520288,NA
+"901","Egypt","EGY",1990,468751,NA
+"902","Egypt","EGY",1995,450854,NA
+"903","Egypt","EGY",2000,455708,NA
+"904","Egypt","EGY",2005,490856,NA
+"905","Egypt","EGY",2010,525460,NA
+"906","Egypt","EGY",2015,569391,NA
+"907","Egypt","EGY",2020,628726,NA
+"908","El Salvador","SLV",1960,50074,NA
+"909","El Salvador","SLV",1965,51559,NA
+"910","El Salvador","SLV",1970,55804,NA
+"911","El Salvador","SLV",1975,51305,NA
+"912","El Salvador","SLV",1980,71646,NA
+"913","El Salvador","SLV",1985,51184,NA
+"914","El Salvador","SLV",1990,42086,NA
+"915","El Salvador","SLV",1995,37538,NA
+"916","El Salvador","SLV",2000,35323,NA
+"917","El Salvador","SLV",2005,40151,NA
+"918","El Salvador","SLV",2010,41506,NA
+"919","El Salvador","SLV",2015,44230,NA
+"920","El Salvador","SLV",2020,53231,NA
+"921","El Salvador","SLV",2021,54803,NA
+"922","Equatorial Guinea","GNQ",1955,6186,NA
+"923","Equatorial Guinea","GNQ",1960,6326,NA
+"924","Equatorial Guinea","GNQ",1965,6577,NA
+"925","Equatorial Guinea","GNQ",1970,11009,NA
+"926","Equatorial Guinea","GNQ",1975,8085,NA
+"927","Equatorial Guinea","GNQ",1980,5195,NA
+"928","Equatorial Guinea","GNQ",1985,6411,NA
+"929","Equatorial Guinea","GNQ",1990,7536,NA
+"930","Equatorial Guinea","GNQ",1995,8511,NA
+"931","Equatorial Guinea","GNQ",2000,9307,NA
+"932","Equatorial Guinea","GNQ",2005,10407,NA
+"933","Equatorial Guinea","GNQ",2010,12144,NA
+"934","Equatorial Guinea","GNQ",2015,12868,NA
+"935","Equatorial Guinea","GNQ",2020,14407,NA
+"936","Equatorial Guinea","GNQ",2021,14750,NA
+"937","Eritrea","ERI",1955,25059,NA
+"938","Eritrea","ERI",1960,25541,NA
+"939","Eritrea","ERI",1965,26794,NA
+"940","Eritrea","ERI",1970,28417,NA
+"941","Eritrea","ERI",1975,30404,NA
+"942","Eritrea","ERI",1980,31527,NA
+"943","Eritrea","ERI",1985,33810,NA
+"944","Eritrea","ERI",1990,32810,NA
+"945","Eritrea","ERI",1995,25116,NA
+"946","Eritrea","ERI",2000,26709,NA
+"947","Eritrea","ERI",2005,25284,NA
+"948","Eritrea","ERI",2010,23635,NA
+"949","Eritrea","ERI",2015,22397,NA
+"950","Eritrea","ERI",2020,22895,NA
+"951","Eritrea","ERI",2021,24415,NA
+"952","Estonia","EST",1955,13293,NA
+"953","Estonia","EST",1960,12763,NA
+"954","Estonia","EST",1965,13487,NA
+"955","Estonia","EST",1970,15175,NA
+"956","Estonia","EST",1975,16535,NA
+"957","Estonia","EST",1980,18191,NA
+"958","Estonia","EST",1985,19293,NA
+"959","Estonia","EST",1990,19497,NA
+"960","Estonia","EST",1995,20788,NA
+"961","Estonia","EST",2000,18359,NA
+"962","Estonia","EST",2005,17280,NA
+"963","Estonia","EST",2010,15800,NA
+"964","Estonia","EST",2015,15297,NA
+"965","Estonia","EST",2020,16180,NA
+"966","Estonia","EST",2021,18826,NA
+"967","Eswatini","SWZ",1955,6232,NA
+"968","Eswatini","SWZ",1960,6533,NA
+"969","Eswatini","SWZ",1965,6721,NA
+"970","Eswatini","SWZ",1970,6852,NA
+"971","Eswatini","SWZ",1975,6894,NA
+"972","Eswatini","SWZ",1980,6547,NA
+"973","Eswatini","SWZ",1985,6176,NA
+"974","Eswatini","SWZ",1990,6085,NA
+"975","Eswatini","SWZ",1995,9255,NA
+"976","Eswatini","SWZ",2000,15013,NA
+"977","Eswatini","SWZ",2005,20276,NA
+"978","Eswatini","SWZ",2010,17582,NA
+"979","Eswatini","SWZ",2015,12760,NA
+"980","Eswatini","SWZ",2020,11361,NA
+"981","Eswatini","SWZ",2021,13566,NA
+"982","Ethiopia","ETH",1955,506602,NA
+"983","Ethiopia","ETH",1960,507670,NA
+"984","Ethiopia","ETH",1965,540938,NA
+"985","Ethiopia","ETH",1970,617673,NA
+"986","Ethiopia","ETH",1975,803147,NA
+"987","Ethiopia","ETH",1980,760736,NA
+"988","Ethiopia","ETH",1985,1077483,NA
+"989","Ethiopia","ETH",1990,957417,NA
+"990","Ethiopia","ETH",1995,970253,NA
+"991","Ethiopia","ETH",2000,989714,NA
+"992","Ethiopia","ETH",2005,947564,NA
+"993","Ethiopia","ETH",2010,802949,NA
+"994","Ethiopia","ETH",2015,738626,NA
+"995","Ethiopia","ETH",2020,775334,NA
+"996","Europe (UN)",NA,1960,5783828,NA
+"997","Europe (UN)",NA,1965,6058752,NA
+"998","Europe (UN)",NA,1970,6602177,NA
+"999","Europe (UN)",NA,1975,7009188,NA
+"1000","Europe (UN)",NA,1980,7422720,NA
+"1001","Europe (UN)",NA,1985,7702883,NA
+"1002","Europe (UN)",NA,1990,7681197,NA
+"1003","Europe (UN)",NA,1995,8553348,NA
+"1004","Europe (UN)",NA,2000,8401888,NA
+"1005","Europe (UN)",NA,2005,8494391,NA
+"1006","Europe (UN)",NA,2010,8128387,NA
+"1007","Europe (UN)",NA,2015,8177599,NA
+"1008","Europe (UN)",NA,2020,9119281,NA
+"1009","Falkland Islands","FLK",1960,37,NA
+"1010","Falkland Islands","FLK",1965,37,NA
+"1011","Falkland Islands","FLK",1970,37,NA
+"1012","Falkland Islands","FLK",1975,37,NA
+"1013","Falkland Islands","FLK",1980,40,NA
+"1014","Falkland Islands","FLK",1985,44,NA
+"1015","Falkland Islands","FLK",1990,42,NA
+"1016","Falkland Islands","FLK",1995,35,NA
+"1017","Falkland Islands","FLK",2000,27,NA
+"1018","Falkland Islands","FLK",2005,23,NA
+"1019","Falkland Islands","FLK",2010,22,NA
+"1020","Falkland Islands","FLK",2015,24,NA
+"1021","Falkland Islands","FLK",2020,27,NA
+"1022","Faroe Islands","FRO",1960,264,NA
+"1023","Faroe Islands","FRO",1965,258,NA
+"1024","Faroe Islands","FRO",1970,273,NA
+"1025","Faroe Islands","FRO",1975,286,NA
+"1026","Faroe Islands","FRO",1980,302,NA
+"1027","Faroe Islands","FRO",1985,345,NA
+"1028","Faroe Islands","FRO",1990,408,NA
+"1029","Faroe Islands","FRO",1995,424,NA
+"1030","Faroe Islands","FRO",2000,415,NA
+"1031","Faroe Islands","FRO",2005,560,NA
+"1032","Faroe Islands","FRO",2010,553,NA
+"1033","Faroe Islands","FRO",2015,493,NA
+"1034","Faroe Islands","FRO",2020,570,NA
+"1035","Faroe Islands","FRO",2021,597,NA
+"1036","Fiji","FJI",1955,5366,NA
+"1037","Fiji","FJI",1960,4316,NA
+"1038","Fiji","FJI",1965,3821,NA
+"1039","Fiji","FJI",1970,3956,NA
+"1040","Fiji","FJI",1975,4294,NA
+"1041","Fiji","FJI",1980,4638,NA
+"1042","Fiji","FJI",1985,4669,NA
+"1043","Fiji","FJI",1990,4839,NA
+"1044","Fiji","FJI",1995,4784,NA
+"1045","Fiji","FJI",2000,5396,NA
+"1046","Fiji","FJI",2005,6047,NA
+"1047","Fiji","FJI",2010,6476,NA
+"1048","Fiji","FJI",2015,7428,NA
+"1049","Fiji","FJI",2020,7458,NA
+"1050","Fiji","FJI",2021,8218,NA
+"1051","Finland","FIN",1955,39567,NA
+"1052","Finland","FIN",1960,39808,NA
+"1053","Finland","FIN",1965,44446,NA
+"1054","Finland","FIN",1970,44114,NA
+"1055","Finland","FIN",1975,43848,NA
+"1056","Finland","FIN",1980,44344,NA
+"1057","Finland","FIN",1985,48140,NA
+"1058","Finland","FIN",1990,50055,NA
+"1059","Finland","FIN",1995,49182,NA
+"1060","Finland","FIN",2000,49361,NA
+"1061","Finland","FIN",2005,47902,NA
+"1062","Finland","FIN",2010,50864,NA
+"1063","Finland","FIN",2015,52187,NA
+"1064","Finland","FIN",2020,55208,NA
+"1065","Finland","FIN",2021,57283,NA
+"1066","France","FRA",1955,527292,NA
+"1067","France","FRA",1960,520826,NA
+"1068","France","FRA",1965,539894,NA
+"1069","France","FRA",1970,541997,NA
+"1070","France","FRA",1975,560204,NA
+"1071","France","FRA",1980,547419,NA
+"1072","France","FRA",1985,553196,NA
+"1073","France","FRA",1990,526560,NA
+"1074","France","FRA",1995,530979,NA
+"1075","France","FRA",2000,531207,NA
+"1076","France","FRA",2005,525879,NA
+"1077","France","FRA",2010,540813,NA
+"1078","France","FRA",2015,582205,NA
+"1079","France","FRA",2020,655662,NA
+"1080","French Guiana","GUF",1960,438,NA
+"1081","French Guiana","GUF",1965,414,NA
+"1082","French Guiana","GUF",1970,417,NA
+"1083","French Guiana","GUF",1975,423,NA
+"1084","French Guiana","GUF",1980,481,NA
+"1085","French Guiana","GUF",1985,508,NA
+"1086","French Guiana","GUF",1990,567,NA
+"1087","French Guiana","GUF",1995,600,NA
+"1088","French Guiana","GUF",2000,676,NA
+"1089","French Guiana","GUF",2005,774,NA
+"1090","French Guiana","GUF",2010,819,NA
+"1091","French Guiana","GUF",2015,935,NA
+"1092","French Guiana","GUF",2020,1154,NA
+"1093","French Polynesia","PYF",1960,821,NA
+"1094","French Polynesia","PYF",1965,860,NA
+"1095","French Polynesia","PYF",1970,897,NA
+"1096","French Polynesia","PYF",1975,916,NA
+"1097","French Polynesia","PYF",1980,850,NA
+"1098","French Polynesia","PYF",1985,729,NA
+"1099","French Polynesia","PYF",1990,693,NA
+"1100","French Polynesia","PYF",1995,654,NA
+"1101","French Polynesia","PYF",2000,574,NA
+"1102","French Polynesia","PYF",2005,731,NA
+"1103","French Polynesia","PYF",2010,810,NA
+"1104","French Polynesia","PYF",2015,889,NA
+"1105","French Polynesia","PYF",2020,1166,NA
+"1106","Gabon","GAB",1960,10597,NA
+"1107","Gabon","GAB",1965,10374,NA
+"1108","Gabon","GAB",1970,10310,NA
+"1109","Gabon","GAB",1975,10409,NA
+"1110","Gabon","GAB",1980,10503,NA
+"1111","Gabon","GAB",1985,10744,NA
+"1112","Gabon","GAB",1990,11238,NA
+"1113","Gabon","GAB",1995,11909,NA
+"1114","Gabon","GAB",2000,12719,NA
+"1115","Gabon","GAB",2005,13525,NA
+"1116","Gabon","GAB",2010,14108,NA
+"1117","Gabon","GAB",2015,15004,NA
+"1118","Gabon","GAB",2020,15833,NA
+"1119","Gambia","GMB",1960,11536,NA
+"1120","Gambia","GMB",1965,12192,NA
+"1121","Gambia","GMB",1970,12747,NA
+"1122","Gambia","GMB",1975,13514,NA
+"1123","Gambia","GMB",1980,14719,NA
+"1124","Gambia","GMB",1985,15815,NA
+"1125","Gambia","GMB",1990,16668,NA
+"1126","Gambia","GMB",1995,16375,NA
+"1127","Gambia","GMB",2000,17050,NA
+"1128","Gambia","GMB",2005,17557,NA
+"1129","Gambia","GMB",2010,17338,NA
+"1130","Gambia","GMB",2015,17453,NA
+"1131","Gambia","GMB",2020,18986,NA
+"1132","Gambia","GMB",2021,19923,NA
+"1133","Georgia","GEO",1955,53276,NA
+"1134","Georgia","GEO",1960,51290,NA
+"1135","Georgia","GEO",1965,49082,NA
+"1136","Georgia","GEO",1970,50511,NA
+"1137","Georgia","GEO",1975,49996,NA
+"1138","Georgia","GEO",1980,51753,NA
+"1139","Georgia","GEO",1985,53035,NA
+"1140","Georgia","GEO",1990,57177,NA
+"1141","Georgia","GEO",1995,52226,NA
+"1142","Georgia","GEO",2000,48466,NA
+"1143","Georgia","GEO",2005,45517,NA
+"1144","Georgia","GEO",2010,47530,NA
+"1145","Georgia","GEO",2015,47346,NA
+"1146","Georgia","GEO",2020,52643,NA
+"1147","Georgia","GEO",2021,57023,NA
+"1148","Germany","DEU",1955,801742,NA
+"1149","Germany","DEU",1960,879225,NA
+"1150","Germany","DEU",1965,907914,NA
+"1151","Germany","DEU",1970,976107,NA
+"1152","Germany","DEU",1975,989460,NA
+"1153","Germany","DEU",1980,951189,NA
+"1154","Germany","DEU",1985,929972,NA
+"1155","Germany","DEU",1990,919871,NA
+"1156","Germany","DEU",1995,884079,NA
+"1157","Germany","DEU",2000,839691,NA
+"1158","Germany","DEU",2005,829939,NA
+"1159","Germany","DEU",2010,859207,NA
+"1160","Germany","DEU",2015,926561,NA
+"1161","Germany","DEU",2020,971767,NA
+"1162","Germany","DEU",2021,1039440,NA
+"1163","Ghana","GHA",1955,122244,NA
+"1164","Ghana","GHA",1960,131212,NA
+"1165","Ghana","GHA",1965,146189,NA
+"1166","Ghana","GHA",1970,163373,NA
+"1167","Ghana","GHA",1975,167687,NA
+"1168","Ghana","GHA",1980,179403,NA
+"1169","Ghana","GHA",1985,189115,NA
+"1170","Ghana","GHA",1990,177795,NA
+"1171","Ghana","GHA",1995,186417,NA
+"1172","Ghana","GHA",2000,195201,NA
+"1173","Ghana","GHA",2005,208014,NA
+"1174","Ghana","GHA",2010,220690,NA
+"1175","Ghana","GHA",2015,224502,NA
+"1176","Ghana","GHA",2020,239693,NA
+"1177","Gibraltar","GIB",1960,188,NA
+"1178","Gibraltar","GIB",1965,196,NA
+"1179","Gibraltar","GIB",1970,218,NA
+"1180","Gibraltar","GIB",1975,225,NA
+"1181","Gibraltar","GIB",1980,214,NA
+"1182","Gibraltar","GIB",1985,199,NA
+"1183","Gibraltar","GIB",1990,204,NA
+"1184","Gibraltar","GIB",1995,238,NA
+"1185","Gibraltar","GIB",2000,185,NA
+"1186","Gibraltar","GIB",2005,207,NA
+"1187","Gibraltar","GIB",2010,239,NA
+"1188","Gibraltar","GIB",2015,280,NA
+"1189","Gibraltar","GIB",2020,284,NA
+"1190","Gibraltar","GIB",2021,378,NA
+"1191","Greece","GRC",1955,75348,NA
+"1192","Greece","GRC",1960,77640,NA
+"1193","Greece","GRC",1965,76504,NA
+"1194","Greece","GRC",1970,79732,NA
+"1195","Greece","GRC",1975,86152,NA
+"1196","Greece","GRC",1980,89568,NA
+"1197","Greece","GRC",1985,90168,NA
+"1198","Greece","GRC",1990,94524,NA
+"1199","Greece","GRC",1995,101651,NA
+"1200","Greece","GRC",2000,107513,NA
+"1201","Greece","GRC",2005,106968,NA
+"1202","Greece","GRC",2010,110125,NA
+"1203","Greece","GRC",2015,119604,NA
+"1204","Greece","GRC",2020,125443,NA
+"1205","Greenland","GRL",1960,296,NA
+"1206","Greenland","GRL",1965,325,NA
+"1207","Greenland","GRL",1970,292,NA
+"1208","Greenland","GRL",1975,351,NA
+"1209","Greenland","GRL",1980,383,NA
+"1210","Greenland","GRL",1985,436,NA
+"1211","Greenland","GRL",1990,478,NA
+"1212","Greenland","GRL",1995,451,NA
+"1213","Greenland","GRL",2000,436,NA
+"1214","Greenland","GRL",2005,438,NA
+"1215","Greenland","GRL",2010,453,NA
+"1216","Greenland","GRL",2015,449,NA
+"1217","Greenland","GRL",2020,487,NA
+"1218","Greenland","GRL",2021,498,NA
+"1219","Grenada","GRD",1955,1138,NA
+"1220","Grenada","GRD",1960,1081,NA
+"1221","Grenada","GRD",1965,870,NA
+"1222","Grenada","GRD",1970,799,NA
+"1223","Grenada","GRD",1975,764,NA
+"1224","Grenada","GRD",1980,790,NA
+"1225","Grenada","GRD",1985,769,NA
+"1226","Grenada","GRD",1990,735,NA
+"1227","Grenada","GRD",1995,716,NA
+"1228","Grenada","GRD",2000,768,NA
+"1229","Grenada","GRD",2005,799,NA
+"1230","Grenada","GRD",2010,807,NA
+"1231","Grenada","GRD",2015,902,NA
+"1232","Grenada","GRD",2020,997,NA
+"1233","Grenada","GRD",2021,1016,NA
+"1234","Guadeloupe","GLP",1955,3253,NA
+"1235","Guadeloupe","GLP",1960,2891,NA
+"1236","Guadeloupe","GLP",1965,2905,NA
+"1237","Guadeloupe","GLP",1970,2696,NA
+"1238","Guadeloupe","GLP",1975,2441,NA
+"1239","Guadeloupe","GLP",1980,2352,NA
+"1240","Guadeloupe","GLP",1985,2322,NA
+"1241","Guadeloupe","GLP",1990,2456,NA
+"1242","Guadeloupe","GLP",1995,2557,NA
+"1243","Guadeloupe","GLP",2000,2671,NA
+"1244","Guadeloupe","GLP",2005,2789,NA
+"1245","Guadeloupe","GLP",2010,2806,NA
+"1246","Guadeloupe","GLP",2015,2968,NA
+"1247","Guadeloupe","GLP",2020,3346,NA
+"1248","Guadeloupe","GLP",2021,4091,NA
+"1249","Guam","GUM",1955,479,NA
+"1250","Guam","GUM",1960,468,NA
+"1251","Guam","GUM",1965,480,NA
+"1252","Guam","GUM",1970,481,NA
+"1253","Guam","GUM",1975,512,NA
+"1254","Guam","GUM",1980,497,NA
+"1255","Guam","GUM",1985,559,NA
+"1256","Guam","GUM",1990,622,NA
+"1257","Guam","GUM",1995,698,NA
+"1258","Guam","GUM",2000,751,NA
+"1259","Guam","GUM",2005,713,NA
+"1260","Guam","GUM",2010,821,NA
+"1261","Guam","GUM",2015,1006,NA
+"1262","Guam","GUM",2020,1216,NA
+"1263","Guam","GUM",2021,1252,NA
+"1264","Guatemala","GTM",1955,80441,NA
+"1265","Guatemala","GTM",1960,77673,NA
+"1266","Guatemala","GTM",1965,81300,NA
+"1267","Guatemala","GTM",1970,85904,NA
+"1268","Guatemala","GTM",1975,78433,NA
+"1269","Guatemala","GTM",1980,82419,NA
+"1270","Guatemala","GTM",1985,77490,NA
+"1271","Guatemala","GTM",1990,78226,NA
+"1272","Guatemala","GTM",1995,79743,NA
+"1273","Guatemala","GTM",2000,72863,NA
+"1274","Guatemala","GTM",2005,74541,NA
+"1275","Guatemala","GTM",2010,77115,NA
+"1276","Guatemala","GTM",2015,81279,NA
+"1277","Guatemala","GTM",2020,92707,NA
+"1278","Guatemala","GTM",2021,114597,NA
+"1279","Guernsey","GGY",1955,612,NA
+"1280","Guernsey","GGY",1960,568,NA
+"1281","Guernsey","GGY",1965,569,NA
+"1282","Guernsey","GGY",1970,616,NA
+"1283","Guernsey","GGY",1975,613,NA
+"1284","Guernsey","GGY",1980,582,NA
+"1285","Guernsey","GGY",1985,606,NA
+"1286","Guernsey","GGY",1990,562,NA
+"1287","Guernsey","GGY",1995,569,NA
+"1288","Guernsey","GGY",2000,528,NA
+"1289","Guernsey","GGY",2005,511,NA
+"1290","Guernsey","GGY",2010,496,NA
+"1291","Guernsey","GGY",2015,542,NA
+"1292","Guernsey","GGY",2020,517,NA
+"1293","Guernsey","GGY",2021,506,NA
+"1294","Guinea","GIN",1955,94244,NA
+"1295","Guinea","GIN",1960,99852,NA
+"1296","Guinea","GIN",1965,104229,NA
+"1297","Guinea","GIN",1970,108263,NA
+"1298","Guinea","GIN",1975,111625,NA
+"1299","Guinea","GIN",1980,112407,NA
+"1300","Guinea","GIN",1985,114369,NA
+"1301","Guinea","GIN",1990,122840,NA
+"1302","Guinea","GIN",1995,127618,NA
+"1303","Guinea","GIN",2000,124005,NA
+"1304","Guinea","GIN",2005,119644,NA
+"1305","Guinea","GIN",2010,120051,NA
+"1306","Guinea","GIN",2015,124525,NA
+"1307","Guinea","GIN",2020,130060,NA
+"1308","Guinea-Bissau","GNB",1960,15771,NA
+"1309","Guinea-Bissau","GNB",1965,16167,NA
+"1310","Guinea-Bissau","GNB",1970,14715,NA
+"1311","Guinea-Bissau","GNB",1975,14674,NA
+"1312","Guinea-Bissau","GNB",1980,19359,NA
+"1313","Guinea-Bissau","GNB",1985,20324,NA
+"1314","Guinea-Bissau","GNB",1990,20107,NA
+"1315","Guinea-Bissau","GNB",1995,20056,NA
+"1316","Guinea-Bissau","GNB",2000,19698,NA
+"1317","Guinea-Bissau","GNB",2005,19172,NA
+"1318","Guinea-Bissau","GNB",2010,17309,NA
+"1319","Guinea-Bissau","GNB",2015,16505,NA
+"1320","Guinea-Bissau","GNB",2020,17290,NA
+"1321","Guinea-Bissau","GNB",2021,17969,NA
+"1322","Guyana","GUY",1955,6587,NA
+"1323","Guyana","GUY",1960,6252,NA
+"1324","Guyana","GUY",1965,6250,NA
+"1325","Guyana","GUY",1970,6415,NA
+"1326","Guyana","GUY",1975,6553,NA
+"1327","Guyana","GUY",1980,6680,NA
+"1328","Guyana","GUY",1985,6689,NA
+"1329","Guyana","GUY",1990,6337,NA
+"1330","Guyana","GUY",1995,6084,NA
+"1331","Guyana","GUY",2000,5664,NA
+"1332","Guyana","GUY",2005,5680,NA
+"1333","Guyana","GUY",2010,5587,NA
+"1334","Guyana","GUY",2015,5635,NA
+"1335","Guyana","GUY",2020,6394,NA
+"1336","Haiti","HTI",1960,83104,NA
+"1337","Haiti","HTI",1965,83958,NA
+"1338","Haiti","HTI",1970,84102,NA
+"1339","Haiti","HTI",1975,87161,NA
+"1340","Haiti","HTI",1980,92650,NA
+"1341","Haiti","HTI",1985,95342,NA
+"1342","Haiti","HTI",1990,97347,NA
+"1343","Haiti","HTI",1995,92009,NA
+"1344","Haiti","HTI",2000,86605,NA
+"1345","Haiti","HTI",2005,84307,NA
+"1346","Haiti","HTI",2010,174845,NA
+"1347","Haiti","HTI",2015,86560,NA
+"1348","Haiti","HTI",2020,92580,NA
+"1349","Haiti","HTI",2021,99459,NA
+"1350","High-income countries",NA,1955,7402525,NA
+"1351","High-income countries",NA,1960,7624668,NA
+"1352","High-income countries",NA,1965,7901873,NA
+"1353","High-income countries",NA,1970,8273944,NA
+"1354","High-income countries",NA,1975,8395587,NA
+"1355","High-income countries",NA,1980,8628961,NA
+"1356","High-income countries",NA,1985,8864007,NA
+"1357","High-income countries",NA,1990,9000136,NA
+"1358","High-income countries",NA,1995,9366060,NA
+"1359","High-income countries",NA,2000,9390364,NA
+"1360","High-income countries",NA,2005,9650329,NA
+"1361","High-income countries",NA,2010,9884632,NA
+"1362","High-income countries",NA,2015,10677503,NA
+"1363","High-income countries",NA,2020,12095508,NA
+"1364","High-income countries",NA,2021,12299926,NA
+"1365","Honduras","HND",1955,39718,NA
+"1366","Honduras","HND",1960,38395,NA
+"1367","Honduras","HND",1965,37582,NA
+"1368","Honduras","HND",1970,36924,NA
+"1369","Honduras","HND",1975,35966,NA
+"1370","Honduras","HND",1980,36655,NA
+"1371","Honduras","HND",1985,36651,NA
+"1372","Honduras","HND",1990,35658,NA
+"1373","Honduras","HND",1995,34334,NA
+"1374","Honduras","HND",2000,34252,NA
+"1375","Honduras","HND",2005,34602,NA
+"1376","Honduras","HND",2010,36758,NA
+"1377","Honduras","HND",2015,38560,NA
+"1378","Honduras","HND",2020,50064,NA
+"1379","Honduras","HND",2021,57654,NA
+"1380","Hong Kong","HKG",1955,19349,NA
+"1381","Hong Kong","HKG",1960,19887,NA
+"1382","Hong Kong","HKG",1965,18867,NA
+"1383","Hong Kong","HKG",1970,20396,NA
+"1384","Hong Kong","HKG",1975,21871,NA
+"1385","Hong Kong","HKG",1980,25087,NA
+"1386","Hong Kong","HKG",1985,27140,NA
+"1387","Hong Kong","HKG",1990,32120,NA
+"1388","Hong Kong","HKG",1995,35839,NA
+"1389","Hong Kong","HKG",2000,36403,NA
+"1390","Hong Kong","HKG",2005,40358,NA
+"1391","Hong Kong","HKG",2010,44420,NA
+"1392","Hong Kong","HKG",2015,48357,NA
+"1393","Hong Kong","HKG",2020,53408,NA
+"1394","Hong Kong","HKG",2021,53764,NA
+"1395","Hungary","HUN",1955,97477,NA
+"1396","Hungary","HUN",1960,101504,NA
+"1397","Hungary","HUN",1965,108136,NA
+"1398","Hungary","HUN",1970,120139,NA
+"1399","Hungary","HUN",1975,131022,NA
+"1400","Hungary","HUN",1980,145342,NA
+"1401","Hungary","HUN",1985,147770,NA
+"1402","Hungary","HUN",1990,145500,NA
+"1403","Hungary","HUN",1995,145155,NA
+"1404","Hungary","HUN",2000,135541,NA
+"1405","Hungary","HUN",2005,135656,NA
+"1406","Hungary","HUN",2010,130270,NA
+"1407","Hungary","HUN",2015,131660,NA
+"1408","Hungary","HUN",2020,140677,NA
+"1409","Hungary","HUN",2021,154245,NA
+"1410","Iceland","ISL",1955,1105,NA
+"1411","Iceland","ISL",1960,1174,NA
+"1412","Iceland","ISL",1965,1294,NA
+"1413","Iceland","ISL",1970,1460,NA
+"1414","Iceland","ISL",1975,1415,NA
+"1415","Iceland","ISL",1980,1537,NA
+"1416","Iceland","ISL",1985,1654,NA
+"1417","Iceland","ISL",1990,1712,NA
+"1418","Iceland","ISL",1995,1917,NA
+"1419","Iceland","ISL",2000,1828,NA
+"1420","Iceland","ISL",2005,1843,NA
+"1421","Iceland","ISL",2010,2030,NA
+"1422","Iceland","ISL",2015,2183,NA
+"1423","Iceland","ISL",2020,2456,NA
+"1424","Iceland","ISL",2021,2512,NA
+"1425","India","IND",1955,8468267,NA
+"1426","India","IND",1960,8756300,NA
+"1427","India","IND",1965,9823825,NA
+"1428","India","IND",1970,9606005,NA
+"1429","India","IND",1975,9592460,NA
+"1430","India","IND",1980,9529884,NA
+"1431","India","IND",1985,9443755,NA
+"1432","India","IND",1990,9305873,NA
+"1433","India","IND",1995,9269376,NA
+"1434","India","IND",2000,9220819,NA
+"1435","India","IND",2005,9095710,NA
+"1436","India","IND",2010,9162368,NA
+"1437","India","IND",2015,8825601,NA
+"1438","India","IND",2020,10262275,NA
+"1439","India","IND",2021,13299618,NA
+"1440","Indonesia","IDN",1955,1542415,NA
+"1441","Indonesia","IDN",1960,1592968,NA
+"1442","Indonesia","IDN",1965,2120931,NA
+"1443","Indonesia","IDN",1970,1575549,NA
+"1444","Indonesia","IDN",1975,1544272,NA
+"1445","Indonesia","IDN",1980,1520812,NA
+"1446","Indonesia","IDN",1985,1481346,NA
+"1447","Indonesia","IDN",1990,1477380,NA
+"1448","Indonesia","IDN",1995,1487222,NA
+"1449","Indonesia","IDN",2000,1580688,NA
+"1450","Indonesia","IDN",2005,1679144,NA
+"1451","Indonesia","IDN",2010,1807440,NA
+"1452","Indonesia","IDN",2015,1932676,NA
+"1453","Indonesia","IDN",2020,2436950,NA
+"1454","Indonesia","IDN",2021,2755190,NA
+"1455","Iran","IRN",1955,490819,NA
+"1456","Iran","IRN",1960,492822,NA
+"1457","Iran","IRN",1965,482459,NA
+"1458","Iran","IRN",1970,468344,NA
+"1459","Iran","IRN",1975,428029,NA
+"1460","Iran","IRN",1980,421590,NA
+"1461","Iran","IRN",1985,414661,NA
+"1462","Iran","IRN",1990,395366,NA
+"1463","Iran","IRN",1995,335330,NA
+"1464","Iran","IRN",2000,336549,NA
+"1465","Iran","IRN",2005,348018,NA
+"1466","Iran","IRN",2010,384716,NA
+"1467","Iran","IRN",2015,394524,NA
+"1468","Iran","IRN",2020,486271,NA
+"1469","Iran","IRN",2021,565768,NA
+"1470","Iraq","IRQ",1955,122645,NA
+"1471","Iraq","IRQ",1960,98435,NA
+"1472","Iraq","IRQ",1965,109235,NA
+"1473","Iraq","IRQ",1970,109637,NA
+"1474","Iraq","IRQ",1975,116382,NA
+"1475","Iraq","IRQ",1980,128039,NA
+"1476","Iraq","IRQ",1985,148131,NA
+"1477","Iraq","IRQ",1990,189809,NA
+"1478","Iraq","IRQ",1995,138275,NA
+"1479","Iraq","IRQ",2000,151769,NA
+"1480","Iraq","IRQ",2005,193047,NA
+"1481","Iraq","IRQ",2010,182689,NA
+"1482","Iraq","IRQ",2015,187339,NA
+"1483","Iraq","IRQ",2020,222816,NA
+"1484","Iraq","IRQ",2021,207099,NA
+"1485","Ireland","IRL",1955,36973,NA
+"1486","Ireland","IRL",1960,32676,NA
+"1487","Ireland","IRL",1965,32982,NA
+"1488","Ireland","IRL",1970,33550,NA
+"1489","Ireland","IRL",1975,33103,NA
+"1490","Ireland","IRL",1980,33260,NA
+"1491","Ireland","IRL",1985,33010,NA
+"1492","Ireland","IRL",1990,31140,NA
+"1493","Ireland","IRL",1995,31992,NA
+"1494","Ireland","IRL",2000,31096,NA
+"1495","Ireland","IRL",2005,27991,NA
+"1496","Ireland","IRL",2010,27707,NA
+"1497","Ireland","IRL",2015,29845,NA
+"1498","Ireland","IRL",2020,32911,NA
+"1499","Isle of Man","IMN",1960,832,NA
+"1500","Isle of Man","IMN",1965,873,NA
+"1501","Isle of Man","IMN",1970,955,NA
+"1502","Isle of Man","IMN",1975,1000,NA
+"1503","Isle of Man","IMN",1980,1034,NA
+"1504","Isle of Man","IMN",1985,1061,NA
+"1505","Isle of Man","IMN",1990,1007,NA
+"1506","Isle of Man","IMN",1995,1016,NA
+"1507","Isle of Man","IMN",2000,967,NA
+"1508","Isle of Man","IMN",2005,848,NA
+"1509","Isle of Man","IMN",2010,833,NA
+"1510","Isle of Man","IMN",2015,913,NA
+"1511","Isle of Man","IMN",2020,874,NA
+"1512","Isle of Man","IMN",2021,891,NA
+"1513","Israel","ISR",1955,10401,NA
+"1514","Israel","ISR",1960,12198,NA
+"1515","Israel","ISR",1965,15443,NA
+"1516","Israel","ISR",1970,20410,NA
+"1517","Israel","ISR",1975,24247,NA
+"1518","Israel","ISR",1980,26150,NA
+"1519","Israel","ISR",1985,28075,NA
+"1520","Israel","ISR",1990,29648,NA
+"1521","Israel","ISR",1995,35174,NA
+"1522","Israel","ISR",2000,37354,NA
+"1523","Israel","ISR",2005,38796,NA
+"1524","Israel","ISR",2010,39199,NA
+"1525","Israel","ISR",2015,43451,NA
+"1526","Israel","ISR",2020,48137,NA
+"1527","Israel","ISR",2021,49845,NA
+"1528","Italy","ITA",1955,446204,NA
+"1529","Italy","ITA",1960,480963,NA
+"1530","Italy","ITA",1965,516986,NA
+"1531","Italy","ITA",1970,520728,NA
+"1532","Italy","ITA",1975,553806,NA
+"1533","Italy","ITA",1980,554407,NA
+"1534","Italy","ITA",1985,546810,NA
+"1535","Italy","ITA",1990,542928,NA
+"1536","Italy","ITA",1995,555676,NA
+"1537","Italy","ITA",2000,559012,NA
+"1538","Italy","ITA",2005,563488,NA
+"1539","Italy","ITA",2010,580159,NA
+"1540","Italy","ITA",2015,642236,NA
+"1541","Italy","ITA",2020,716753,NA
+"1542","Italy","ITA",2021,680373,NA
+"1543","Jamaica","JAM",1955,15620,NA
+"1544","Jamaica","JAM",1960,14655,NA
+"1545","Jamaica","JAM",1965,14976,NA
+"1546","Jamaica","JAM",1970,15848,NA
+"1547","Jamaica","JAM",1975,16566,NA
+"1548","Jamaica","JAM",1980,17118,NA
+"1549","Jamaica","JAM",1985,17305,NA
+"1550","Jamaica","JAM",1990,16496,NA
+"1551","Jamaica","JAM",1995,17802,NA
+"1552","Jamaica","JAM",2000,18061,NA
+"1553","Jamaica","JAM",2005,17869,NA
+"1554","Jamaica","JAM",2010,16494,NA
+"1555","Jamaica","JAM",2015,18631,NA
+"1556","Jamaica","JAM",2020,21386,NA
+"1557","Jamaica","JAM",2021,24899,NA
+"1558","Japan","JPN",1955,714063,NA
+"1559","Japan","JPN",1960,730473,NA
+"1560","Japan","JPN",1965,729342,NA
+"1561","Japan","JPN",1970,745670,NA
+"1562","Japan","JPN",1975,730464,NA
+"1563","Japan","JPN",1980,755442,NA
+"1564","Japan","JPN",1985,789154,NA
+"1565","Japan","JPN",1990,866210,NA
+"1566","Japan","JPN",1995,977753,NA
+"1567","Japan","JPN",2000,1024232,NA
+"1568","Japan","JPN",2005,1164011,NA
+"1569","Japan","JPN",2010,1295676,NA
+"1570","Japan","JPN",2015,1405072,NA
+"1571","Japan","JPN",2020,1511209,NA
+"1572","Jersey","JEY",1960,781,NA
+"1573","Jersey","JEY",1965,796,NA
+"1574","Jersey","JEY",1970,920,NA
+"1575","Jersey","JEY",1975,956,NA
+"1576","Jersey","JEY",1980,931,NA
+"1577","Jersey","JEY",1985,854,NA
+"1578","Jersey","JEY",1990,831,NA
+"1579","Jersey","JEY",1995,825,NA
+"1580","Jersey","JEY",2000,770,NA
+"1581","Jersey","JEY",2005,741,NA
+"1582","Jersey","JEY",2010,797,NA
+"1583","Jersey","JEY",2015,833,NA
+"1584","Jersey","JEY",2020,933,NA
+"1585","Jersey","JEY",2021,953,NA
+"1586","Jordan","JOR",1955,12287,NA
+"1587","Jordan","JOR",1960,13232,NA
+"1588","Jordan","JOR",1965,13236,NA
+"1589","Jordan","JOR",1970,15584,NA
+"1590","Jordan","JOR",1975,14364,NA
+"1591","Jordan","JOR",1980,13629,NA
+"1592","Jordan","JOR",1985,13885,NA
+"1593","Jordan","JOR",1990,14982,NA
+"1594","Jordan","JOR",1995,17752,NA
+"1595","Jordan","JOR",2000,18876,NA
+"1596","Jordan","JOR",2005,20694,NA
+"1597","Jordan","JOR",2010,24977,NA
+"1598","Jordan","JOR",2015,29297,NA
+"1599","Jordan","JOR",2020,37948,NA
+"1600","Jordan","JOR",2021,43100,NA
+"1601","Kazakhstan","KAZ",1955,107964,NA
+"1602","Kazakhstan","KAZ",1960,118426,NA
+"1603","Kazakhstan","KAZ",1965,121495,NA
+"1604","Kazakhstan","KAZ",1970,126643,NA
+"1605","Kazakhstan","KAZ",1975,129600,NA
+"1606","Kazakhstan","KAZ",1980,138689,NA
+"1607","Kazakhstan","KAZ",1985,145286,NA
+"1608","Kazakhstan","KAZ",1990,153746,NA
+"1609","Kazakhstan","KAZ",1995,164021,NA
+"1610","Kazakhstan","KAZ",2000,159320,NA
+"1611","Kazakhstan","KAZ",2005,167065,NA
+"1612","Kazakhstan","KAZ",2010,155171,NA
+"1613","Kazakhstan","KAZ",2015,147198,NA
+"1614","Kazakhstan","KAZ",2020,179002,NA
+"1615","Kazakhstan","KAZ",2021,196490,NA
+"1616","Kenya","KEN",1955,156013,NA
+"1617","Kenya","KEN",1960,144571,NA
+"1618","Kenya","KEN",1965,148158,NA
+"1619","Kenya","KEN",1970,158483,NA
+"1620","Kenya","KEN",1975,161995,NA
+"1621","Kenya","KEN",1980,161623,NA
+"1622","Kenya","KEN",1985,170436,NA
+"1623","Kenya","KEN",1990,215713,NA
+"1624","Kenya","KEN",1995,279632,NA
+"1625","Kenya","KEN",2000,329440,NA
+"1626","Kenya","KEN",2005,327904,NA
+"1627","Kenya","KEN",2010,314357,NA
+"1628","Kenya","KEN",2015,345318,NA
+"1629","Kenya","KEN",2020,387712,NA
+"1630","Kiribati","KIR",1960,914,NA
+"1631","Kiribati","KIR",1965,871,NA
+"1632","Kiribati","KIR",1970,790,NA
+"1633","Kiribati","KIR",1975,729,NA
+"1634","Kiribati","KIR",1980,677,NA
+"1635","Kiribati","KIR",1985,709,NA
+"1636","Kiribati","KIR",1990,695,NA
+"1637","Kiribati","KIR",1995,651,NA
+"1638","Kiribati","KIR",2000,632,NA
+"1639","Kiribati","KIR",2005,680,NA
+"1640","Kiribati","KIR",2010,766,NA
+"1641","Kiribati","KIR",2015,776,NA
+"1642","Kiribati","KIR",2020,790,NA
+"1643","Kiribati","KIR",2021,805,NA
+"1644","Kosovo","OWID_KOS",1955,10660,NA
+"1645","Kosovo","OWID_KOS",1960,10563,NA
+"1646","Kosovo","OWID_KOS",1965,10468,NA
+"1647","Kosovo","OWID_KOS",1970,10425,NA
+"1648","Kosovo","OWID_KOS",1975,10572,NA
+"1649","Kosovo","OWID_KOS",1980,10630,NA
+"1650","Kosovo","OWID_KOS",1985,10740,NA
+"1651","Kosovo","OWID_KOS",1990,10671,NA
+"1652","Kosovo","OWID_KOS",1995,10538,NA
+"1653","Kosovo","OWID_KOS",2000,9108,NA
+"1654","Kosovo","OWID_KOS",2005,9287,NA
+"1655","Kosovo","OWID_KOS",2010,8434,NA
+"1656","Kosovo","OWID_KOS",2015,8548,NA
+"1657","Kosovo","OWID_KOS",2020,12595,NA
+"1658","Kosovo","OWID_KOS",2021,12054,NA
+"1659","Kuwait","KWT",1955,2516,NA
+"1660","Kuwait","KWT",1960,3408,NA
+"1661","Kuwait","KWT",1965,4055,NA
+"1662","Kuwait","KWT",1970,4646,NA
+"1663","Kuwait","KWT",1975,5195,NA
+"1664","Kuwait","KWT",1980,5187,NA
+"1665","Kuwait","KWT",1985,4609,NA
+"1666","Kuwait","KWT",1990,6129,NA
+"1667","Kuwait","KWT",1995,3425,NA
+"1668","Kuwait","KWT",2000,3596,NA
+"1669","Kuwait","KWT",2005,4431,NA
+"1670","Kuwait","KWT",2010,5316,NA
+"1671","Kuwait","KWT",2015,6657,NA
+"1672","Kuwait","KWT",2020,14604,NA
+"1673","Kuwait","KWT",2021,12398,NA
+"1674","Kyrgyzstan","KGZ",1955,34444,NA
+"1675","Kyrgyzstan","KGZ",1960,35981,NA
+"1676","Kyrgyzstan","KGZ",1965,36589,NA
+"1677","Kyrgyzstan","KGZ",1970,36249,NA
+"1678","Kyrgyzstan","KGZ",1975,36572,NA
+"1679","Kyrgyzstan","KGZ",1980,36631,NA
+"1680","Kyrgyzstan","KGZ",1985,37603,NA
+"1681","Kyrgyzstan","KGZ",1990,39099,NA
+"1682","Kyrgyzstan","KGZ",1995,39435,NA
+"1683","Kyrgyzstan","KGZ",2000,38037,NA
+"1684","Kyrgyzstan","KGZ",2005,39209,NA
+"1685","Kyrgyzstan","KGZ",2010,38015,NA
+"1686","Kyrgyzstan","KGZ",2015,36301,NA
+"1687","Kyrgyzstan","KGZ",2020,41180,NA
+"1688","Land-locked developing countries (LLDC)",NA,1960,2847965,NA
+"1689","Land-locked developing countries (LLDC)",NA,1965,2987168,NA
+"1690","Land-locked developing countries (LLDC)",NA,1970,3195502,NA
+"1691","Land-locked developing countries (LLDC)",NA,1975,3481151,NA
+"1692","Land-locked developing countries (LLDC)",NA,1980,3594063,NA
+"1693","Land-locked developing countries (LLDC)",NA,1985,4064282,NA
+"1694","Land-locked developing countries (LLDC)",NA,1990,4059536,NA
+"1695","Land-locked developing countries (LLDC)",NA,1995,4309171,NA
+"1696","Land-locked developing countries (LLDC)",NA,2000,4386653,NA
+"1697","Land-locked developing countries (LLDC)",NA,2005,4229492,NA
+"1698","Land-locked developing countries (LLDC)",NA,2010,3937318,NA
+"1699","Land-locked developing countries (LLDC)",NA,2015,3780553,NA
+"1700","Land-locked developing countries (LLDC)",NA,2020,4093532,NA
+"1701","Land-locked developing countries (LLDC)",NA,2021,4284715,NA
+"1702","Laos","LAO",1955,44554,NA
+"1703","Laos","LAO",1960,48138,NA
+"1704","Laos","LAO",1965,51523,NA
+"1705","Laos","LAO",1970,55040,NA
+"1706","Laos","LAO",1975,57388,NA
+"1707","Laos","LAO",1980,57227,NA
+"1708","Laos","LAO",1985,57356,NA
+"1709","Laos","LAO",1990,58480,NA
+"1710","Laos","LAO",1995,56959,NA
+"1711","Laos","LAO",2000,55867,NA
+"1712","Laos","LAO",2005,55012,NA
+"1713","Laos","LAO",2010,50757,NA
+"1714","Laos","LAO",2015,51051,NA
+"1715","Laos","LAO",2020,46627,NA
+"1716","Latin America and the Caribbean (UN)",NA,1960,2918475,NA
+"1717","Latin America and the Caribbean (UN)",NA,1965,2955451,NA
+"1718","Latin America and the Caribbean (UN)",NA,1970,3053103,NA
+"1719","Latin America and the Caribbean (UN)",NA,1975,2993822,NA
+"1720","Latin America and the Caribbean (UN)",NA,1980,3074936,NA
+"1721","Latin America and the Caribbean (UN)",NA,1985,3052299,NA
+"1722","Latin America and the Caribbean (UN)",NA,1990,3026889,NA
+"1723","Latin America and the Caribbean (UN)",NA,1995,3083556,NA
+"1724","Latin America and the Caribbean (UN)",NA,2000,3172244,NA
+"1725","Latin America and the Caribbean (UN)",NA,2005,3308268,NA
+"1726","Latin America and the Caribbean (UN)",NA,2010,3694621,NA
+"1727","Latin America and the Caribbean (UN)",NA,2015,3906059,NA
+"1728","Latin America and the Caribbean (UN)",NA,2020,5066101,NA
+"1729","Latin America and the Caribbean (UN)",NA,2021,5534706,NA
+"1730","Latvia","LVA",1955,21813,NA
+"1731","Latvia","LVA",1960,21590,NA
+"1732","Latvia","LVA",1965,23366,NA
+"1733","Latvia","LVA",1970,27176,NA
+"1734","Latvia","LVA",1975,30575,NA
+"1735","Latvia","LVA",1980,32764,NA
+"1736","Latvia","LVA",1985,34983,NA
+"1737","Latvia","LVA",1990,35984,NA
+"1738","Latvia","LVA",1995,40064,NA
+"1739","Latvia","LVA",2000,33223,NA
+"1740","Latvia","LVA",2005,34053,NA
+"1741","Latvia","LVA",2010,31115,NA
+"1742","Latvia","LVA",2015,29737,NA
+"1743","Latvia","LVA",2020,30538,NA
+"1744","Least developed countries",NA,1960,5742300,NA
+"1745","Least developed countries",NA,1965,6075886,NA
+"1746","Least developed countries",NA,1970,6795867,NA
+"1747","Least developed countries",NA,1975,7336956,NA
+"1748","Least developed countries",NA,1980,7195901,NA
+"1749","Least developed countries",NA,1985,8019467,NA
+"1750","Least developed countries",NA,1990,8036199,NA
+"1751","Least developed countries",NA,1995,8188943,NA
+"1752","Least developed countries",NA,2000,8029245,NA
+"1753","Least developed countries",NA,2005,7896840,NA
+"1754","Least developed countries",NA,2010,7690135,NA
+"1755","Least developed countries",NA,2015,7512853,NA
+"1756","Least developed countries",NA,2020,7966235,NA
+"1757","Least developed countries",NA,2021,8362236,NA
+"1758","Lebanon","LBN",1955,18194,NA
+"1759","Lebanon","LBN",1960,17692,NA
+"1760","Lebanon","LBN",1965,18045,NA
+"1761","Lebanon","LBN",1970,18757,NA
+"1762","Lebanon","LBN",1975,30009,NA
+"1763","Lebanon","LBN",1980,30740,NA
+"1764","Lebanon","LBN",1985,31213,NA
+"1765","Lebanon","LBN",1990,28226,NA
+"1766","Lebanon","LBN",1995,19666,NA
+"1767","Lebanon","LBN",2000,19674,NA
+"1768","Lebanon","LBN",2005,19308,NA
+"1769","Lebanon","LBN",2010,20403,NA
+"1770","Lebanon","LBN",2015,27578,NA
+"1771","Lebanon","LBN",2020,35782,NA
+"1772","Lesotho","LSO",1960,12802,NA
+"1773","Lesotho","LSO",1965,14471,NA
+"1774","Lesotho","LSO",1970,15899,NA
+"1775","Lesotho","LSO",1975,17225,NA
+"1776","Lesotho","LSO",1980,17278,NA
+"1777","Lesotho","LSO",1985,16746,NA
+"1778","Lesotho","LSO",1990,18076,NA
+"1779","Lesotho","LSO",1995,21721,NA
+"1780","Lesotho","LSO",2000,32332,NA
+"1781","Lesotho","LSO",2005,40976,NA
+"1782","Lesotho","LSO",2010,37770,NA
+"1783","Lesotho","LSO",2015,31437,NA
+"1784","Lesotho","LSO",2020,28992,NA
+"1785","Lesotho","LSO",2021,32376,NA
+"1786","Less developed regions",NA,1955,38537416,NA
+"1787","Less developed regions",NA,1960,46539136,NA
+"1788","Less developed regions",NA,1965,39613910,NA
+"1789","Less developed regions",NA,1970,39009490,NA
+"1790","Less developed regions",NA,1975,37697976,NA
+"1791","Less developed regions",NA,1980,36878150,NA
+"1792","Less developed regions",NA,1985,37807516,NA
+"1793","Less developed regions",NA,1990,38609344,NA
+"1794","Less developed regions",NA,1995,39166532,NA
+"1795","Less developed regions",NA,2000,39909516,NA
+"1796","Less developed regions",NA,2005,40723220,NA
+"1797","Less developed regions",NA,2010,42023540,NA
+"1798","Less developed regions",NA,2015,43158440,NA
+"1799","Less developed regions",NA,2020,48804770,NA
+"1800","Less developed regions",NA,2021,54238100,NA
+"1801","Less developed regions, excluding China",NA,1955,26252230,NA
+"1802","Less developed regions, excluding China",NA,1960,26826098,NA
+"1803","Less developed regions, excluding China",NA,1965,28782540,NA
+"1804","Less developed regions, excluding China",NA,1970,29000010,NA
+"1805","Less developed regions, excluding China",NA,1975,29361258,NA
+"1806","Less developed regions, excluding China",NA,1980,29328494,NA
+"1807","Less developed regions, excluding China",NA,1985,30186246,NA
+"1808","Less developed regions, excluding China",NA,1990,30433144,NA
+"1809","Less developed regions, excluding China",NA,1995,31340252,NA
+"1810","Less developed regions, excluding China",NA,2000,31877870,NA
+"1811","Less developed regions, excluding China",NA,2005,32476688,NA
+"1812","Less developed regions, excluding China",NA,2010,33093946,NA
+"1813","Less developed regions, excluding China",NA,2015,33498688,NA
+"1814","Less developed regions, excluding China",NA,2020,38230264,NA
+"1815","Less developed regions, excluding China",NA,2021,43387464,NA
+"1816","Less developed regions, excluding least developed countries",NA,1955,33015960,NA
+"1817","Less developed regions, excluding least developed countries",NA,1960,40796840,NA
+"1818","Less developed regions, excluding least developed countries",NA,1965,33538024,NA
+"1819","Less developed regions, excluding least developed countries",NA,1970,32213622,NA
+"1820","Less developed regions, excluding least developed countries",NA,1975,30361020,NA
+"1821","Less developed regions, excluding least developed countries",NA,1980,29682254,NA
+"1822","Less developed regions, excluding least developed countries",NA,1985,29788050,NA
+"1823","Less developed regions, excluding least developed countries",NA,1990,30573144,NA
+"1824","Less developed regions, excluding least developed countries",NA,1995,30977588,NA
+"1825","Less developed regions, excluding least developed countries",NA,2000,31880272,NA
+"1826","Less developed regions, excluding least developed countries",NA,2005,32826378,NA
+"1827","Less developed regions, excluding least developed countries",NA,2010,34333410,NA
+"1828","Less developed regions, excluding least developed countries",NA,2015,35645588,NA
+"1829","Less developed regions, excluding least developed countries",NA,2020,40838536,NA
+"1830","Less developed regions, excluding least developed countries",NA,2021,45875868,NA
+"1831","Liberia","LBR",1955,24833,NA
+"1832","Liberia","LBR",1960,29077,NA
+"1833","Liberia","LBR",1965,32830,NA
+"1834","Liberia","LBR",1970,35037,NA
+"1835","Liberia","LBR",1975,37013,NA
+"1836","Liberia","LBR",1980,39224,NA
+"1837","Liberia","LBR",1985,44030,NA
+"1838","Liberia","LBR",1990,65447,NA
+"1839","Liberia","LBR",1995,42808,NA
+"1840","Liberia","LBR",2000,44112,NA
+"1841","Liberia","LBR",2005,37310,NA
+"1842","Liberia","LBR",2010,39816,NA
+"1843","Liberia","LBR",2015,44883,NA
+"1844","Liberia","LBR",2020,44578,NA
+"1845","Liberia","LBR",2021,45955,NA
+"1846","Libya","LBY",1955,38305,NA
+"1847","Libya","LBY",1960,36901,NA
+"1848","Libya","LBY",1965,32428,NA
+"1849","Libya","LBY",1970,25916,NA
+"1850","Libya","LBY",1975,21294,NA
+"1851","Libya","LBY",1980,20192,NA
+"1852","Libya","LBY",1985,20313,NA
+"1853","Libya","LBY",1990,19750,NA
+"1854","Libya","LBY",1995,19879,NA
+"1855","Libya","LBY",2000,24081,NA
+"1856","Libya","LBY",2005,26357,NA
+"1857","Libya","LBY",2010,29280,NA
+"1858","Libya","LBY",2015,33624,NA
+"1859","Libya","LBY",2020,37248,NA
+"1860","Libya","LBY",2021,40532,NA
+"1861","Liechtenstein","LIE",1955,187,NA
+"1862","Liechtenstein","LIE",1960,183,NA
+"1863","Liechtenstein","LIE",1965,226,NA
+"1864","Liechtenstein","LIE",1970,218,NA
+"1865","Liechtenstein","LIE",1975,229,NA
+"1866","Liechtenstein","LIE",1980,262,NA
+"1867","Liechtenstein","LIE",1985,248,NA
+"1868","Liechtenstein","LIE",1990,198,NA
+"1869","Liechtenstein","LIE",1995,206,NA
+"1870","Liechtenstein","LIE",2000,247,NA
+"1871","Liechtenstein","LIE",2005,208,NA
+"1872","Liechtenstein","LIE",2010,221,NA
+"1873","Liechtenstein","LIE",2015,239,NA
+"1874","Liechtenstein","LIE",2020,291,NA
+"1875","Liechtenstein","LIE",2021,281,NA
+"1876","Lithuania","LTU",1955,29814,NA
+"1877","Lithuania","LTU",1960,22638,NA
+"1878","Lithuania","LTU",1965,24172,NA
+"1879","Lithuania","LTU",1970,28800,NA
+"1880","Lithuania","LTU",1975,31780,NA
+"1881","Lithuania","LTU",1980,36539,NA
+"1882","Lithuania","LTU",1985,40411,NA
+"1883","Lithuania","LTU",1990,41537,NA
+"1884","Lithuania","LTU",1995,47090,NA
+"1885","Lithuania","LTU",2000,40797,NA
+"1886","Lithuania","LTU",2005,45505,NA
+"1887","Lithuania","LTU",2010,43587,NA
+"1888","Lithuania","LTU",2015,43765,NA
+"1889","Lithuania","LTU",2020,46127,NA
+"1890","Lithuania","LTU",2021,50975,NA
+"1891","Low-income countries",NA,1955,3232205,NA
+"1892","Low-income countries",NA,1960,3368490,NA
+"1893","Low-income countries",NA,1965,3599090,NA
+"1894","Low-income countries",NA,1970,3868736,NA
+"1895","Low-income countries",NA,1975,4159345,NA
+"1896","Low-income countries",NA,1980,4373437,NA
+"1897","Low-income countries",NA,1985,5092210,NA
+"1898","Low-income countries",NA,1990,5104408,NA
+"1899","Low-income countries",NA,1995,5438448,NA
+"1900","Low-income countries",NA,2000,5513719,NA
+"1901","Low-income countries",NA,2005,5383881,NA
+"1902","Low-income countries",NA,2010,5170034,NA
+"1903","Low-income countries",NA,2015,5162981,NA
+"1904","Low-income countries",NA,2020,5455230,NA
+"1905","Low-income countries",NA,2021,5730952,NA
+"1906","Lower-middle-income countries",NA,1955,18559700,NA
+"1907","Lower-middle-income countries",NA,1960,18988422,NA
+"1908","Lower-middle-income countries",NA,1965,20769984,NA
+"1909","Lower-middle-income countries",NA,1970,20721706,NA
+"1910","Lower-middle-income countries",NA,1975,20924000,NA
+"1911","Lower-middle-income countries",NA,1980,20703618,NA
+"1912","Lower-middle-income countries",NA,1985,20939236,NA
+"1913","Lower-middle-income countries",NA,1990,21125280,NA
+"1914","Lower-middle-income countries",NA,1995,21703364,NA
+"1915","Lower-middle-income countries",NA,2000,21884632,NA
+"1916","Lower-middle-income countries",NA,2005,22209920,NA
+"1917","Lower-middle-income countries",NA,2010,22658222,NA
+"1918","Lower-middle-income countries",NA,2015,22607948,NA
+"1919","Lower-middle-income countries",NA,2020,25574948,NA
+"1920","Lower-middle-income countries",NA,2021,29801332,NA
+"1921","Luxembourg","LUX",1955,3593,NA
+"1922","Luxembourg","LUX",1960,3725,NA
+"1923","Luxembourg","LUX",1965,4042,NA
+"1924","Luxembourg","LUX",1970,4157,NA
+"1925","Luxembourg","LUX",1975,4360,NA
+"1926","Luxembourg","LUX",1980,4135,NA
+"1927","Luxembourg","LUX",1985,4011,NA
+"1928","Luxembourg","LUX",1990,3770,NA
+"1929","Luxembourg","LUX",1995,3782,NA
+"1930","Luxembourg","LUX",2000,3762,NA
+"1931","Luxembourg","LUX",2005,3621,NA
+"1932","Luxembourg","LUX",2010,3778,NA
+"1933","Luxembourg","LUX",2015,3990,NA
+"1934","Luxembourg","LUX",2020,4780,NA
+"1935","Macao","MAC",1960,1580,NA
+"1936","Macao","MAC",1965,1462,NA
+"1937","Macao","MAC",1970,1401,NA
+"1938","Macao","MAC",1975,1424,NA
+"1939","Macao","MAC",1980,1548,NA
+"1940","Macao","MAC",1985,1584,NA
+"1941","Macao","MAC",1990,1533,NA
+"1942","Macao","MAC",1995,1498,NA
+"1943","Macao","MAC",2000,1564,NA
+"1944","Macao","MAC",2005,1759,NA
+"1945","Macao","MAC",2010,2029,NA
+"1946","Macao","MAC",2015,2358,NA
+"1947","Macao","MAC",2020,2718,NA
+"1948","Macao","MAC",2021,2813,NA
+"1949","Madagascar","MDG",1955,104264,NA
+"1950","Madagascar","MDG",1960,109215,NA
+"1951","Madagascar","MDG",1965,113615,NA
+"1952","Madagascar","MDG",1970,119342,NA
+"1953","Madagascar","MDG",1975,127448,NA
+"1954","Madagascar","MDG",1980,144795,NA
+"1955","Madagascar","MDG",1985,164487,NA
+"1956","Madagascar","MDG",1990,171917,NA
+"1957","Madagascar","MDG",1995,171954,NA
+"1958","Madagascar","MDG",2000,168416,NA
+"1959","Madagascar","MDG",2005,165990,NA
+"1960","Madagascar","MDG",2010,167639,NA
+"1961","Madagascar","MDG",2015,175196,NA
+"1962","Madagascar","MDG",2020,191982,NA
+"1963","Madagascar","MDG",2021,205436,NA
+"1964","Malawi","MWI",1955,98767,NA
+"1965","Malawi","MWI",1960,107715,NA
+"1966","Malawi","MWI",1965,121107,NA
+"1967","Malawi","MWI",1970,132621,NA
+"1968","Malawi","MWI",1975,132873,NA
+"1969","Malawi","MWI",1980,133648,NA
+"1970","Malawi","MWI",1985,164379,NA
+"1971","Malawi","MWI",1990,209951,NA
+"1972","Malawi","MWI",1995,206334,NA
+"1973","Malawi","MWI",2000,219949,NA
+"1974","Malawi","MWI",2005,186932,NA
+"1975","Malawi","MWI",2010,168031,NA
+"1976","Malawi","MWI",2015,135632,NA
+"1977","Malawi","MWI",2020,129975,NA
+"1978","Malawi","MWI",2021,138931,NA
+"1979","Malaysia","MYS",1955,106240,NA
+"1980","Malaysia","MYS",1960,88938,NA
+"1981","Malaysia","MYS",1965,75120,NA
+"1982","Malaysia","MYS",1970,73054,NA
+"1983","Malaysia","MYS",1975,70988,NA
+"1984","Malaysia","MYS",1980,70452,NA
+"1985","Malaysia","MYS",1985,72387,NA
+"1986","Malaysia","MYS",1990,81367,NA
+"1987","Malaysia","MYS",1995,90295,NA
+"1988","Malaysia","MYS",2000,104767,NA
+"1989","Malaysia","MYS",2005,116415,NA
+"1990","Malaysia","MYS",2010,143564,NA
+"1991","Malaysia","MYS",2015,158136,NA
+"1992","Malaysia","MYS",2020,176170,NA
+"1993","Malaysia","MYS",2021,202436,NA
+"1994","Maldives","MDV",1955,2171,NA
+"1995","Maldives","MDV",1960,2456,NA
+"1996","Maldives","MDV",1965,2520,NA
+"1997","Maldives","MDV",1970,2469,NA
+"1998","Maldives","MDV",1975,2269,NA
+"1999","Maldives","MDV",1980,2088,NA
+"2000","Maldives","MDV",1985,1936,NA
+"2001","Maldives","MDV",1990,1782,NA
+"2002","Maldives","MDV",1995,1513,NA
+"2003","Maldives","MDV",2000,1259,NA
+"2004","Maldives","MDV",2005,1143,NA
+"2005","Maldives","MDV",2010,1116,NA
+"2006","Maldives","MDV",2015,1167,NA
+"2007","Maldives","MDV",2020,1542,NA
+"2008","Maldives","MDV",2021,1573,NA
+"2009","Mali","MLI",1955,179901,NA
+"2010","Mali","MLI",1960,187194,NA
+"2011","Mali","MLI",1965,195475,NA
+"2012","Mali","MLI",1970,198472,NA
+"2013","Mali","MLI",1975,191635,NA
+"2014","Mali","MLI",1980,182308,NA
+"2015","Mali","MLI",1985,183021,NA
+"2016","Mali","MLI",1990,173067,NA
+"2017","Mali","MLI",1995,179350,NA
+"2018","Mali","MLI",2000,179831,NA
+"2019","Mali","MLI",2005,180345,NA
+"2020","Mali","MLI",2010,183696,NA
+"2021","Mali","MLI",2015,185256,NA
+"2022","Mali","MLI",2020,202371,NA
+"2023","Malta","MLT",1960,2970,NA
+"2024","Malta","MLT",1965,3041,NA
+"2025","Malta","MLT",1970,2964,NA
+"2026","Malta","MLT",1975,2744,NA
+"2027","Malta","MLT",1980,2883,NA
+"2028","Malta","MLT",1985,2875,NA
+"2029","Malta","MLT",1990,2602,NA
+"2030","Malta","MLT",1995,2744,NA
+"2031","Malta","MLT",2000,3176,NA
+"2032","Malta","MLT",2005,3148,NA
+"2033","Malta","MLT",2010,3024,NA
+"2034","Malta","MLT",2015,3208,NA
+"2035","Malta","MLT",2020,3837,NA
+"2036","Malta","MLT",2021,3819,NA
+"2037","Marshall Islands","MHL",1955,202,NA
+"2038","Marshall Islands","MHL",1960,248,NA
+"2039","Marshall Islands","MHL",1965,254,NA
+"2040","Marshall Islands","MHL",1970,266,NA
+"2041","Marshall Islands","MHL",1975,280,NA
+"2042","Marshall Islands","MHL",1980,292,NA
+"2043","Marshall Islands","MHL",1985,310,NA
+"2044","Marshall Islands","MHL",1990,336,NA
+"2045","Marshall Islands","MHL",1995,341,NA
+"2046","Marshall Islands","MHL",2000,351,NA
+"2047","Marshall Islands","MHL",2005,361,NA
+"2048","Marshall Islands","MHL",2010,372,NA
+"2049","Marshall Islands","MHL",2015,351,NA
+"2050","Marshall Islands","MHL",2020,329,NA
+"2051","Marshall Islands","MHL",2021,325,NA
+"2052","Martinique","MTQ",1955,3065,NA
+"2053","Martinique","MTQ",1960,2989,NA
+"2054","Martinique","MTQ",1965,2618,NA
+"2055","Martinique","MTQ",1970,2553,NA
+"2056","Martinique","MTQ",1975,2374,NA
+"2057","Martinique","MTQ",1980,2293,NA
+"2058","Martinique","MTQ",1985,2260,NA
+"2059","Martinique","MTQ",1990,2365,NA
+"2060","Martinique","MTQ",1995,2577,NA
+"2061","Martinique","MTQ",2000,2687,NA
+"2062","Martinique","MTQ",2005,2575,NA
+"2063","Martinique","MTQ",2010,2630,NA
+"2064","Martinique","MTQ",2015,3011,NA
+"2065","Martinique","MTQ",2020,3226,NA
+"2066","Martinique","MTQ",2021,4135,NA
+"2067","Mauritania","MRT",1955,15530,NA
+"2068","Mauritania","MRT",1960,15951,NA
+"2069","Mauritania","MRT",1965,16458,NA
+"2070","Mauritania","MRT",1970,16967,NA
+"2071","Mauritania","MRT",1975,18408,NA
+"2072","Mauritania","MRT",1980,18947,NA
+"2073","Mauritania","MRT",1985,19118,NA
+"2074","Mauritania","MRT",1990,19303,NA
+"2075","Mauritania","MRT",1995,22464,NA
+"2076","Mauritania","MRT",2000,23883,NA
+"2077","Mauritania","MRT",2005,25727,NA
+"2078","Mauritania","MRT",2010,28452,NA
+"2079","Mauritania","MRT",2015,31503,NA
+"2080","Mauritania","MRT",2020,33598,NA
+"2081","Mauritania","MRT",2021,34347,NA
+"2082","Mauritius","MUS",1955,8238,NA
+"2083","Mauritius","MUS",1960,8348,NA
+"2084","Mauritius","MUS",1965,7555,NA
+"2085","Mauritius","MUS",1970,7456,NA
+"2086","Mauritius","MUS",1975,7773,NA
+"2087","Mauritius","MUS",1980,7025,NA
+"2088","Mauritius","MUS",1985,7253,NA
+"2089","Mauritius","MUS",1990,7241,NA
+"2090","Mauritius","MUS",1995,7591,NA
+"2091","Mauritius","MUS",2000,8037,NA
+"2092","Mauritius","MUS",2005,8652,NA
+"2093","Mauritius","MUS",2010,9040,NA
+"2094","Mauritius","MUS",2015,9803,NA
+"2095","Mauritius","MUS",2020,11243,NA
+"2096","Mayotte","MYT",1960,387,NA
+"2097","Mayotte","MYT",1965,338,NA
+"2098","Mayotte","MYT",1970,309,NA
+"2099","Mayotte","MYT",1975,287,NA
+"2100","Mayotte","MYT",1980,278,NA
+"2101","Mayotte","MYT",1985,287,NA
+"2102","Mayotte","MYT",1990,321,NA
+"2103","Mayotte","MYT",1995,374,NA
+"2104","Mayotte","MYT",2000,412,NA
+"2105","Mayotte","MYT",2005,456,NA
+"2106","Mayotte","MYT",2010,484,NA
+"2107","Mayotte","MYT",2015,602,NA
+"2108","Mayotte","MYT",2020,871,NA
+"2109","Mayotte","MYT",2021,999,NA
+"2110","Mexico","MEX",1955,523892,NA
+"2111","Mexico","MEX",1960,488005,NA
+"2112","Mexico","MEX",1965,474221,NA
+"2113","Mexico","MEX",1970,483743,NA
+"2114","Mexico","MEX",1975,495424,NA
+"2115","Mexico","MEX",1980,513740,NA
+"2116","Mexico","MEX",1985,476791,NA
+"2117","Mexico","MEX",1990,473031,NA
+"2118","Mexico","MEX",1995,479154,NA
+"2119","Mexico","MEX",2000,490035,NA
+"2120","Mexico","MEX",2005,536265,NA
+"2121","Mexico","MEX",2010,629665,NA
+"2122","Mexico","MEX",2015,721944,NA
+"2123","Mexico","MEX",2020,1175636,NA
+"2124","Micronesia (country)","FSM",1960,531,NA
+"2125","Micronesia (country)","FSM",1965,538,NA
+"2126","Micronesia (country)","FSM",1970,550,NA
+"2127","Micronesia (country)","FSM",1975,551,NA
+"2128","Micronesia (country)","FSM",1980,558,NA
+"2129","Micronesia (country)","FSM",1985,570,NA
+"2130","Micronesia (country)","FSM",1990,574,NA
+"2131","Micronesia (country)","FSM",1995,642,NA
+"2132","Micronesia (country)","FSM",2000,561,NA
+"2133","Micronesia (country)","FSM",2005,528,NA
+"2134","Micronesia (country)","FSM",2010,497,NA
+"2135","Micronesia (country)","FSM",2015,552,NA
+"2136","Micronesia (country)","FSM",2020,682,NA
+"2137","Micronesia (country)","FSM",2021,705,NA
+"2138","Moldova","MDA",1955,35382,NA
+"2139","Moldova","MDA",1960,34322,NA
+"2140","Moldova","MDA",1965,33868,NA
+"2141","Moldova","MDA",1970,37812,NA
+"2142","Moldova","MDA",1975,42831,NA
+"2143","Moldova","MDA",1980,45941,NA
+"2144","Moldova","MDA",1985,50591,NA
+"2145","Moldova","MDA",1990,47513,NA
+"2146","Moldova","MDA",1995,60108,NA
+"2147","Moldova","MDA",2000,55528,NA
+"2148","Moldova","MDA",2005,50345,NA
+"2149","Moldova","MDA",2010,46819,NA
+"2150","Moldova","MDA",2015,46735,NA
+"2151","Moldova","MDA",2020,44655,NA
+"2152","Moldova","MDA",2021,50200,NA
+"2153","Monaco","MCO",1955,302,NA
+"2154","Monaco","MCO",1960,332,NA
+"2155","Monaco","MCO",1965,373,NA
+"2156","Monaco","MCO",1970,413,NA
+"2157","Monaco","MCO",1975,460,NA
+"2158","Monaco","MCO",1980,477,NA
+"2159","Monaco","MCO",1985,456,NA
+"2160","Monaco","MCO",1990,454,NA
+"2161","Monaco","MCO",1995,398,NA
+"2162","Monaco","MCO",2000,373,NA
+"2163","Monaco","MCO",2005,303,NA
+"2164","Monaco","MCO",2010,398,NA
+"2165","Monaco","MCO",2015,728,NA
+"2166","Monaco","MCO",2020,753,NA
+"2167","Monaco","MCO",2021,778,NA
+"2168","Mongolia","MNG",1955,21512,NA
+"2169","Mongolia","MNG",1960,23327,NA
+"2170","Mongolia","MNG",1965,23467,NA
+"2171","Mongolia","MNG",1970,21989,NA
+"2172","Mongolia","MNG",1975,20911,NA
+"2173","Mongolia","MNG",1980,22710,NA
+"2174","Mongolia","MNG",1985,23640,NA
+"2175","Mongolia","MNG",1990,22707,NA
+"2176","Mongolia","MNG",1995,20153,NA
+"2177","Mongolia","MNG",2000,18069,NA
+"2178","Mongolia","MNG",2005,17915,NA
+"2179","Mongolia","MNG",2010,18202,NA
+"2180","Mongolia","MNG",2015,18252,NA
+"2181","Mongolia","MNG",2020,18030,NA
+"2182","Mongolia","MNG",2021,20520,NA
+"2183","Montenegro","MNE",1955,5399,NA
+"2184","Montenegro","MNE",1960,4588,NA
+"2185","Montenegro","MNE",1965,4048,NA
+"2186","Montenegro","MNE",1970,4135,NA
+"2187","Montenegro","MNE",1975,4051,NA
+"2188","Montenegro","MNE",1980,4458,NA
+"2189","Montenegro","MNE",1985,4162,NA
+"2190","Montenegro","MNE",1990,4212,NA
+"2191","Montenegro","MNE",1995,5222,NA
+"2192","Montenegro","MNE",2000,5725,NA
+"2193","Montenegro","MNE",2005,6131,NA
+"2194","Montenegro","MNE",2010,5822,NA
+"2195","Montenegro","MNE",2015,6400,NA
+"2196","Montenegro","MNE",2020,7473,NA
+"2197","Montserrat","MSR",1960,212,NA
+"2198","Montserrat","MSR",1965,173,NA
+"2199","Montserrat","MSR",1970,161,NA
+"2200","Montserrat","MSR",1975,142,NA
+"2201","Montserrat","MSR",1980,143,NA
+"2202","Montserrat","MSR",1985,128,NA
+"2203","Montserrat","MSR",1990,120,NA
+"2204","Montserrat","MSR",1995,97,NA
+"2205","Montserrat","MSR",2000,72,NA
+"2206","Montserrat","MSR",2005,60,NA
+"2207","Montserrat","MSR",2010,58,NA
+"2208","Montserrat","MSR",2015,57,NA
+"2209","Montserrat","MSR",2020,51,NA
+"2210","More developed regions",NA,1960,8434539,NA
+"2211","More developed regions",NA,1965,8845945,NA
+"2212","More developed regions",NA,1970,9524639,NA
+"2213","More developed regions",NA,1975,9894787,NA
+"2214","More developed regions",NA,1980,10438459,NA
+"2215","More developed regions",NA,1985,10877921,NA
+"2216","More developed regions",NA,1990,11010351,NA
+"2217","More developed regions",NA,1995,12188932,NA
+"2218","More developed regions",NA,2000,12190303,NA
+"2219","More developed regions",NA,2005,12490137,NA
+"2220","More developed regions",NA,2010,12305653,NA
+"2221","More developed regions",NA,2015,12734593,NA
+"2222","More developed regions",NA,2020,14369538,NA
+"2223","More developed regions",NA,2021,15010052,NA
+"2224","Morocco","MAR",1955,247793,NA
+"2225","Morocco","MAR",1960,267971,NA
+"2226","Morocco","MAR",1965,254662,NA
+"2227","Morocco","MAR",1970,250544,NA
+"2228","Morocco","MAR",1975,251415,NA
+"2229","Morocco","MAR",1980,232612,NA
+"2230","Morocco","MAR",1985,209596,NA
+"2231","Morocco","MAR",1990,189752,NA
+"2232","Morocco","MAR",1995,184265,NA
+"2233","Morocco","MAR",2000,183928,NA
+"2234","Morocco","MAR",2005,188186,NA
+"2235","Morocco","MAR",2010,193934,NA
+"2236","Morocco","MAR",2015,198094,NA
+"2237","Morocco","MAR",2020,222905,NA
+"2238","Morocco","MAR",2021,228888,NA
+"2239","Mozambique","MOZ",1955,157596,NA
+"2240","Mozambique","MOZ",1960,157926,NA
+"2241","Mozambique","MOZ",1965,171814,NA
+"2242","Mozambique","MOZ",1970,189632,NA
+"2243","Mozambique","MOZ",1975,210861,NA
+"2244","Mozambique","MOZ",1980,251266,NA
+"2245","Mozambique","MOZ",1985,313280,NA
+"2246","Mozambique","MOZ",1990,267567,NA
+"2247","Mozambique","MOZ",1995,286768,NA
+"2248","Mozambique","MOZ",2000,279069,NA
+"2249","Mozambique","MOZ",2005,278369,NA
+"2250","Mozambique","MOZ",2010,274867,NA
+"2251","Mozambique","MOZ",2015,255083,NA
+"2252","Mozambique","MOZ",2020,249559,NA
+"2253","Mozambique","MOZ",2021,282145,NA
+"2254","Myanmar","MMR",1955,463450,NA
+"2255","Myanmar","MMR",1960,449475,NA
+"2256","Myanmar","MMR",1965,431251,NA
+"2257","Myanmar","MMR",1970,420026,NA
+"2258","Myanmar","MMR",1975,429077,NA
+"2259","Myanmar","MMR",1980,434423,NA
+"2260","Myanmar","MMR",1985,450278,NA
+"2261","Myanmar","MMR",1990,460947,NA
+"2262","Myanmar","MMR",1995,460801,NA
+"2263","Myanmar","MMR",2000,455684,NA
+"2264","Myanmar","MMR",2005,460352,NA
+"2265","Myanmar","MMR",2010,455611,NA
+"2266","Myanmar","MMR",2015,446949,NA
+"2267","Myanmar","MMR",2020,471418,NA
+"2268","Myanmar","MMR",2021,525701,NA
+"2269","Namibia","NAM",1955,11352,NA
+"2270","Namibia","NAM",1960,10801,NA
+"2271","Namibia","NAM",1965,10570,NA
+"2272","Namibia","NAM",1970,10772,NA
+"2273","Namibia","NAM",1975,10850,NA
+"2274","Namibia","NAM",1980,11440,NA
+"2275","Namibia","NAM",1985,11049,NA
+"2276","Namibia","NAM",1990,11371,NA
+"2277","Namibia","NAM",1995,15260,NA
+"2278","Namibia","NAM",2000,23098,NA
+"2279","Namibia","NAM",2005,25483,NA
+"2280","Namibia","NAM",2010,23276,NA
+"2281","Namibia","NAM",2015,20761,NA
+"2282","Namibia","NAM",2020,21112,NA
+"2283","Nauru","NRU",1960,50,NA
+"2284","Nauru","NRU",1965,52,NA
+"2285","Nauru","NRU",1970,54,NA
+"2286","Nauru","NRU",1975,58,NA
+"2287","Nauru","NRU",1980,66,NA
+"2288","Nauru","NRU",1985,77,NA
+"2289","Nauru","NRU",1990,75,NA
+"2290","Nauru","NRU",1995,72,NA
+"2291","Nauru","NRU",2000,86,NA
+"2292","Nauru","NRU",2005,89,NA
+"2293","Nauru","NRU",2010,85,NA
+"2294","Nauru","NRU",2015,78,NA
+"2295","Nauru","NRU",2020,82,NA
+"2296","Nauru","NRU",2021,83,NA
+"2297","Nepal","NPL",1955,237869,NA
+"2298","Nepal","NPL",1960,252886,NA
+"2299","Nepal","NPL",1965,261291,NA
+"2300","Nepal","NPL",1970,264861,NA
+"2301","Nepal","NPL",1975,269064,NA
+"2302","Nepal","NPL",1980,268943,NA
+"2303","Nepal","NPL",1985,266345,NA
+"2304","Nepal","NPL",1990,248380,NA
+"2305","Nepal","NPL",1995,225945,NA
+"2306","Nepal","NPL",2000,204297,NA
+"2307","Nepal","NPL",2005,188292,NA
+"2308","Nepal","NPL",2010,190785,NA
+"2309","Nepal","NPL",2015,204456,NA
+"2310","Nepal","NPL",2020,210466,NA
+"2311","Nepal","NPL",2021,232398,NA
+"2312","Netherlands","NLD",1955,81741,NA
+"2313","Netherlands","NLD",1960,87757,NA
+"2314","Netherlands","NLD",1965,97895,NA
+"2315","Netherlands","NLD",1970,109491,NA
+"2316","Netherlands","NLD",1975,113541,NA
+"2317","Netherlands","NLD",1980,114160,NA
+"2318","Netherlands","NLD",1985,122765,NA
+"2319","Netherlands","NLD",1990,128841,NA
+"2320","Netherlands","NLD",1995,135491,NA
+"2321","Netherlands","NLD",2000,140526,NA
+"2322","Netherlands","NLD",2005,136356,NA
+"2323","Netherlands","NLD",2010,136078,NA
+"2324","Netherlands","NLD",2015,147236,NA
+"2325","Netherlands","NLD",2020,167303,NA
+"2326","New Caledonia","NCL",1960,1031,NA
+"2327","New Caledonia","NCL",1965,1019,NA
+"2328","New Caledonia","NCL",1970,992,NA
+"2329","New Caledonia","NCL",1975,1064,NA
+"2330","New Caledonia","NCL",1980,997,NA
+"2331","New Caledonia","NCL",1985,936,NA
+"2332","New Caledonia","NCL",1990,1076,NA
+"2333","New Caledonia","NCL",1995,1165,NA
+"2334","New Caledonia","NCL",2000,1047,NA
+"2335","New Caledonia","NCL",2005,1101,NA
+"2336","New Caledonia","NCL",2010,1217,NA
+"2337","New Caledonia","NCL",2015,1477,NA
+"2338","New Caledonia","NCL",2020,1437,NA
+"2339","New Caledonia","NCL",2021,1749,NA
+"2340","New Zealand","NZL",1955,19203,NA
+"2341","New Zealand","NZL",1960,20901,NA
+"2342","New Zealand","NZL",1965,22949,NA
+"2343","New Zealand","NZL",1970,24840,NA
+"2344","New Zealand","NZL",1975,25119,NA
+"2345","New Zealand","NZL",1980,26586,NA
+"2346","New Zealand","NZL",1985,27480,NA
+"2347","New Zealand","NZL",1990,26423,NA
+"2348","New Zealand","NZL",1995,27790,NA
+"2349","New Zealand","NZL",2000,26649,NA
+"2350","New Zealand","NZL",2005,27120,NA
+"2351","New Zealand","NZL",2010,28465,NA
+"2352","New Zealand","NZL",2015,30037,NA
+"2353","New Zealand","NZL",2020,32068,NA
+"2354","Nicaragua","NIC",1960,33865,NA
+"2355","Nicaragua","NIC",1965,32629,NA
+"2356","Nicaragua","NIC",1970,31250,NA
+"2357","Nicaragua","NIC",1975,33971,NA
+"2358","Nicaragua","NIC",1980,34887,NA
+"2359","Nicaragua","NIC",1985,39542,NA
+"2360","Nicaragua","NIC",1990,30902,NA
+"2361","Nicaragua","NIC",1995,28648,NA
+"2362","Nicaragua","NIC",2000,28532,NA
+"2363","Nicaragua","NIC",2005,30718,NA
+"2364","Nicaragua","NIC",2010,26364,NA
+"2365","Nicaragua","NIC",2015,29251,NA
+"2366","Nicaragua","NIC",2020,38555,NA
+"2367","Nicaragua","NIC",2021,33308,NA
+"2368","Niger","NER",1955,83534,NA
+"2369","Niger","NER",1960,96484,NA
+"2370","Niger","NER",1965,110486,NA
+"2371","Niger","NER",1970,130478,NA
+"2372","Niger","NER",1975,147863,NA
+"2373","Niger","NER",1980,157217,NA
+"2374","Niger","NER",1985,185651,NA
+"2375","Niger","NER",1990,201502,NA
+"2376","Niger","NER",1995,201428,NA
+"2377","Niger","NER",2000,202722,NA
+"2378","Niger","NER",2005,193016,NA
+"2379","Niger","NER",2010,176396,NA
+"2380","Niger","NER",2015,177125,NA
+"2381","Niger","NER",2020,201622,NA
+"2382","Niger","NER",2021,205694,NA
+"2383","Nigeria","NGA",1955,1088067,NA
+"2384","Nigeria","NGA",1960,1178708,NA
+"2385","Nigeria","NGA",1965,1258330,NA
+"2386","Nigeria","NGA",1970,1353093,NA
+"2387","Nigeria","NGA",1975,1336292,NA
+"2388","Nigeria","NGA",1980,1396900,NA
+"2389","Nigeria","NGA",1985,1570962,NA
+"2390","Nigeria","NGA",1990,1773185,NA
+"2391","Nigeria","NGA",1995,2040259,NA
+"2392","Nigeria","NGA",2000,2145653,NA
+"2393","Nigeria","NGA",2005,2232152,NA
+"2394","Nigeria","NGA",2010,2354679,NA
+"2395","Nigeria","NGA",2015,2541011,NA
+"2396","Nigeria","NGA",2020,2708008,NA
+"2397","Niue","NIU",1960,59,NA
+"2398","Niue","NIU",1965,55,NA
+"2399","Niue","NIU",1970,47,NA
+"2400","Niue","NIU",1975,37,NA
+"2401","Niue","NIU",1980,31,NA
+"2402","Niue","NIU",1985,26,NA
+"2403","Niue","NIU",1990,27,NA
+"2404","Niue","NIU",1995,28,NA
+"2405","Niue","NIU",2000,25,NA
+"2406","Niue","NIU",2005,24,NA
+"2407","Niue","NIU",2010,23,NA
+"2408","Niue","NIU",2015,23,NA
+"2409","Niue","NIU",2020,27,NA
+"2410","Niue","NIU",2021,27,NA
+"2411","North Korea","PRK",1955,138391,NA
+"2412","North Korea","PRK",1960,138839,NA
+"2413","North Korea","PRK",1965,141109,NA
+"2414","North Korea","PRK",1970,133692,NA
+"2415","North Korea","PRK",1975,121147,NA
+"2416","North Korea","PRK",1980,113611,NA
+"2417","North Korea","PRK",1985,110871,NA
+"2418","North Korea","PRK",1990,116050,NA
+"2419","North Korea","PRK",1995,220623,NA
+"2420","North Korea","PRK",2000,251475,NA
+"2421","North Korea","PRK",2005,204865,NA
+"2422","North Korea","PRK",2010,214964,NA
+"2423","North Korea","PRK",2015,204324,NA
+"2424","North Korea","PRK",2020,234829,NA
+"2425","North Macedonia","MKD",1960,19025,NA
+"2426","North Macedonia","MKD",1965,16126,NA
+"2427","North Macedonia","MKD",1970,14246,NA
+"2428","North Macedonia","MKD",1975,13357,NA
+"2429","North Macedonia","MKD",1980,13544,NA
+"2430","North Macedonia","MKD",1985,14930,NA
+"2431","North Macedonia","MKD",1990,15607,NA
+"2432","North Macedonia","MKD",1995,17020,NA
+"2433","North Macedonia","MKD",2000,17666,NA
+"2434","North Macedonia","MKD",2005,18403,NA
+"2435","North Macedonia","MKD",2010,18814,NA
+"2436","North Macedonia","MKD",2015,19853,NA
+"2437","North Macedonia","MKD",2020,25720,NA
+"2438","North Macedonia","MKD",2021,29194,NA
+"2439","Northern America (UN)",NA,1955,1626378,NA
+"2440","Northern America (UN)",NA,1960,1811029,NA
+"2441","Northern America (UN)",NA,1965,1934819,NA
+"2442","Northern America (UN)",NA,1970,2039147,NA
+"2443","Northern America (UN)",NA,1975,2021315,NA
+"2444","Northern America (UN)",NA,1980,2125573,NA
+"2445","Northern America (UN)",NA,1985,2240801,NA
+"2446","Northern America (UN)",NA,1990,2317754,NA
+"2447","Northern America (UN)",NA,1995,2504956,NA
+"2448","Northern America (UN)",NA,2000,2608888,NA
+"2449","Northern America (UN)",NA,2005,2673100,NA
+"2450","Northern America (UN)",NA,2010,2710578,NA
+"2451","Northern America (UN)",NA,2015,2964800,NA
+"2452","Northern America (UN)",NA,2020,3544380,NA
+"2453","Northern America (UN)",NA,2021,3579160,NA
+"2454","Northern Mariana Islands","MNP",1955,66,NA
+"2455","Northern Mariana Islands","MNP",1960,65,NA
+"2456","Northern Mariana Islands","MNP",1965,69,NA
+"2457","Northern Mariana Islands","MNP",1970,61,NA
+"2458","Northern Mariana Islands","MNP",1975,81,NA
+"2459","Northern Mariana Islands","MNP",1980,82,NA
+"2460","Northern Mariana Islands","MNP",1985,112,NA
+"2461","Northern Mariana Islands","MNP",1990,153,NA
+"2462","Northern Mariana Islands","MNP",1995,156,NA
+"2463","Northern Mariana Islands","MNP",2000,184,NA
+"2464","Northern Mariana Islands","MNP",2005,162,NA
+"2465","Northern Mariana Islands","MNP",2010,163,NA
+"2466","Northern Mariana Islands","MNP",2015,216,NA
+"2467","Northern Mariana Islands","MNP",2020,278,NA
+"2468","Northern Mariana Islands","MNP",2021,295,NA
+"2469","Norway","NOR",1955,29122,NA
+"2470","Norway","NOR",1960,32487,NA
+"2471","Norway","NOR",1965,35290,NA
+"2472","Norway","NOR",1970,38681,NA
+"2473","Norway","NOR",1975,40028,NA
+"2474","Norway","NOR",1980,41326,NA
+"2475","Norway","NOR",1985,44331,NA
+"2476","Norway","NOR",1990,46049,NA
+"2477","Norway","NOR",1995,45197,NA
+"2478","Norway","NOR",2000,44011,NA
+"2479","Norway","NOR",2005,41211,NA
+"2480","Norway","NOR",2010,41415,NA
+"2481","Norway","NOR",2015,40759,NA
+"2482","Norway","NOR",2020,40578,NA
+"2483","Oceania (UN)",NA,1960,157420,NA
+"2484","Oceania (UN)",NA,1965,169708,NA
+"2485","Oceania (UN)",NA,1970,182094,NA
+"2486","Oceania (UN)",NA,1975,176528,NA
+"2487","Oceania (UN)",NA,1980,176497,NA
+"2488","Oceania (UN)",NA,1985,188194,NA
+"2489","Oceania (UN)",NA,1990,191051,NA
+"2490","Oceania (UN)",NA,1995,202660,NA
+"2491","Oceania (UN)",NA,2000,211796,NA
+"2492","Oceania (UN)",NA,2005,224460,NA
+"2493","Oceania (UN)",NA,2010,243110,NA
+"2494","Oceania (UN)",NA,2015,264406,NA
+"2495","Oceania (UN)",NA,2020,278401,NA
+"2496","Oman","OMN",1960,16409,NA
+"2497","Oman","OMN",1965,14592,NA
+"2498","Oman","OMN",1970,13034,NA
+"2499","Oman","OMN",1975,11933,NA
+"2500","Oman","OMN",1980,10827,NA
+"2501","Oman","OMN",1985,9334,NA
+"2502","Oman","OMN",1990,8118,NA
+"2503","Oman","OMN",1995,7735,NA
+"2504","Oman","OMN",2000,7430,NA
+"2505","Oman","OMN",2005,7328,NA
+"2506","Oman","OMN",2010,7110,NA
+"2507","Oman","OMN",2015,9102,NA
+"2508","Oman","OMN",2020,13991,NA
+"2509","Oman","OMN",2021,17206,NA
+"2510","Pakistan","PAK",1955,1022153,NA
+"2511","Pakistan","PAK",1960,961020,NA
+"2512","Pakistan","PAK",1965,897333,NA
+"2513","Pakistan","PAK",1970,818806,NA
+"2514","Pakistan","PAK",1975,882423,NA
+"2515","Pakistan","PAK",1980,970044,NA
+"2516","Pakistan","PAK",1985,1100992,NA
+"2517","Pakistan","PAK",1990,1238482,NA
+"2518","Pakistan","PAK",1995,1355586,NA
+"2519","Pakistan","PAK",2000,1349760,NA
+"2520","Pakistan","PAK",2005,1467794,NA
+"2521","Pakistan","PAK",2010,1479575,NA
+"2522","Pakistan","PAK",2015,1504820,NA
+"2523","Pakistan","PAK",2020,1606293,NA
+"2524","Palau","PLW",1960,141,NA
+"2525","Palau","PLW",1965,143,NA
+"2526","Palau","PLW",1970,141,NA
+"2527","Palau","PLW",1975,135,NA
+"2528","Palau","PLW",1980,123,NA
+"2529","Palau","PLW",1985,134,NA
+"2530","Palau","PLW",1990,165,NA
+"2531","Palau","PLW",1995,171,NA
+"2532","Palau","PLW",2000,175,NA
+"2533","Palau","PLW",2005,186,NA
+"2534","Palau","PLW",2010,199,NA
+"2535","Palau","PLW",2015,226,NA
+"2536","Palau","PLW",2020,231,NA
+"2537","Palau","PLW",2021,228,NA
+"2538","Palestine","PSE",1955,19909,NA
+"2539","Palestine","PSE",1960,19304,NA
+"2540","Palestine","PSE",1965,17725,NA
+"2541","Palestine","PSE",1970,14193,NA
+"2542","Palestine","PSE",1975,12936,NA
+"2543","Palestine","PSE",1980,11689,NA
+"2544","Palestine","PSE",1985,10906,NA
+"2545","Palestine","PSE",1990,10781,NA
+"2546","Palestine","PSE",1995,11262,NA
+"2547","Palestine","PSE",2000,12519,NA
+"2548","Palestine","PSE",2005,12683,NA
+"2549","Palestine","PSE",2010,13961,NA
+"2550","Palestine","PSE",2015,14860,NA
+"2551","Palestine","PSE",2020,17535,NA
+"2552","Panama","PAN",1960,11218,NA
+"2553","Panama","PAN",1965,11185,NA
+"2554","Panama","PAN",1970,11615,NA
+"2555","Panama","PAN",1975,10947,NA
+"2556","Panama","PAN",1980,11436,NA
+"2557","Panama","PAN",1985,11956,NA
+"2558","Panama","PAN",1990,13169,NA
+"2559","Panama","PAN",1995,13734,NA
+"2560","Panama","PAN",2000,14307,NA
+"2561","Panama","PAN",2005,14955,NA
+"2562","Panama","PAN",2010,17219,NA
+"2563","Panama","PAN",2015,19268,NA
+"2564","Panama","PAN",2020,24662,NA
+"2565","Panama","PAN",2021,26382,NA
+"2566","Papua New Guinea","PNG",1955,33634,NA
+"2567","Papua New Guinea","PNG",1960,33558,NA
+"2568","Papua New Guinea","PNG",1965,32742,NA
+"2569","Papua New Guinea","PNG",1970,30887,NA
+"2570","Papua New Guinea","PNG",1975,28886,NA
+"2571","Papua New Guinea","PNG",1980,27910,NA
+"2572","Papua New Guinea","PNG",1985,29229,NA
+"2573","Papua New Guinea","PNG",1990,31374,NA
+"2574","Papua New Guinea","PNG",1995,35019,NA
+"2575","Papua New Guinea","PNG",2000,41006,NA
+"2576","Papua New Guinea","PNG",2005,48983,NA
+"2577","Papua New Guinea","PNG",2010,53926,NA
+"2578","Papua New Guinea","PNG",2015,57075,NA
+"2579","Papua New Guinea","PNG",2020,62383,NA
+"2580","Paraguay","PRY",1960,19509,NA
+"2581","Paraguay","PRY",1965,20642,NA
+"2582","Paraguay","PRY",1970,22090,NA
+"2583","Paraguay","PRY",1975,23802,NA
+"2584","Paraguay","PRY",1980,25956,NA
+"2585","Paraguay","PRY",1985,26099,NA
+"2586","Paraguay","PRY",1990,25924,NA
+"2587","Paraguay","PRY",1995,26964,NA
+"2588","Paraguay","PRY",2000,28841,NA
+"2589","Paraguay","PRY",2005,30788,NA
+"2590","Paraguay","PRY",2010,31898,NA
+"2591","Paraguay","PRY",2015,33698,NA
+"2592","Paraguay","PRY",2020,39177,NA
+"2593","Paraguay","PRY",2021,51237,NA
+"2594","Peru","PER",1955,169824,NA
+"2595","Peru","PER",1960,175308,NA
+"2596","Peru","PER",1965,182669,NA
+"2597","Peru","PER",1970,254397,NA
+"2598","Peru","PER",1975,189496,NA
+"2599","Peru","PER",1980,193033,NA
+"2600","Peru","PER",1985,184335,NA
+"2601","Peru","PER",1990,160277,NA
+"2602","Peru","PER",1995,154011,NA
+"2603","Peru","PER",2000,154375,NA
+"2604","Peru","PER",2005,169011,NA
+"2605","Peru","PER",2010,202144,NA
+"2606","Peru","PER",2015,197692,NA
+"2607","Peru","PER",2020,243717,NA
+"2608","Peru","PER",2021,269050,NA
+"2609","Philippines","PHL",1955,286665,NA
+"2610","Philippines","PHL",1960,299155,NA
+"2611","Philippines","PHL",1965,298746,NA
+"2612","Philippines","PHL",1970,326689,NA
+"2613","Philippines","PHL",1975,363543,NA
+"2614","Philippines","PHL",1980,401471,NA
+"2615","Philippines","PHL",1985,428101,NA
+"2616","Philippines","PHL",1990,418039,NA
+"2617","Philippines","PHL",1995,409301,NA
+"2618","Philippines","PHL",2000,447028,NA
+"2619","Philippines","PHL",2005,476162,NA
+"2620","Philippines","PHL",2010,533882,NA
+"2621","Philippines","PHL",2015,590944,NA
+"2622","Philippines","PHL",2020,624582,NA
+"2623","Philippines","PHL",2021,832888,NA
+"2624","Poland","POL",1955,274090,NA
+"2625","Poland","POL",1960,223778,NA
+"2626","Poland","POL",1965,231547,NA
+"2627","Poland","POL",1970,269146,NA
+"2628","Poland","POL",1975,299343,NA
+"2629","Poland","POL",1980,353088,NA
+"2630","Poland","POL",1985,383376,NA
+"2631","Poland","POL",1990,390221,NA
+"2632","Poland","POL",1995,385982,NA
+"2633","Poland","POL",2000,368313,NA
+"2634","Poland","POL",2005,368483,NA
+"2635","Poland","POL",2010,378642,NA
+"2636","Poland","POL",2015,395527,NA
+"2637","Poland","POL",2020,471412,NA
+"2638","Poland","POL",2021,502541,NA
+"2639","Portugal","PRT",1955,99740,NA
+"2640","Portugal","PRT",1960,96233,NA
+"2641","Portugal","PRT",1965,95163,NA
+"2642","Portugal","PRT",1970,94520,NA
+"2643","Portugal","PRT",1975,97650,NA
+"2644","Portugal","PRT",1980,94470,NA
+"2645","Portugal","PRT",1985,96838,NA
+"2646","Portugal","PRT",1990,102607,NA
+"2647","Portugal","PRT",1995,103213,NA
+"2648","Portugal","PRT",2000,105056,NA
+"2649","Portugal","PRT",2005,107398,NA
+"2650","Portugal","PRT",2010,105946,NA
+"2651","Portugal","PRT",2015,108687,NA
+"2652","Portugal","PRT",2020,123874,NA
+"2653","Puerto Rico","PRI",1960,16197,NA
+"2654","Puerto Rico","PRI",1965,17660,NA
+"2655","Puerto Rico","PRI",1970,19540,NA
+"2656","Puerto Rico","PRI",1975,20390,NA
+"2657","Puerto Rico","PRI",1980,21226,NA
+"2658","Puerto Rico","PRI",1985,24149,NA
+"2659","Puerto Rico","PRI",1990,26492,NA
+"2660","Puerto Rico","PRI",1995,29118,NA
+"2661","Puerto Rico","PRI",2000,29425,NA
+"2662","Puerto Rico","PRI",2005,30287,NA
+"2663","Puerto Rico","PRI",2010,31746,NA
+"2664","Puerto Rico","PRI",2015,30876,NA
+"2665","Puerto Rico","PRI",2020,36682,NA
+"2666","Puerto Rico","PRI",2021,32914,NA
+"2667","Qatar","QAT",1955,386,NA
+"2668","Qatar","QAT",1960,400,NA
+"2669","Qatar","QAT",1965,551,NA
+"2670","Qatar","QAT",1970,745,NA
+"2671","Qatar","QAT",1975,802,NA
+"2672","Qatar","QAT",1980,887,NA
+"2673","Qatar","QAT",1985,948,NA
+"2674","Qatar","QAT",1990,985,NA
+"2675","Qatar","QAT",1995,1180,NA
+"2676","Qatar","QAT",2000,1447,NA
+"2677","Qatar","QAT",2005,1648,NA
+"2678","Qatar","QAT",2010,2124,NA
+"2679","Qatar","QAT",2015,2399,NA
+"2680","Qatar","QAT",2020,3465,NA
+"2681","Qatar","QAT",2021,3542,NA
+"2682","Reunion","REU",1955,4234,NA
+"2683","Reunion","REU",1960,4587,NA
+"2684","Reunion","REU",1965,4387,NA
+"2685","Reunion","REU",1970,3791,NA
+"2686","Reunion","REU",1975,3486,NA
+"2687","Reunion","REU",1980,3585,NA
+"2688","Reunion","REU",1985,3203,NA
+"2689","Reunion","REU",1990,3556,NA
+"2690","Reunion","REU",1995,3924,NA
+"2691","Reunion","REU",2000,4247,NA
+"2692","Reunion","REU",2005,4358,NA
+"2693","Reunion","REU",2010,4289,NA
+"2694","Reunion","REU",2015,4719,NA
+"2695","Reunion","REU",2020,5180,NA
+"2696","Reunion","REU",2021,5638,NA
+"2697","Romania","ROU",1955,192845,NA
+"2698","Romania","ROU",1960,162724,NA
+"2699","Romania","ROU",1965,163997,NA
+"2700","Romania","ROU",1970,198201,NA
+"2701","Romania","ROU",1975,204478,NA
+"2702","Romania","ROU",1980,237529,NA
+"2703","Romania","ROU",1985,251980,NA
+"2704","Romania","ROU",1990,249826,NA
+"2705","Romania","ROU",1995,268467,NA
+"2706","Romania","ROU",2000,251948,NA
+"2707","Romania","ROU",2005,290851,NA
+"2708","Romania","ROU",2010,250707,NA
+"2709","Romania","ROU",2015,265287,NA
+"2710","Romania","ROU",2020,281742,NA
+"2711","Romania","ROU",2021,314232,NA
+"2712","Russia","RUS",1955,1021230,NA
+"2713","Russia","RUS",1960,909975,NA
+"2714","Russia","RUS",1965,976199,NA
+"2715","Russia","RUS",1970,1147092,NA
+"2716","Russia","RUS",1975,1316539,NA
+"2717","Russia","RUS",1980,1532910,NA
+"2718","Russia","RUS",1985,1632281,NA
+"2719","Russia","RUS",1990,1624999,NA
+"2720","Russia","RUS",1995,2276818,NA
+"2721","Russia","RUS",2000,2276886,NA
+"2722","Russia","RUS",2005,2321138,NA
+"2723","Russia","RUS",2010,2049572,NA
+"2724","Russia","RUS",2015,1873440,NA
+"2725","Russia","RUS",2020,2066849,NA
+"2726","Rwanda","RWA",1960,57072,NA
+"2727","Rwanda","RWA",1965,59092,NA
+"2728","Rwanda","RWA",1970,71517,NA
+"2729","Rwanda","RWA",1975,92298,NA
+"2730","Rwanda","RWA",1980,95490,NA
+"2731","Rwanda","RWA",1985,91784,NA
+"2732","Rwanda","RWA",1990,112984,NA
+"2733","Rwanda","RWA",1995,111332,NA
+"2734","Rwanda","RWA",2000,128721,NA
+"2735","Rwanda","RWA",2005,95326,NA
+"2736","Rwanda","RWA",2010,83217,NA
+"2737","Rwanda","RWA",2015,78346,NA
+"2738","Rwanda","RWA",2020,78870,NA
+"2739","Rwanda","RWA",2021,84576,NA
+"2740","Saint Barthelemy","BLM",1955,28,NA
+"2741","Saint Barthelemy","BLM",1960,27,NA
+"2742","Saint Barthelemy","BLM",1965,28,NA
+"2743","Saint Barthelemy","BLM",1970,22,NA
+"2744","Saint Barthelemy","BLM",1975,20,NA
+"2745","Saint Barthelemy","BLM",1980,20,NA
+"2746","Saint Barthelemy","BLM",1985,20,NA
+"2747","Saint Barthelemy","BLM",1990,21,NA
+"2748","Saint Barthelemy","BLM",1995,28,NA
+"2749","Saint Barthelemy","BLM",2000,41,NA
+"2750","Saint Barthelemy","BLM",2005,47,NA
+"2751","Saint Barthelemy","BLM",2010,53,NA
+"2752","Saint Barthelemy","BLM",2015,55,NA
+"2753","Saint Barthelemy","BLM",2020,59,NA
+"2754","Saint Barthelemy","BLM",2021,60,NA
+"2755","Saint Helena","SHN",1955,57,NA
+"2756","Saint Helena","SHN",1960,53,NA
+"2757","Saint Helena","SHN",1965,53,NA
+"2758","Saint Helena","SHN",1970,56,NA
+"2759","Saint Helena","SHN",1975,57,NA
+"2760","Saint Helena","SHN",1980,58,NA
+"2761","Saint Helena","SHN",1985,61,NA
+"2762","Saint Helena","SHN",1990,61,NA
+"2763","Saint Helena","SHN",1995,55,NA
+"2764","Saint Helena","SHN",2000,52,NA
+"2765","Saint Helena","SHN",2005,53,NA
+"2766","Saint Helena","SHN",2010,63,NA
+"2767","Saint Helena","SHN",2015,78,NA
+"2768","Saint Helena","SHN",2020,82,NA
+"2769","Saint Helena","SHN",2021,87,NA
+"2770","Saint Kitts and Nevis","KNA",1955,710,NA
+"2771","Saint Kitts and Nevis","KNA",1960,877,NA
+"2772","Saint Kitts and Nevis","KNA",1965,664,NA
+"2773","Saint Kitts and Nevis","KNA",1970,550,NA
+"2774","Saint Kitts and Nevis","KNA",1975,519,NA
+"2775","Saint Kitts and Nevis","KNA",1980,557,NA
+"2776","Saint Kitts and Nevis","KNA",1985,492,NA
+"2777","Saint Kitts and Nevis","KNA",1990,502,NA
+"2778","Saint Kitts and Nevis","KNA",1995,455,NA
+"2779","Saint Kitts and Nevis","KNA",2000,419,NA
+"2780","Saint Kitts and Nevis","KNA",2005,396,NA
+"2781","Saint Kitts and Nevis","KNA",2010,439,NA
+"2782","Saint Kitts and Nevis","KNA",2015,468,NA
+"2783","Saint Kitts and Nevis","KNA",2020,479,NA
+"2784","Saint Kitts and Nevis","KNA",2021,485,NA
+"2785","Saint Lucia","LCA",1955,1396,NA
+"2786","Saint Lucia","LCA",1960,1312,NA
+"2787","Saint Lucia","LCA",1965,1052,NA
+"2788","Saint Lucia","LCA",1970,886,NA
+"2789","Saint Lucia","LCA",1975,855,NA
+"2790","Saint Lucia","LCA",1980,834,NA
+"2791","Saint Lucia","LCA",1985,793,NA
+"2792","Saint Lucia","LCA",1990,866,NA
+"2793","Saint Lucia","LCA",1995,949,NA
+"2794","Saint Lucia","LCA",2000,1115,NA
+"2795","Saint Lucia","LCA",2005,1145,NA
+"2796","Saint Lucia","LCA",2010,1249,NA
+"2797","Saint Lucia","LCA",2015,1353,NA
+"2798","Saint Lucia","LCA",2020,1471,NA
+"2799","Saint Lucia","LCA",2021,1850,NA
+"2800","Saint Martin (French part)","MAF",1955,26,NA
+"2801","Saint Martin (French part)","MAF",1960,28,NA
+"2802","Saint Martin (French part)","MAF",1965,31,NA
+"2803","Saint Martin (French part)","MAF",1970,29,NA
+"2804","Saint Martin (French part)","MAF",1975,32,NA
+"2805","Saint Martin (French part)","MAF",1980,34,NA
+"2806","Saint Martin (French part)","MAF",1985,50,NA
+"2807","Saint Martin (French part)","MAF",1990,78,NA
+"2808","Saint Martin (French part)","MAF",1995,87,NA
+"2809","Saint Martin (French part)","MAF",2000,107,NA
+"2810","Saint Martin (French part)","MAF",2005,118,NA
+"2811","Saint Martin (French part)","MAF",2010,137,NA
+"2812","Saint Martin (French part)","MAF",2015,151,NA
+"2813","Saint Martin (French part)","MAF",2020,158,NA
+"2814","Saint Martin (French part)","MAF",2021,159,NA
+"2815","Saint Pierre and Miquelon","SPM",1955,56,NA
+"2816","Saint Pierre and Miquelon","SPM",1960,56,NA
+"2817","Saint Pierre and Miquelon","SPM",1965,57,NA
+"2818","Saint Pierre and Miquelon","SPM",1970,54,NA
+"2819","Saint Pierre and Miquelon","SPM",1975,45,NA
+"2820","Saint Pierre and Miquelon","SPM",1980,53,NA
+"2821","Saint Pierre and Miquelon","SPM",1985,51,NA
+"2822","Saint Pierre and Miquelon","SPM",1990,52,NA
+"2823","Saint Pierre and Miquelon","SPM",1995,60,NA
+"2824","Saint Pierre and Miquelon","SPM",2000,61,NA
+"2825","Saint Pierre and Miquelon","SPM",2005,55,NA
+"2826","Saint Pierre and Miquelon","SPM",2010,61,NA
+"2827","Saint Pierre and Miquelon","SPM",2015,73,NA
+"2828","Saint Pierre and Miquelon","SPM",2020,73,NA
+"2829","Saint Pierre and Miquelon","SPM",2021,73,NA
+"2830","Saint Vincent and the Grenadines","VCT",1955,1418,NA
+"2831","Saint Vincent and the Grenadines","VCT",1960,1230,NA
+"2832","Saint Vincent and the Grenadines","VCT",1965,837,NA
+"2833","Saint Vincent and the Grenadines","VCT",1970,679,NA
+"2834","Saint Vincent and the Grenadines","VCT",1975,688,NA
+"2835","Saint Vincent and the Grenadines","VCT",1980,693,NA
+"2836","Saint Vincent and the Grenadines","VCT",1985,686,NA
+"2837","Saint Vincent and the Grenadines","VCT",1990,670,NA
+"2838","Saint Vincent and the Grenadines","VCT",1995,734,NA
+"2839","Saint Vincent and the Grenadines","VCT",2000,809,NA
+"2840","Saint Vincent and the Grenadines","VCT",2005,740,NA
+"2841","Saint Vincent and the Grenadines","VCT",2010,762,NA
+"2842","Saint Vincent and the Grenadines","VCT",2015,868,NA
+"2843","Saint Vincent and the Grenadines","VCT",2020,1157,NA
+"2844","Saint Vincent and the Grenadines","VCT",2021,1403,NA
+"2845","Samoa","WSM",1955,1483,NA
+"2846","Samoa","WSM",1960,1448,NA
+"2847","Samoa","WSM",1965,1339,NA
+"2848","Samoa","WSM",1970,1232,NA
+"2849","Samoa","WSM",1975,1148,NA
+"2850","Samoa","WSM",1980,1105,NA
+"2851","Samoa","WSM",1985,1054,NA
+"2852","Samoa","WSM",1990,1014,NA
+"2853","Samoa","WSM",1995,971,NA
+"2854","Samoa","WSM",2000,953,NA
+"2855","Samoa","WSM",2005,986,NA
+"2856","Samoa","WSM",2010,1036,NA
+"2857","Samoa","WSM",2015,1083,NA
+"2858","Samoa","WSM",2020,1143,NA
+"2859","Samoa","WSM",2021,1171,NA
+"2860","San Marino","SMR",1955,151,NA
+"2861","San Marino","SMR",1960,154,NA
+"2862","San Marino","SMR",1965,143,NA
+"2863","San Marino","SMR",1970,149,NA
+"2864","San Marino","SMR",1975,144,NA
+"2865","San Marino","SMR",1980,165,NA
+"2866","San Marino","SMR",1985,162,NA
+"2867","San Marino","SMR",1990,176,NA
+"2868","San Marino","SMR",1995,202,NA
+"2869","San Marino","SMR",2000,241,NA
+"2870","San Marino","SMR",2005,253,NA
+"2871","San Marino","SMR",2010,274,NA
+"2872","San Marino","SMR",2015,307,NA
+"2873","San Marino","SMR",2020,438,NA
+"2874","San Marino","SMR",2021,391,NA
+"2875","Sao Tome and Principe","STP",1955,1576,NA
+"2876","Sao Tome and Principe","STP",1960,1522,NA
+"2877","Sao Tome and Principe","STP",1965,1248,NA
+"2878","Sao Tome and Principe","STP",1970,1027,NA
+"2879","Sao Tome and Principe","STP",1975,1029,NA
+"2880","Sao Tome and Principe","STP",1980,1104,NA
+"2881","Sao Tome and Principe","STP",1985,1218,NA
+"2882","Sao Tome and Principe","STP",1990,1220,NA
+"2883","Sao Tome and Principe","STP",1995,1336,NA
+"2884","Sao Tome and Principe","STP",2000,1355,NA
+"2885","Sao Tome and Principe","STP",2005,1312,NA
+"2886","Sao Tome and Principe","STP",2010,1292,NA
+"2887","Sao Tome and Principe","STP",2015,1252,NA
+"2888","Sao Tome and Principe","STP",2020,1376,NA
+"2889","Sao Tome and Principe","STP",2021,1428,NA
+"2890","Saudi Arabia","SAU",1955,83291,NA
+"2891","Saudi Arabia","SAU",1960,87264,NA
+"2892","Saudi Arabia","SAU",1965,92076,NA
+"2893","Saudi Arabia","SAU",1970,93414,NA
+"2894","Saudi Arabia","SAU",1975,90348,NA
+"2895","Saudi Arabia","SAU",1980,83839,NA
+"2896","Saudi Arabia","SAU",1985,79517,NA
+"2897","Saudi Arabia","SAU",1990,77143,NA
+"2898","Saudi Arabia","SAU",1995,75148,NA
+"2899","Saudi Arabia","SAU",2000,75009,NA
+"2900","Saudi Arabia","SAU",2005,69551,NA
+"2901","Saudi Arabia","SAU",2010,73175,NA
+"2902","Saudi Arabia","SAU",2015,83169,NA
+"2903","Saudi Arabia","SAU",2020,106371,NA
+"2904","Senegal","SEN",1960,81546,NA
+"2905","Senegal","SEN",1965,92996,NA
+"2906","Senegal","SEN",1970,103029,NA
+"2907","Senegal","SEN",1975,105209,NA
+"2908","Senegal","SEN",1980,97249,NA
+"2909","Senegal","SEN",1985,93381,NA
+"2910","Senegal","SEN",1990,86250,NA
+"2911","Senegal","SEN",1995,97963,NA
+"2912","Senegal","SEN",2000,108766,NA
+"2913","Senegal","SEN",2005,98881,NA
+"2914","Senegal","SEN",2010,90265,NA
+"2915","Senegal","SEN",2015,87797,NA
+"2916","Senegal","SEN",2020,91832,NA
+"2917","Senegal","SEN",2021,99995,NA
+"2918","Serbia","SRB",1955,70403,NA
+"2919","Serbia","SRB",1960,58143,NA
+"2920","Serbia","SRB",1965,60081,NA
+"2921","Serbia","SRB",1970,64669,NA
+"2922","Serbia","SRB",1975,66863,NA
+"2923","Serbia","SRB",1980,75964,NA
+"2924","Serbia","SRB",1985,86457,NA
+"2925","Serbia","SRB",1990,87767,NA
+"2926","Serbia","SRB",1995,85738,NA
+"2927","Serbia","SRB",2000,99844,NA
+"2928","Serbia","SRB",2005,104725,NA
+"2929","Serbia","SRB",2010,104418,NA
+"2930","Serbia","SRB",2015,104426,NA
+"2931","Serbia","SRB",2020,120926,NA
+"2932","Seychelles","SYC",1960,765,NA
+"2933","Seychelles","SYC",1965,757,NA
+"2934","Seychelles","SYC",1970,723,NA
+"2935","Seychelles","SYC",1975,644,NA
+"2936","Seychelles","SYC",1980,575,NA
+"2937","Seychelles","SYC",1985,577,NA
+"2938","Seychelles","SYC",1990,602,NA
+"2939","Seychelles","SYC",1995,673,NA
+"2940","Seychelles","SYC",2000,599,NA
+"2941","Seychelles","SYC",2005,602,NA
+"2942","Seychelles","SYC",2010,619,NA
+"2943","Seychelles","SYC",2015,684,NA
+"2944","Seychelles","SYC",2020,766,NA
+"2945","Seychelles","SYC",2021,955,NA
+"2946","Sierra Leone","SLE",1955,68584,NA
+"2947","Sierra Leone","SLE",1960,70505,NA
+"2948","Sierra Leone","SLE",1965,72497,NA
+"2949","Sierra Leone","SLE",1970,73631,NA
+"2950","Sierra Leone","SLE",1975,74619,NA
+"2951","Sierra Leone","SLE",1980,76303,NA
+"2952","Sierra Leone","SLE",1985,81915,NA
+"2953","Sierra Leone","SLE",1990,90918,NA
+"2954","Sierra Leone","SLE",1995,96242,NA
+"2955","Sierra Leone","SLE",2000,89931,NA
+"2956","Sierra Leone","SLE",2005,96015,NA
+"2957","Sierra Leone","SLE",2010,84203,NA
+"2958","Sierra Leone","SLE",2015,78359,NA
+"2959","Sierra Leone","SLE",2020,76540,NA
+"2960","Sierra Leone","SLE",2021,76745,NA
+"2961","Singapore","SGP",1955,11294,NA
+"2962","Singapore","SGP",1960,9606,NA
+"2963","Singapore","SGP",1965,9302,NA
+"2964","Singapore","SGP",1970,10550,NA
+"2965","Singapore","SGP",1975,10958,NA
+"2966","Singapore","SGP",1980,12318,NA
+"2967","Singapore","SGP",1985,12927,NA
+"2968","Singapore","SGP",1990,14572,NA
+"2969","Singapore","SGP",1995,17416,NA
+"2970","Singapore","SGP",2000,16392,NA
+"2971","Singapore","SGP",2005,17710,NA
+"2972","Singapore","SGP",2010,20528,NA
+"2973","Singapore","SGP",2015,23533,NA
+"2974","Singapore","SGP",2020,29992,NA
+"2975","Singapore","SGP",2021,31862,NA
+"2976","Sint Maarten (Dutch part)","SXM",1955,23,NA
+"2977","Sint Maarten (Dutch part)","SXM",1960,28,NA
+"2978","Sint Maarten (Dutch part)","SXM",1965,34,NA
+"2979","Sint Maarten (Dutch part)","SXM",1970,31,NA
+"2980","Sint Maarten (Dutch part)","SXM",1975,38,NA
+"2981","Sint Maarten (Dutch part)","SXM",1980,57,NA
+"2982","Sint Maarten (Dutch part)","SXM",1985,71,NA
+"2983","Sint Maarten (Dutch part)","SXM",1990,102,NA
+"2984","Sint Maarten (Dutch part)","SXM",1995,127,NA
+"2985","Sint Maarten (Dutch part)","SXM",2000,115,NA
+"2986","Sint Maarten (Dutch part)","SXM",2005,121,NA
+"2987","Sint Maarten (Dutch part)","SXM",2010,160,NA
+"2988","Sint Maarten (Dutch part)","SXM",2015,163,NA
+"2989","Sint Maarten (Dutch part)","SXM",2020,296,NA
+"2990","Sint Maarten (Dutch part)","SXM",2021,339,NA
+"2991","Slovakia","SVK",1955,32912,NA
+"2992","Slovakia","SVK",1960,31645,NA
+"2993","Slovakia","SVK",1965,35894,NA
+"2994","Slovakia","SVK",1970,42219,NA
+"2995","Slovakia","SVK",1975,45281,NA
+"2996","Slovakia","SVK",1980,50604,NA
+"2997","Slovakia","SVK",1985,52482,NA
+"2998","Slovakia","SVK",1990,54643,NA
+"2999","Slovakia","SVK",1995,52630,NA
+"3000","Slovakia","SVK",2000,52743,NA
+"3001","Slovakia","SVK",2005,53452,NA
+"3002","Slovakia","SVK",2010,53387,NA
+"3003","Slovakia","SVK",2015,53749,NA
+"3004","Slovakia","SVK",2020,59217,NA
+"3005","Slovenia","SVN",1960,16835,NA
+"3006","Slovenia","SVN",1965,16890,NA
+"3007","Slovenia","SVN",1970,17642,NA
+"3008","Slovenia","SVN",1975,18559,NA
+"3009","Slovenia","SVN",1980,19674,NA
+"3010","Slovenia","SVN",1985,20379,NA
+"3011","Slovenia","SVN",1990,18733,NA
+"3012","Slovenia","SVN",1995,18880,NA
+"3013","Slovenia","SVN",2000,18334,NA
+"3014","Slovenia","SVN",2005,18445,NA
+"3015","Slovenia","SVN",2010,18364,NA
+"3016","Slovenia","SVN",2015,19715,NA
+"3017","Slovenia","SVN",2020,24030,NA
+"3018","Slovenia","SVN",2021,22948,NA
+"3019","Small island developing states (SIDS)",NA,1955,384790,NA
+"3020","Small island developing states (SIDS)",NA,1960,379751,NA
+"3021","Small island developing states (SIDS)",NA,1965,382234,NA
+"3022","Small island developing states (SIDS)",NA,1970,372488,NA
+"3023","Small island developing states (SIDS)",NA,1975,379752,NA
+"3024","Small island developing states (SIDS)",NA,1980,392295,NA
+"3025","Small island developing states (SIDS)",NA,1985,400253,NA
+"3026","Small island developing states (SIDS)",NA,1990,407181,NA
+"3027","Small island developing states (SIDS)",NA,1995,421788,NA
+"3028","Small island developing states (SIDS)",NA,2000,427990,NA
+"3029","Small island developing states (SIDS)",NA,2005,446636,NA
+"3030","Small island developing states (SIDS)",NA,2010,556007,NA
+"3031","Small island developing states (SIDS)",NA,2015,494167,NA
+"3032","Small island developing states (SIDS)",NA,2020,553881,NA
+"3033","Small island developing states (SIDS)",NA,2021,633128,NA
+"3034","Solomon Islands","SLB",1955,2432,NA
+"3035","Solomon Islands","SLB",1960,2282,NA
+"3036","Solomon Islands","SLB",1965,2246,NA
+"3037","Solomon Islands","SLB",1970,2121,NA
+"3038","Solomon Islands","SLB",1975,2161,NA
+"3039","Solomon Islands","SLB",1980,1869,NA
+"3040","Solomon Islands","SLB",1985,1981,NA
+"3041","Solomon Islands","SLB",1990,2125,NA
+"3042","Solomon Islands","SLB",1995,2315,NA
+"3043","Solomon Islands","SLB",2000,2560,NA
+"3044","Solomon Islands","SLB",2005,2821,NA
+"3045","Solomon Islands","SLB",2010,3041,NA
+"3046","Solomon Islands","SLB",2015,3227,NA
+"3047","Solomon Islands","SLB",2020,3515,NA
+"3048","Solomon Islands","SLB",2021,3561,NA
+"3049","Somalia","SOM",1955,55877,NA
+"3050","Somalia","SOM",1960,60662,NA
+"3051","Somalia","SOM",1965,65840,NA
+"3052","Somalia","SOM",1970,71911,NA
+"3053","Somalia","SOM",1975,86447,NA
+"3054","Somalia","SOM",1980,106331,NA
+"3055","Somalia","SOM",1985,116889,NA
+"3056","Somalia","SOM",1990,128309,NA
+"3057","Somalia","SOM",1995,113099,NA
+"3058","Somalia","SOM",2000,137220,NA
+"3059","Somalia","SOM",2005,163301,NA
+"3060","Somalia","SOM",2010,185415,NA
+"3061","Somalia","SOM",2015,171470,NA
+"3062","Somalia","SOM",2020,188459,NA
+"3063","Somalia","SOM",2021,198038,NA
+"3064","South Africa","ZAF",1955,252627,NA
+"3065","South Africa","ZAF",1960,232405,NA
+"3066","South Africa","ZAF",1965,250816,NA
+"3067","South Africa","ZAF",1970,273496,NA
+"3068","South Africa","ZAF",1975,285288,NA
+"3069","South Africa","ZAF",1980,288820,NA
+"3070","South Africa","ZAF",1985,293713,NA
+"3071","South Africa","ZAF",1990,319227,NA
+"3072","South Africa","ZAF",1995,369071,NA
+"3073","South Africa","ZAF",2000,476555,NA
+"3074","South Africa","ZAF",2005,645838,NA
+"3075","South Africa","ZAF",2010,582529,NA
+"3076","South Africa","ZAF",2015,514293,NA
+"3077","South Africa","ZAF",2020,553914,NA
+"3078","South Africa","ZAF",2021,678798,NA
+"3079","South Korea","KOR",1955,351891,NA
+"3080","South Korea","KOR",1960,326808,NA
+"3081","South Korea","KOR",1965,294509,NA
+"3082","South Korea","KOR",1970,261598,NA
+"3083","South Korea","KOR",1975,255831,NA
+"3084","South Korea","KOR",1980,267925,NA
+"3085","South Korea","KOR",1985,247294,NA
+"3086","South Korea","KOR",1990,234766,NA
+"3087","South Korea","KOR",1995,241909,NA
+"3088","South Korea","KOR",2000,236180,NA
+"3089","South Korea","KOR",2005,244811,NA
+"3090","South Korea","KOR",2010,256016,NA
+"3091","South Korea","KOR",2015,278713,NA
+"3092","South Korea","KOR",2020,321110,NA
+"3093","South Sudan","SSD",1960,104977,NA
+"3094","South Sudan","SSD",1965,112994,NA
+"3095","South Sudan","SSD",1970,133469,NA
+"3096","South Sudan","SSD",1975,101351,NA
+"3097","South Sudan","SSD",1980,106189,NA
+"3098","South Sudan","SSD",1985,144147,NA
+"3099","South Sudan","SSD",1990,161640,NA
+"3100","South Sudan","SSD",1995,173177,NA
+"3101","South Sudan","SSD",2000,112979,NA
+"3102","South Sudan","SSD",2005,106554,NA
+"3103","South Sudan","SSD",2010,111744,NA
+"3104","South Sudan","SSD",2015,124768,NA
+"3105","South Sudan","SSD",2020,114527,NA
+"3106","South Sudan","SSD",2021,118956,NA
+"3107","Spain","ESP",1955,275345,NA
+"3108","Spain","ESP",1960,270174,NA
+"3109","Spain","ESP",1965,273446,NA
+"3110","Spain","ESP",1970,284846,NA
+"3111","Spain","ESP",1975,296718,NA
+"3112","Spain","ESP",1980,287498,NA
+"3113","Spain","ESP",1985,311467,NA
+"3114","Spain","ESP",1990,331236,NA
+"3115","Spain","ESP",1995,343049,NA
+"3116","Spain","ESP",2000,357583,NA
+"3117","Spain","ESP",2005,384161,NA
+"3118","Spain","ESP",2010,380417,NA
+"3119","Spain","ESP",2015,420377,NA
+"3120","Spain","ESP",2020,493075,NA
+"3121","Spain","ESP",2021,454123,NA
+"3122","Sri Lanka","LKA",1955,131593,NA
+"3123","Sri Lanka","LKA",1960,108578,NA
+"3124","Sri Lanka","LKA",1965,101633,NA
+"3125","Sri Lanka","LKA",1970,94057,NA
+"3126","Sri Lanka","LKA",1975,98258,NA
+"3127","Sri Lanka","LKA",1980,96865,NA
+"3128","Sri Lanka","LKA",1985,93921,NA
+"3129","Sri Lanka","LKA",1990,102009,NA
+"3130","Sri Lanka","LKA",1995,115531,NA
+"3131","Sri Lanka","LKA",2000,152525,NA
+"3132","Sri Lanka","LKA",2005,147508,NA
+"3133","Sri Lanka","LKA",2010,152389,NA
+"3134","Sri Lanka","LKA",2015,149258,NA
+"3135","Sri Lanka","LKA",2020,153533,NA
+"3136","Sri Lanka","LKA",2021,160593,NA
+"3137","Sudan","SDN",1955,123014,NA
+"3138","Sudan","SDN",1960,150638,NA
+"3139","Sudan","SDN",1965,172441,NA
+"3140","Sudan","SDN",1970,209172,NA
+"3141","Sudan","SDN",1975,182793,NA
+"3142","Sudan","SDN",1980,217179,NA
+"3143","Sudan","SDN",1985,346906,NA
+"3144","Sudan","SDN",1990,314494,NA
+"3145","Sudan","SDN",1995,307660,NA
+"3146","Sudan","SDN",2000,255520,NA
+"3147","Sudan","SDN",2005,297432,NA
+"3148","Sudan","SDN",2010,259386,NA
+"3149","Sudan","SDN",2015,267594,NA
+"3150","Sudan","SDN",2020,296441,NA
+"3151","Suriname","SUR",1960,3232,NA
+"3152","Suriname","SUR",1965,3741,NA
+"3153","Suriname","SUR",1970,3790,NA
+"3154","Suriname","SUR",1975,3757,NA
+"3155","Suriname","SUR",1980,3587,NA
+"3156","Suriname","SUR",1985,3270,NA
+"3157","Suriname","SUR",1990,3148,NA
+"3158","Suriname","SUR",1995,3028,NA
+"3159","Suriname","SUR",2000,3734,NA
+"3160","Suriname","SUR",2005,4244,NA
+"3161","Suriname","SUR",2010,3886,NA
+"3162","Suriname","SUR",2015,4156,NA
+"3163","Suriname","SUR",2020,4273,NA
+"3164","Suriname","SUR",2021,5315,NA
+"3165","Sweden","SWE",1955,68704,NA
+"3166","Sweden","SWE",1960,75085,NA
+"3167","Sweden","SWE",1965,78217,NA
+"3168","Sweden","SWE",1970,80035,NA
+"3169","Sweden","SWE",1975,88206,NA
+"3170","Sweden","SWE",1980,91785,NA
+"3171","Sweden","SWE",1985,94119,NA
+"3172","Sweden","SWE",1990,95127,NA
+"3173","Sweden","SWE",1995,93849,NA
+"3174","Sweden","SWE",2000,93378,NA
+"3175","Sweden","SWE",2005,91915,NA
+"3176","Sweden","SWE",2010,90603,NA
+"3177","Sweden","SWE",2015,90926,NA
+"3178","Sweden","SWE",2020,98316,NA
+"3179","Sweden","SWE",2021,92278,NA
+"3180","Switzerland","CHE",1955,50266,NA
+"3181","Switzerland","CHE",1960,52093,NA
+"3182","Switzerland","CHE",1965,55500,NA
+"3183","Switzerland","CHE",1970,57071,NA
+"3184","Switzerland","CHE",1975,55947,NA
+"3185","Switzerland","CHE",1980,59070,NA
+"3186","Switzerland","CHE",1985,59536,NA
+"3187","Switzerland","CHE",1990,63756,NA
+"3188","Switzerland","CHE",1995,63386,NA
+"3189","Switzerland","CHE",2000,62523,NA
+"3190","Switzerland","CHE",2005,61062,NA
+"3191","Switzerland","CHE",2010,62650,NA
+"3192","Switzerland","CHE",2015,67634,NA
+"3193","Switzerland","CHE",2020,75992,NA
+"3194","Switzerland","CHE",2021,69734,NA
+"3195","Syria","SYR",1955,85096,NA
+"3196","Syria","SYR",1960,75233,NA
+"3197","Syria","SYR",1965,70305,NA
+"3198","Syria","SYR",1970,66730,NA
+"3199","Syria","SYR",1975,63220,NA
+"3200","Syria","SYR",1980,60019,NA
+"3201","Syria","SYR",1985,57228,NA
+"3202","Syria","SYR",1990,59390,NA
+"3203","Syria","SYR",1995,64499,NA
+"3204","Syria","SYR",2000,72012,NA
+"3205","Syria","SYR",2005,72918,NA
+"3206","Syria","SYR",2010,82765,NA
+"3207","Syria","SYR",2015,143047,NA
+"3208","Syria","SYR",2020,103032,NA
+"3209","Syria","SYR",2021,108607,NA
+"3210","Taiwan","TWN",1955,83967,NA
+"3211","Taiwan","TWN",1960,78134,NA
+"3212","Taiwan","TWN",1965,71712,NA
+"3213","Taiwan","TWN",1970,67592,NA
+"3214","Taiwan","TWN",1975,71827,NA
+"3215","Taiwan","TWN",1980,82177,NA
+"3216","Taiwan","TWN",1985,90317,NA
+"3217","Taiwan","TWN",1990,104626,NA
+"3218","Taiwan","TWN",1995,120230,NA
+"3219","Taiwan","TWN",2000,126381,NA
+"3220","Taiwan","TWN",2005,140688,NA
+"3221","Taiwan","TWN",2010,145178,NA
+"3222","Taiwan","TWN",2015,159321,NA
+"3223","Taiwan","TWN",2020,172149,NA
+"3224","Taiwan","TWN",2021,176533,NA
+"3225","Tajikistan","TJK",1955,30457,NA
+"3226","Tajikistan","TJK",1960,35437,NA
+"3227","Tajikistan","TJK",1965,37686,NA
+"3228","Tajikistan","TJK",1970,38740,NA
+"3229","Tajikistan","TJK",1975,39433,NA
+"3230","Tajikistan","TJK",1980,44187,NA
+"3231","Tajikistan","TJK",1985,48437,NA
+"3232","Tajikistan","TJK",1990,52655,NA
+"3233","Tajikistan","TJK",1995,59438,NA
+"3234","Tajikistan","TJK",2000,47362,NA
+"3235","Tajikistan","TJK",2005,42465,NA
+"3236","Tajikistan","TJK",2010,45345,NA
+"3237","Tajikistan","TJK",2015,46344,NA
+"3238","Tajikistan","TJK",2020,58418,NA
+"3239","Tanzania","TZA",1960,210777,NA
+"3240","Tanzania","TZA",1965,235256,NA
+"3241","Tanzania","TZA",1970,252262,NA
+"3242","Tanzania","TZA",1975,277104,NA
+"3243","Tanzania","TZA",1980,297366,NA
+"3244","Tanzania","TZA",1985,337443,NA
+"3245","Tanzania","TZA",1990,380087,NA
+"3246","Tanzania","TZA",1995,439605,NA
+"3247","Tanzania","TZA",2000,456859,NA
+"3248","Tanzania","TZA",2005,429886,NA
+"3249","Tanzania","TZA",2010,401185,NA
+"3250","Tanzania","TZA",2015,365045,NA
+"3251","Tanzania","TZA",2020,381393,NA
+"3252","Tanzania","TZA",2021,395720,NA
+"3253","Thailand","THA",1955,407441,NA
+"3254","Thailand","THA",1960,391987,NA
+"3255","Thailand","THA",1965,381794,NA
+"3256","Thailand","THA",1970,369462,NA
+"3257","Thailand","THA",1975,342433,NA
+"3258","Thailand","THA",1980,332147,NA
+"3259","Thailand","THA",1985,310818,NA
+"3260","Thailand","THA",1990,309013,NA
+"3261","Thailand","THA",1995,354185,NA
+"3262","Thailand","THA",2000,380684,NA
+"3263","Thailand","THA",2005,415962,NA
+"3264","Thailand","THA",2010,430364,NA
+"3265","Thailand","THA",2015,472520,NA
+"3266","Thailand","THA",2020,519058,NA
+"3267","Togo","TGO",1960,37196,NA
+"3268","Togo","TGO",1965,38509,NA
+"3269","Togo","TGO",1970,42337,NA
+"3270","Togo","TGO",1975,43422,NA
+"3271","Togo","TGO",1980,43351,NA
+"3272","Togo","TGO",1985,45195,NA
+"3273","Togo","TGO",1990,49259,NA
+"3274","Togo","TGO",1995,53301,NA
+"3275","Togo","TGO",2000,59569,NA
+"3276","Togo","TGO",2005,63273,NA
+"3277","Togo","TGO",2010,67886,NA
+"3278","Togo","TGO",2015,68513,NA
+"3279","Togo","TGO",2020,71077,NA
+"3280","Tokelau","TKL",1960,20,NA
+"3281","Tokelau","TKL",1965,19,NA
+"3282","Tokelau","TKL",1970,17,NA
+"3283","Tokelau","TKL",1975,16,NA
+"3284","Tokelau","TKL",1980,15,NA
+"3285","Tokelau","TKL",1985,14,NA
+"3286","Tokelau","TKL",1990,13,NA
+"3287","Tokelau","TKL",1995,13,NA
+"3288","Tokelau","TKL",2000,13,NA
+"3289","Tokelau","TKL",2005,13,NA
+"3290","Tokelau","TKL",2010,13,NA
+"3291","Tokelau","TKL",2015,13,NA
+"3292","Tokelau","TKL",2020,13,NA
+"3293","Tokelau","TKL",2021,14,NA
+"3294","Tonga","TON",1955,723,NA
+"3295","Tonga","TON",1960,725,NA
+"3296","Tonga","TON",1965,704,NA
+"3297","Tonga","TON",1970,641,NA
+"3298","Tonga","TON",1975,625,NA
+"3299","Tonga","TON",1980,646,NA
+"3300","Tonga","TON",1985,668,NA
+"3301","Tonga","TON",1990,683,NA
+"3302","Tonga","TON",1995,690,NA
+"3303","Tonga","TON",2000,699,NA
+"3304","Tonga","TON",2005,709,NA
+"3305","Tonga","TON",2010,716,NA
+"3306","Tonga","TON",2015,728,NA
+"3307","Tonga","TON",2020,734,NA
+"3308","Trinidad and Tobago","TTO",1960,6833,NA
+"3309","Trinidad and Tobago","TTO",1965,7159,NA
+"3310","Trinidad and Tobago","TTO",1970,7636,NA
+"3311","Trinidad and Tobago","TTO",1975,7346,NA
+"3312","Trinidad and Tobago","TTO",1980,7798,NA
+"3313","Trinidad and Tobago","TTO",1985,8432,NA
+"3314","Trinidad and Tobago","TTO",1990,8501,NA
+"3315","Trinidad and Tobago","TTO",1995,8524,NA
+"3316","Trinidad and Tobago","TTO",2000,9317,NA
+"3317","Trinidad and Tobago","TTO",2005,8969,NA
+"3318","Trinidad and Tobago","TTO",2010,9467,NA
+"3319","Trinidad and Tobago","TTO",2015,9926,NA
+"3320","Trinidad and Tobago","TTO",2020,11982,NA
+"3321","Trinidad and Tobago","TTO",2021,13917,NA
+"3322","Tunisia","TUN",1955,98400,NA
+"3323","Tunisia","TUN",1960,91090,NA
+"3324","Tunisia","TUN",1965,80226,NA
+"3325","Tunisia","TUN",1970,68385,NA
+"3326","Tunisia","TUN",1975,58344,NA
+"3327","Tunisia","TUN",1980,51880,NA
+"3328","Tunisia","TUN",1985,48438,NA
+"3329","Tunisia","TUN",1990,46403,NA
+"3330","Tunisia","TUN",1995,46291,NA
+"3331","Tunisia","TUN",2000,47265,NA
+"3332","Tunisia","TUN",2005,51368,NA
+"3333","Tunisia","TUN",2010,58150,NA
+"3334","Tunisia","TUN",2015,67233,NA
+"3335","Tunisia","TUN",2020,82136,NA
+"3336","Tunisia","TUN",2021,96709,NA
+"3337","Turkey","TUR",1955,471984,NA
+"3338","Turkey","TUR",1960,488850,NA
+"3339","Turkey","TUR",1965,468571,NA
+"3340","Turkey","TUR",1970,470703,NA
+"3341","Turkey","TUR",1975,462021,NA
+"3342","Turkey","TUR",1980,430666,NA
+"3343","Turkey","TUR",1985,394090,NA
+"3344","Turkey","TUR",1990,371685,NA
+"3345","Turkey","TUR",1995,369663,NA
+"3346","Turkey","TUR",2000,360256,NA
+"3347","Turkey","TUR",2005,367664,NA
+"3348","Turkey","TUR",2010,384167,NA
+"3349","Turkey","TUR",2015,407307,NA
+"3350","Turkey","TUR",2020,536806,NA
+"3351","Turkey","TUR",2021,542597,NA
+"3352","Turkmenistan","TKM",1955,24801,NA
+"3353","Turkmenistan","TKM",1960,27261,NA
+"3354","Turkmenistan","TKM",1965,27693,NA
+"3355","Turkmenistan","TKM",1970,26728,NA
+"3356","Turkmenistan","TKM",1975,27088,NA
+"3357","Turkmenistan","TKM",1980,28153,NA
+"3358","Turkmenistan","TKM",1985,30297,NA
+"3359","Turkmenistan","TKM",1990,30709,NA
+"3360","Turkmenistan","TKM",1995,32913,NA
+"3361","Turkmenistan","TKM",2000,31782,NA
+"3362","Turkmenistan","TKM",2005,33597,NA
+"3363","Turkmenistan","TKM",2010,33638,NA
+"3364","Turkmenistan","TKM",2015,37687,NA
+"3365","Turkmenistan","TKM",2020,42735,NA
+"3366","Turks and Caicos Islands","TCA",1960,85,NA
+"3367","Turks and Caicos Islands","TCA",1965,64,NA
+"3368","Turks and Caicos Islands","TCA",1970,76,NA
+"3369","Turks and Caicos Islands","TCA",1975,45,NA
+"3370","Turks and Caicos Islands","TCA",1980,51,NA
+"3371","Turks and Caicos Islands","TCA",1985,60,NA
+"3372","Turks and Caicos Islands","TCA",1990,72,NA
+"3373","Turks and Caicos Islands","TCA",1995,93,NA
+"3374","Turks and Caicos Islands","TCA",2000,83,NA
+"3375","Turks and Caicos Islands","TCA",2005,90,NA
+"3376","Turks and Caicos Islands","TCA",2010,164,NA
+"3377","Turks and Caicos Islands","TCA",2015,244,NA
+"3378","Turks and Caicos Islands","TCA",2020,388,NA
+"3379","Tuvalu","TUV",1960,104,NA
+"3380","Tuvalu","TUV",1965,94,NA
+"3381","Tuvalu","TUV",1970,78,NA
+"3382","Tuvalu","TUV",1975,70,NA
+"3383","Tuvalu","TUV",1980,77,NA
+"3384","Tuvalu","TUV",1985,86,NA
+"3385","Tuvalu","TUV",1990,96,NA
+"3386","Tuvalu","TUV",1995,96,NA
+"3387","Tuvalu","TUV",2000,98,NA
+"3388","Tuvalu","TUV",2005,98,NA
+"3389","Tuvalu","TUV",2010,105,NA
+"3390","Tuvalu","TUV",2015,111,NA
+"3391","Tuvalu","TUV",2020,113,NA
+"3392","Tuvalu","TUV",2021,114,NA
+"3393","Uganda","UGA",1955,150061,NA
+"3394","Uganda","UGA",1960,147006,NA
+"3395","Uganda","UGA",1965,151717,NA
+"3396","Uganda","UGA",1970,169065,NA
+"3397","Uganda","UGA",1975,218324,NA
+"3398","Uganda","UGA",1980,281867,NA
+"3399","Uganda","UGA",1985,284372,NA
+"3400","Uganda","UGA",1990,318505,NA
+"3401","Uganda","UGA",1995,359857,NA
+"3402","Uganda","UGA",2000,367928,NA
+"3403","Uganda","UGA",2005,326161,NA
+"3404","Uganda","UGA",2010,286470,NA
+"3405","Uganda","UGA",2015,249412,NA
+"3406","Uganda","UGA",2020,259787,NA
+"3407","Uganda","UGA",2021,269420,NA
+"3408","Ukraine","UKR",1955,402040,NA
+"3409","Ukraine","UKR",1960,321030,NA
+"3410","Ukraine","UKR",1965,361785,NA
+"3411","Ukraine","UKR",1970,444715,NA
+"3412","Ukraine","UKR",1975,487958,NA
+"3413","Ukraine","UKR",1980,567808,NA
+"3414","Ukraine","UKR",1985,617927,NA
+"3415","Ukraine","UKR",1990,629736,NA
+"3416","Ukraine","UKR",1995,791491,NA
+"3417","Ukraine","UKR",2000,758336,NA
+"3418","Ukraine","UKR",2005,780775,NA
+"3419","Ukraine","UKR",2010,697954,NA
+"3420","Ukraine","UKR",2015,596083,NA
+"3421","Ukraine","UKR",2020,698849,NA
+"3422","Ukraine","UKR",2021,731364,NA
+"3423","United Arab Emirates","ARE",1955,1929,NA
+"3424","United Arab Emirates","ARE",1960,2043,NA
+"3425","United Arab Emirates","ARE",1965,2030,NA
+"3426","United Arab Emirates","ARE",1970,2138,NA
+"3427","United Arab Emirates","ARE",1975,2952,NA
+"3428","United Arab Emirates","ARE",1980,3812,NA
+"3429","United Arab Emirates","ARE",1985,4232,NA
+"3430","United Arab Emirates","ARE",1990,5054,NA
+"3431","United Arab Emirates","ARE",1995,6148,NA
+"3432","United Arab Emirates","ARE",2000,6762,NA
+"3433","United Arab Emirates","ARE",2005,6429,NA
+"3434","United Arab Emirates","ARE",2010,6755,NA
+"3435","United Arab Emirates","ARE",2015,9044,NA
+"3436","United Arab Emirates","ARE",2020,16406,NA
+"3437","United Kingdom","GBR",1960,603662,NA
+"3438","United Kingdom","GBR",1965,625005,NA
+"3439","United Kingdom","GBR",1970,655267,NA
+"3440","United Kingdom","GBR",1975,662172,NA
+"3441","United Kingdom","GBR",1980,661807,NA
+"3442","United Kingdom","GBR",1985,672170,NA
+"3443","United Kingdom","GBR",1990,641688,NA
+"3444","United Kingdom","GBR",1995,644410,NA
+"3445","United Kingdom","GBR",2000,607061,NA
+"3446","United Kingdom","GBR",2005,581215,NA
+"3447","United Kingdom","GBR",2010,560655,NA
+"3448","United Kingdom","GBR",2015,601754,NA
+"3449","United Kingdom","GBR",2020,672991,NA
+"3450","United Kingdom","GBR",2021,652723,NA
+"3451","United States","USA",1955,1496520,NA
+"3452","United States","USA",1960,1671107,NA
+"3453","United States","USA",1965,1786104,NA
+"3454","United States","USA",1970,1883108,NA
+"3455","United States","USA",1975,1853600,NA
+"3456","United States","USA",1980,1953595,NA
+"3457","United States","USA",1985,2058608,NA
+"3458","United States","USA",1990,2124914,NA
+"3459","United States","USA",1995,2293366,NA
+"3460","United States","USA",2000,2390401,NA
+"3461","United States","USA",2005,2442263,NA
+"3462","United States","USA",2010,2469925,NA
+"3463","United States","USA",2015,2699590,NA
+"3464","United States","USA",2020,3238518,NA
+"3465","United States Virgin Islands","VIR",1960,354,NA
+"3466","United States Virgin Islands","VIR",1965,429,NA
+"3467","United States Virgin Islands","VIR",1970,488,NA
+"3468","United States Virgin Islands","VIR",1975,529,NA
+"3469","United States Virgin Islands","VIR",1980,623,NA
+"3470","United States Virgin Islands","VIR",1985,646,NA
+"3471","United States Virgin Islands","VIR",1990,648,NA
+"3472","United States Virgin Islands","VIR",1995,781,NA
+"3473","United States Virgin Islands","VIR",2000,909,NA
+"3474","United States Virgin Islands","VIR",2005,1043,NA
+"3475","United States Virgin Islands","VIR",2010,1222,NA
+"3476","United States Virgin Islands","VIR",2015,1243,NA
+"3477","United States Virgin Islands","VIR",2020,1375,NA
+"3478","United States Virgin Islands","VIR",2021,1426,NA
+"3479","Upper-middle-income countries",NA,1955,17687756,NA
+"3480","Upper-middle-income countries",NA,1960,24909378,NA
+"3481","Upper-middle-income countries",NA,1965,16105830,NA
+"3482","Upper-middle-income countries",NA,1970,15589091,NA
+"3483","Upper-middle-income countries",NA,1975,14034230,NA
+"3484","Upper-middle-income countries",NA,1980,13525987,NA
+"3485","Upper-middle-income countries",NA,1985,13702168,NA
+"3486","Upper-middle-income countries",NA,1990,14293696,NA
+"3487","Upper-middle-income countries",NA,1995,14740065,NA
+"3488","Upper-middle-income countries",NA,2000,15187411,NA
+"3489","Upper-middle-income countries",NA,2005,15828056,NA
+"3490","Upper-middle-income countries",NA,2010,16453203,NA
+"3491","Upper-middle-income countries",NA,2015,17257846,NA
+"3492","Upper-middle-income countries",NA,2020,19826792,NA
+"3493","Upper-middle-income countries",NA,2021,21180532,NA
+"3494","Uruguay","URY",1955,24135,NA
+"3495","Uruguay","URY",1960,24591,NA
+"3496","Uruguay","URY",1965,25759,NA
+"3497","Uruguay","URY",1970,26802,NA
+"3498","Uruguay","URY",1975,28354,NA
+"3499","Uruguay","URY",1980,28196,NA
+"3500","Uruguay","URY",1985,28541,NA
+"3501","Uruguay","URY",1990,29293,NA
+"3502","Uruguay","URY",1995,30080,NA
+"3503","Uruguay","URY",2000,30086,NA
+"3504","Uruguay","URY",2005,30483,NA
+"3505","Uruguay","URY",2010,31447,NA
+"3506","Uruguay","URY",2015,32549,NA
+"3507","Uruguay","URY",2020,32343,NA
+"3508","Uruguay","URY",2021,41681,NA
+"3509","Uzbekistan","UZB",1955,112470,NA
+"3510","Uzbekistan","UZB",1960,125433,NA
+"3511","Uzbekistan","UZB",1965,131219,NA
+"3512","Uzbekistan","UZB",1970,131692,NA
+"3513","Uzbekistan","UZB",1975,138830,NA
+"3514","Uzbekistan","UZB",1980,147704,NA
+"3515","Uzbekistan","UZB",1985,153583,NA
+"3516","Uzbekistan","UZB",1990,157484,NA
+"3517","Uzbekistan","UZB",1995,174870,NA
+"3518","Uzbekistan","UZB",2000,171848,NA
+"3519","Uzbekistan","UZB",2005,175394,NA
+"3520","Uzbekistan","UZB",2010,183059,NA
+"3521","Uzbekistan","UZB",2015,192576,NA
+"3522","Uzbekistan","UZB",2020,226461,NA
+"3523","Vanuatu","VUT",1960,1076,NA
+"3524","Vanuatu","VUT",1965,1054,NA
+"3525","Vanuatu","VUT",1970,1012,NA
+"3526","Vanuatu","VUT",1975,940,NA
+"3527","Vanuatu","VUT",1980,1091,NA
+"3528","Vanuatu","VUT",1985,1026,NA
+"3529","Vanuatu","VUT",1990,1005,NA
+"3530","Vanuatu","VUT",1995,1028,NA
+"3531","Vanuatu","VUT",2000,1060,NA
+"3532","Vanuatu","VUT",2005,1253,NA
+"3533","Vanuatu","VUT",2010,1490,NA
+"3534","Vanuatu","VUT",2015,1661,NA
+"3535","Vanuatu","VUT",2020,1711,NA
+"3536","Vanuatu","VUT",2021,1722,NA
+"3537","Vatican","VAT",1955,5,NA
+"3538","Vatican","VAT",1960,5,NA
+"3539","Vatican","VAT",1965,6,NA
+"3540","Vatican","VAT",1970,6,NA
+"3541","Vatican","VAT",1975,7,NA
+"3542","Vatican","VAT",1980,7,NA
+"3543","Vatican","VAT",1985,8,NA
+"3544","Vatican","VAT",1990,8,NA
+"3545","Vatican","VAT",1995,9,NA
+"3546","Vatican","VAT",2000,9,NA
+"3547","Vatican","VAT",2005,9,NA
+"3548","Vatican","VAT",2010,9,NA
+"3549","Vatican","VAT",2015,10,NA
+"3550","Vatican","VAT",2020,10,NA
+"3551","Vatican","VAT",2021,11,NA
+"3552","Venezuela","VEN",1955,82412,NA
+"3553","Venezuela","VEN",1960,81029,NA
+"3554","Venezuela","VEN",1965,81188,NA
+"3555","Venezuela","VEN",1970,78500,NA
+"3556","Venezuela","VEN",1975,77148,NA
+"3557","Venezuela","VEN",1980,81573,NA
+"3558","Venezuela","VEN",1985,84914,NA
+"3559","Venezuela","VEN",1990,93872,NA
+"3560","Venezuela","VEN",1995,105369,NA
+"3561","Venezuela","VEN",2000,121265,NA
+"3562","Venezuela","VEN",2005,138428,NA
+"3563","Venezuela","VEN",2010,160040,NA
+"3564","Venezuela","VEN",2015,183274,NA
+"3565","Venezuela","VEN",2020,217755,NA
+"3566","Venezuela","VEN",2021,231205,NA
+"3567","Vietnam","VNM",1955,368706,NA
+"3568","Vietnam","VNM",1960,375245,NA
+"3569","Vietnam","VNM",1965,437435,NA
+"3570","Vietnam","VNM",1970,535630,NA
+"3571","Vietnam","VNM",1975,445334,NA
+"3572","Vietnam","VNM",1980,430520,NA
+"3573","Vietnam","VNM",1985,452026,NA
+"3574","Vietnam","VNM",1990,456127,NA
+"3575","Vietnam","VNM",1995,436626,NA
+"3576","Vietnam","VNM",2000,455108,NA
+"3577","Vietnam","VNM",2005,488022,NA
+"3578","Vietnam","VNM",2010,541404,NA
+"3579","Vietnam","VNM",2015,594095,NA
+"3580","Vietnam","VNM",2020,596182,NA
+"3581","Wallis and Futuna","WLF",1960,159,NA
+"3582","Wallis and Futuna","WLF",1965,145,NA
+"3583","Wallis and Futuna","WLF",1970,127,NA
+"3584","Wallis and Futuna","WLF",1975,116,NA
+"3585","Wallis and Futuna","WLF",1980,112,NA
+"3586","Wallis and Futuna","WLF",1985,103,NA
+"3587","Wallis and Futuna","WLF",1990,72,NA
+"3588","Wallis and Futuna","WLF",1995,81,NA
+"3589","Wallis and Futuna","WLF",2000,73,NA
+"3590","Wallis and Futuna","WLF",2005,77,NA
+"3591","Wallis and Futuna","WLF",2010,82,NA
+"3592","Wallis and Futuna","WLF",2015,74,NA
+"3593","Wallis and Futuna","WLF",2020,80,NA
+"3594","Wallis and Futuna","WLF",2021,86,NA
+"3595","Western Sahara","ESH",1955,575,NA
+"3596","Western Sahara","ESH",1960,870,NA
+"3597","Western Sahara","ESH",1965,1196,NA
+"3598","Western Sahara","ESH",1970,1585,NA
+"3599","Western Sahara","ESH",1975,1930,NA
+"3600","Western Sahara","ESH",1980,2476,NA
+"3601","Western Sahara","ESH",1985,2384,NA
+"3602","Western Sahara","ESH",1990,1789,NA
+"3603","Western Sahara","ESH",1995,1713,NA
+"3604","Western Sahara","ESH",2000,2028,NA
+"3605","Western Sahara","ESH",2005,2318,NA
+"3606","Western Sahara","ESH",2010,2605,NA
+"3607","Western Sahara","ESH",2015,2962,NA
+"3608","Western Sahara","ESH",2020,3422,NA
+"3609","Western Sahara","ESH",2021,3497,NA
+"3610","World","OWID_WRL",1955,46966096,NA
+"3611","World","OWID_WRL",1960,54973676,NA
+"3612","World","OWID_WRL",1965,48459856,NA
+"3613","World","OWID_WRL",1970,48534130,NA
+"3614","World","OWID_WRL",1975,47592760,NA
+"3615","World","OWID_WRL",1980,47316612,NA
+"3616","World","OWID_WRL",1985,48685436,NA
+"3617","World","OWID_WRL",1990,49619696,NA
+"3618","World","OWID_WRL",1995,51355460,NA
+"3619","World","OWID_WRL",2000,52099820,NA
+"3620","World","OWID_WRL",2005,53213356,NA
+"3621","World","OWID_WRL",2010,54329196,NA
+"3622","World","OWID_WRL",2015,55893036,NA
+"3623","World","OWID_WRL",2020,63174308,NA
+"3624","World","OWID_WRL",2021,69248160,NA
+"3625","Yemen","YEM",1955,174542,NA
+"3626","Yemen","YEM",1960,183430,NA
+"3627","Yemen","YEM",1965,192675,NA
+"3628","Yemen","YEM",1970,181941,NA
+"3629","Yemen","YEM",1975,174116,NA
+"3630","Yemen","YEM",1980,162364,NA
+"3631","Yemen","YEM",1985,150161,NA
+"3632","Yemen","YEM",1990,149896,NA
+"3633","Yemen","YEM",1995,155545,NA
+"3634","Yemen","YEM",2000,148282,NA
+"3635","Yemen","YEM",2005,136925,NA
+"3636","Yemen","YEM",2010,138724,NA
+"3637","Yemen","YEM",2015,175134,NA
+"3638","Yemen","YEM",2020,210426,NA
+"3639","Zambia","ZMB",1960,53971,NA
+"3640","Zambia","ZMB",1965,59445,NA
+"3641","Zambia","ZMB",1970,66744,NA
+"3642","Zambia","ZMB",1975,67571,NA
+"3643","Zambia","ZMB",1980,77525,NA
+"3644","Zambia","ZMB",1985,97818,NA
+"3645","Zambia","ZMB",1990,127934,NA
+"3646","Zambia","ZMB",1995,151823,NA
+"3647","Zambia","ZMB",2000,166997,NA
+"3648","Zambia","ZMB",2005,146214,NA
+"3649","Zambia","ZMB",2010,127079,NA
+"3650","Zambia","ZMB",2015,116885,NA
+"3651","Zambia","ZMB",2020,124943,NA
+"3652","Zambia","ZMB",2021,135787,NA
+"3653","Zimbabwe","ZWE",1955,51336,NA
+"3654","Zimbabwe","ZWE",1960,54201,NA
+"3655","Zimbabwe","ZWE",1965,55967,NA
+"3656","Zimbabwe","ZWE",1970,59680,NA
+"3657","Zimbabwe","ZWE",1975,69080,NA
+"3658","Zimbabwe","ZWE",1980,75903,NA
+"3659","Zimbabwe","ZWE",1985,73793,NA
+"3660","Zimbabwe","ZWE",1990,88462,NA
+"3661","Zimbabwe","ZWE",1995,141216,NA
+"3662","Zimbabwe","ZWE",2000,200034,NA
+"3663","Zimbabwe","ZWE",2005,206992,NA
+"3664","Zimbabwe","ZWE",2010,171444,NA
+"3665","Zimbabwe","ZWE",2015,124445,NA
+"3666","Zimbabwe","ZWE",2020,127551,NA
